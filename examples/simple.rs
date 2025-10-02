@@ -1,10 +1,7 @@
 use novel_lang::parser::file;
 
 fn main() {
-    let input = r#"Hello
-There
-== Scene 01 ==
-Hello there!"#;
+    let input = include_str!("./test.nov");
 
     let f = file(input);
 
