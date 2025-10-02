@@ -4,6 +4,7 @@ name = "novel-lang"
 version = "0.1.0"
 
 [dependencies]
+hypertext = "0.12.1"
 nom = {version = "8.0.0", optional = true}
 
 [features]

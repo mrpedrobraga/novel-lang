@@ -3,14 +3,14 @@ use {
     nom::{
         IResult, Parser,
         branch::alt,
-        bytes::{complete::take_until, tag},
+        bytes::{complete::take_until1, tag},
         character::{
             anychar,
-            complete::{alpha1, alphanumeric1, line_ending, multispace0, newline, none_of, space0},
+            complete::{alphanumeric1, line_ending, multispace0, newline, none_of, space0},
         },
-        combinator::{complete, eof, map, opt},
-        multi::{many_till, many0, many1, separated_list0, separated_list1},
-        sequence::{delimited, separated_pair},
+        combinator::{complete, eof, map, not, opt, peek},
+        multi::{many_till, many1, separated_list0, separated_list1},
+        sequence::{delimited, preceded},
     },
     std::collections::HashMap,
 };
@@ -36,42 +36,39 @@ pub fn file(input: &str) -> IResult<&str, File> {
 }
 
 fn frontmatter(input: &str) -> IResult<&str, HashMap<String, Value>> {
-    let parser = delimited(
-        tag("---"),
-        many0(separated_pair(map(alpha1, &str::to_owned), tag(":"), value)),
-        tag("---"),
+    delimited((tag("---"), newline), key_value_list, (newline, tag("---"))).parse(input)
+}
+
+fn key_value_list(input: &str) -> IResult<&str, HashMap<String, Value>> {
+    let kv_entry = map(
+        (identifier, space0, tag(":"), space0, value),
+        |(id, _, _, _, value)| (id, value),
     );
 
-    map(parser, |x| {
-        x.into_iter().collect::<HashMap<String, Value>>()
+    map(separated_list0(newline, kv_entry), |entries| {
+        entries.into_iter().collect::<HashMap<_, _>>()
     })
     .parse(input)
 }
 
 fn value(input: &str) -> IResult<&str, Value> {
-    map(alpha1, |x: &str| {
-        Value::RichText(RichText(vec![RichTextPart::Text(x.to_owned())]))
-    })
-    .parse(input)
+    alt((map(rich_text, Value::RichText),)).parse(input)
 }
 
 fn scene(input: &str) -> IResult<&str, Scene> {
     let header = delimited(
         tag("=="),
-        map(take_until("=="), |name: &str| name.trim().to_owned()),
+        opt(map(take_until1("=="), |name: &str| name.trim().to_owned())),
         (tag("=="), line_ending),
     );
 
+    let meta = key_value_list;
+
     let items = separated_list1((newline, multispace0), scene_item);
 
-    let parser = (header, multispace0, items);
+    let parser = (header, meta, multispace0, items);
 
-    map(parser, |(name, _, items)| Scene {
-        name,
-        meta: Default::default(),
-        items,
-    })
-    .parse(input)
+    map(parser, |(name, meta, _, items)| Scene { name, meta, items }).parse(input)
 }
 
 fn scene_item(input: &str) -> IResult<&str, SceneItem> {
@@ -119,7 +116,7 @@ fn dialogue(input: &str) -> IResult<&str, SceneItem> {
 }
 
 fn rich_text(input: &str) -> IResult<&str, RichText> {
-    let parser = many1(none_of("\r\n"));
+    let parser = preceded(peek(not(tag("=="))), many1(none_of("\r\n")));
     map(parser, |text| {
         RichText(vec![RichTextPart::Text(text.iter().collect::<String>())])
     })

@@ -19,7 +19,7 @@ pub enum Value {
 
 #[derive(Debug, PartialEq, Clone)]
 pub struct Scene {
-    pub name: String,
+    pub name: Option<String>,
     pub meta: HashMap<Identifier, Value>,
     pub items: Vec<SceneItem>,
 }
@@ -47,7 +47,7 @@ pub struct RichText(pub Vec<RichTextPart>);
 pub enum RichTextPart {
     Text(String),
     Reference(Reference),
-    FormattedSection(FormattingTag, Vec<RichTextPart>),
+    FormattedSection(FormattingTag, RichText),
 }
 
 #[derive(Debug, PartialEq, Clone)]

@@ -1,0 +1,200 @@
+:root,
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    font-family: Courier Prime, Courier;
+    font-size: 12pt;
+    line-height: 1;
+    max-width: 6in;
+    margin-inline: auto;
+    -webkit-text-size-adjust: none;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen {
+    main {
+        margin-block-end: 50dvh;
+    }
+}
+
+main h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+main a {
+    color: inherit;
+}
+
+main .underline {
+    text-decoration: underline;
+}
+
+main .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    break-after: always;
+    height: 20rem;
+}
+
+@media print {
+    main .header {
+        height: 100dvh;
+    }
+}
+
+main .header .title {
+    text-align: center;
+}
+
+main .header .subtitle {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+main .section-heading {
+    text-align: center;
+}
+
+main .section-heading:hover {
+    background-color: lightyellow;
+}
+
+main .scene {
+    display: flex;
+    flex-direction: column;
+    margin-block-end: 2rem;
+    position: relative;
+}
+
+main .scene-name {
+    background-color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    position: sticky;
+    top: 0;
+    padding: 0.5rem;
+    z-index: 3;
+}
+
+main .scene-name:hover {
+    background-color: lightyellow;
+}
+
+main .scene-items {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+main .scene-item-tagged-action {
+    color: var(--color);
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    align-self: flex-end;
+    line-height: 1;
+}
+
+main .scene-item-tagged-action-tag {
+    background-color: var(--color);
+    color: white;
+    padding-inline: 0.5rem;
+    font-weight: bolder;
+}
+
+main .scene-item-tagged-action.tag-bgm {
+    --color: cornflowerblue;
+}
+
+main .tag-bgm .scene-item-tagged-action-content::before {
+    content: "🎼";
+    margin-inline-end: 0.5rem;
+    display: inline-block;
+    transform: translateY(1px);
+}
+
+main .scene-item-tagged-action.tag-cam {
+    --color: cadetblue;
+    text-transform: uppercase;
+}
+
+main .tag-cam .scene-item-tagged-action-content::before {
+    content: "🎥";
+    margin-inline-end: 0.5rem;
+}
+
+main .scene-item-tagged-action.tag-trans {
+    --color: black;
+}
+
+main .scene-item-action-line {}
+
+main .scene-item-dialogue {
+    margin-inline-start: 10rem;
+}
+
+main .scene-item-dialogue:not(:has(~ .scene-item-dialogue)) {
+    margin-block-end: 2rem;
+}
+
+main .scene-item-new-current-speaker {
+    margin-inline-start: 16rem;
+    text-transform: uppercase;
+    color: brown;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+main .scene-item-new-current-speaker:has(+ .scene-item-dialogue) {
+    margin-block-end: -1rem;
+}
+
+main .scene-item-dialogue:has(+ .scene-item-dialogue) {
+    margin-block-end: -1rem;
+}
+
+main .scene-item-dialogue .parenthetical {
+    max-width: 2in;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 15%;
+    text-indent: -0.6em;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+}
+
+main .todo::before {
+    content: "{...}";
+    opacity: 50%;
+}
+
+main .scene-item-comment {
+    display: block;
+    font-size: 11pt;
+    font-family: "Comic Sans MS", "Marker Felt", "sans-serif";
+    line-height: 1.5;
+    background-color: lightgoldenrodyellow;
+    opacity: 50%;
+}
+
+main .center {
+    text-align: center;
+    white-space: pre-wrap;
+}
