@@ -38,10 +38,17 @@ pub enum SceneItem {
 #[derive(Debug, PartialEq, Clone)]
 pub struct Reference {
     pub referent: String,
+    pub alias: Option<String>,
 }
 
 #[derive(Debug, PartialEq, Clone)]
 pub struct RichText(pub Vec<RichTextPart>);
+
+impl RichText {
+    pub fn merge(self, other: RichText) -> Self {
+        RichText([self.0, other.0].concat())
+    }
+}
 
 #[derive(Debug, PartialEq, Clone)]
 pub enum RichTextPart {

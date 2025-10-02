@@ -14,6 +14,7 @@ main {
     -webkit-text-size-adjust: none;
     display: flex;
     flex-direction: column;
+    --color: black;
 }
 
 @media screen {
@@ -87,7 +88,12 @@ main .scene-name {
     position: sticky;
     top: 0;
     padding: 0.5rem;
+    margin-inline-start: -1rem;
     z-index: 3;
+}
+
+main .marker {
+    visibility: hidden;
 }
 
 main .scene-name:hover {
@@ -107,6 +113,8 @@ main .scene-item-tagged-action {
     gap: 0.5rem;
     align-self: flex-end;
     line-height: 1;
+    max-width: 50%;
+    break-inside: avoid;
 }
 
 main .scene-item-tagged-action-tag {
@@ -114,9 +122,14 @@ main .scene-item-tagged-action-tag {
     color: white;
     padding-inline: 0.5rem;
     font-weight: bolder;
+    align-self: flex-start;
 }
 
 main .scene-item-tagged-action.tag-bgm {
+    --color: cornflowerblue;
+}
+
+main .scene-item-tagged-action.tag-sfx {
     --color: cornflowerblue;
 }
 
@@ -141,10 +154,13 @@ main .scene-item-tagged-action.tag-trans {
     --color: black;
 }
 
-main .scene-item-action-line {}
+main .scene-item-action-line {
+    break-inside: avoid;
+}
 
 main .scene-item-dialogue {
-    margin-inline-start: 10rem;
+    margin-inline-start: 5rem;
+    break-inside: avoid;
 }
 
 main .scene-item-dialogue:not(:has(~ .scene-item-dialogue)) {
@@ -152,7 +168,7 @@ main .scene-item-dialogue:not(:has(~ .scene-item-dialogue)) {
 }
 
 main .scene-item-new-current-speaker {
-    margin-inline-start: 16rem;
+    margin-inline-start: 10rem;
     text-transform: uppercase;
     color: brown;
     text-decoration: none;
@@ -178,6 +194,10 @@ main .scene-item-dialogue .parenthetical {
     text-indent: -0.6em;
     page-break-inside: avoid;
     page-break-after: avoid;
+}
+
+main .reference:hover {
+    color: blue;
 }
 
 main .todo::before {

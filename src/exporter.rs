@@ -38,6 +38,7 @@ fn r_scene(scene: &Scene, idx: usize) -> impl Renderable {
                     scene.name.clone().unwrap_or_else(|| format!("Scene {}", idx)))
                 )
             }
+            div class="marker" id=(scene.name.as_ref().map(|name| name.replace(" ", "_"))) {}
             div class="scene-items" {
                 @for item in scene.items.iter() {
                     (r_item(item))
@@ -81,7 +82,9 @@ fn r_rich_text_part(rich_text_part: &RichTextPart) -> impl Renderable {
     maud! {
         @match rich_text_part {
             RichTextPart::Text(text) => (text),
-            RichTextPart::Reference(_) => div class="todo" {},
+            RichTextPart::Reference (
+                reference
+            ) => a class="reference" href=(reference.referent) { (reference.alias.as_ref().unwrap_or(&reference.referent)) },
             RichTextPart::FormattedSection(formatting_tag, rich_text) =>
                 @match formatting_tag {
                     crate::types::FormattingTag::Bold => {

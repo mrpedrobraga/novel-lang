@@ -8,7 +8,7 @@ use {
             anychar,
             complete::{alphanumeric1, line_ending, multispace0, newline, none_of, space0},
         },
-        combinator::{complete, eof, map, not, opt, peek},
+        combinator::{complete, eof, map, opt},
         multi::{many_till, many1, separated_list0, separated_list1},
         sequence::{delimited, preceded},
     },
@@ -83,7 +83,10 @@ fn scene_item(input: &str) -> IResult<&str, SceneItem> {
 }
 
 fn action_line(input: &str) -> IResult<&str, SceneItem> {
-    map(rich_text, SceneItem::ActionLine).parse(input)
+    map(many1(rich_text), |rich_texts| {
+        SceneItem::ActionLine(rich_texts.into_iter().reduce(RichText::merge).unwrap())
+    })
+    .parse(input)
 }
 
 fn tagged_action_line(input: &str) -> IResult<&str, SceneItem> {
@@ -116,25 +119,39 @@ fn dialogue(input: &str) -> IResult<&str, SceneItem> {
 }
 
 fn rich_text(input: &str) -> IResult<&str, RichText> {
-    let parser = preceded(peek(not(tag("=="))), many1(none_of("\r\n")));
+    let parser = many1(complete(alt((
+        rich_text_part_reference,
+        rich_text_part_text,
+    ))));
+    map(parser, RichText).parse(input)
+}
+
+fn rich_text_part_reference(input: &str) -> IResult<&str, RichTextPart> {
+    let parser = delimited(tag("["), reference, tag("]"));
+    map(parser, RichTextPart::Reference).parse(input)
+}
+
+fn rich_text_part_text(input: &str) -> IResult<&str, RichTextPart> {
+    let parser = many1(none_of("\r\n=[]"));
     map(parser, |text| {
-        RichText(vec![RichTextPart::Text(text.iter().collect::<String>())])
+        RichTextPart::Text(text.iter().collect::<String>())
     })
     .parse(input)
 }
 
 fn new_current_speaker(input: &str) -> IResult<&str, SceneItem> {
-    map(
-        (tag("["), space0, reference, space0, tag("]")),
-        |(_, _, reference, _, _)| SceneItem::NewCurrentSpeaker(reference),
-    )
-    .parse(input)
+    let parser = delimited(tag("["), reference, tag("]"));
+    map(parser, SceneItem::NewCurrentSpeaker).parse(input)
 }
 
 fn reference(input: &str) -> IResult<&str, Reference> {
-    map(identifier, |id| Reference {
-        referent: id.to_string(),
-    })
+    let referent = map(many1(none_of("\r\n=|]")), |x| x.iter().collect::<String>());
+    let alias = map(many1(none_of("\r\n=]")), |x| x.iter().collect::<String>());
+
+    map(
+        (referent, opt(preceded(tag("|"), alias))),
+        |(referent, alias)| Reference { referent, alias },
+    )
     .parse(input)
 }
 
