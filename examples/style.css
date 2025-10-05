@@ -113,7 +113,7 @@ main .scene-item-tagged-action {
     gap: 0.5rem;
     align-self: flex-end;
     line-height: 1;
-    max-width: 50%;
+    max-width: 60%;
     break-inside: avoid;
 }
 
@@ -123,6 +123,12 @@ main .scene-item-tagged-action-tag {
     padding-inline: 0.5rem;
     font-weight: bolder;
     align-self: flex-start;
+}
+
+main .scene-item-tagged-action.tag-chyron {
+    --color: black;
+    align-self: flex-start;
+    max-width: unset;
 }
 
 main .scene-item-tagged-action.tag-bgm {
@@ -208,7 +214,7 @@ main .todo::before {
 main .scene-item-comment {
     display: block;
     font-size: 11pt;
-    font-family: "Comic Sans MS", "Marker Felt", "sans-serif";
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     background-color: lightgoldenrodyellow;
     opacity: 50%;

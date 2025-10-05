@@ -4,7 +4,7 @@ use {
 };
 
 fn main() {
-    let input = include_str!("./test.nov");
+    let input = include_str!("./example.nov");
 
     let f = file(input);
 

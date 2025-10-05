@@ -35,7 +35,7 @@ fn r_scene(scene: &Scene, idx: usize) -> impl Renderable {
                 (
                     format!("{}. {}",
                     idx + 1,
-                    scene.name.clone().unwrap_or_else(|| format!("Scene {}", idx)))
+                    scene.name.clone().unwrap_or_else(|| format!("Scene {}", idx + 1)))
                 )
             }
             div class="marker" id=(scene.name.as_ref().map(|name| name.replace(" ", "_"))) {}
@@ -48,6 +48,14 @@ fn r_scene(scene: &Scene, idx: usize) -> impl Renderable {
     }
 }
 
+fn format_contd(speaker_string: &str) -> &str {
+    if speaker_string == "&" {
+        return "CONT'D";
+    }
+
+    speaker_string
+}
+
 fn r_item(scene_item: &SceneItem) -> impl Renderable {
     maud! {
         @match scene_item {
@@ -55,7 +63,7 @@ fn r_item(scene_item: &SceneItem) -> impl Renderable {
                 div class="scene-item-action-line" {
                     (r_rich_text(rich_text))
                 }
-            SceneItem::NewCurrentSpeaker(reference) => a class="scene-item-new-current-speaker" href="#" {(reference.referent)},
+            SceneItem::NewCurrentSpeaker(reference) => a class="scene-item-new-current-speaker" href="#" {(format_contd(&reference.referent))},
             SceneItem::Dialogue(rich_text) => div class="scene-item-dialogue" {(r_rich_text(rich_text))},
             SceneItem::Comment(rich_text) => div class="scene-item-comment" {(r_rich_text(rich_text))},
             SceneItem::TaggedAction(tag, rich_text) => div class=(format!("scene-item-tagged-action tag-{}", tag.to_lowercase())) {
