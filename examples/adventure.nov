@@ -1,0 +1,34 @@
+ADVENTURE
+by Pedro Braga
+
+====
+
+This is the start of a funky little adventure. Get your seats ready, folks!
+
+First, tell me... how should we refer to you?
+
+> PROMPT: Player gets prompted for their name ({User}) and pronouns.
+
+{User} walks into view with a cheeky smile. It's {their} first day at this job.
+
+What will {they} pick up first?
+
+@IF Banana @CONT Banana Scene
+@IF Apple @CONT Apple Scene
+@IF Key @CONT Key Scene
+
+== Banana Scene ==
+
+{User} picks up the banana. It is so slippery it falls and splats.
+
+== Apple Scene ==
+
+{User} picks up then pockets the apple.
+
+@SET Has Apple
+
+== Key ==
+
+{User} picks up the glistering key.
+
+@SET Has Key
