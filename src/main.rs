@@ -1,7 +1,7 @@
 use {
     crate::server::LanguageBackend,
     clap::{Parser, Subcommand},
-    std::path::{Path, PathBuf},
+    std::path::PathBuf,
 };
 
 pub mod exporter;
@@ -9,7 +9,8 @@ pub mod parser;
 pub mod server;
 pub mod types;
 
-fn main() {
+#[tokio::main]
+async fn main() {
     let cli = Cli::parse();
 
     if let Some(command) = cli.command {
@@ -18,7 +19,7 @@ fn main() {
                 let _ = print_file(input, output);
             }
             Commands::Serve {} => {
-                start_language_server();
+                start_language_server().await;
             }
         }
     } else {
@@ -66,18 +67,12 @@ fn print_file(input: PathBuf, output: Option<PathBuf>) -> std::io::Result<()> {
 }
 
 /// Starts the novel language server.
-fn start_language_server() {
-    tokio::runtime::Builder::new_current_thread()
-        .enable_all()
-        .build()
-        .unwrap()
-        .block_on(async {
-            let stdin = tokio::io::stdin();
-            let stdout = tokio::io::stdout();
+async fn start_language_server() {
+    let stdin = tokio::io::stdin();
+    let stdout = tokio::io::stdout();
 
-            let (service, socket) = tower_lsp::LspService::new(|client| LanguageBackend { client });
-            tower_lsp::Server::new(stdin, stdout, socket)
-                .serve(service)
-                .await;
-        })
+    let (service, socket) = tower_lsp::LspService::new(|client| LanguageBackend { client });
+    tower_lsp::Server::new(stdin, stdout, socket)
+        .serve(service)
+        .await;
 }

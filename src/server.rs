@@ -27,7 +27,7 @@ impl LanguageServer for LanguageBackend {
         Ok(Some(Hover {
             contents: HoverContents::Markup(MarkupContent {
                 kind: MarkupKind::Markdown,
-                value: "This is novel text!".to_owned(),
+                value: "This is some `novel` text, yo!".to_owned(),
             }),
             range: None,
         }))
