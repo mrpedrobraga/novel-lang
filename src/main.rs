@@ -1,10 +1,12 @@
 use {
+    crate::server::LanguageBackend,
     clap::{Parser, Subcommand},
     std::path::{Path, PathBuf},
 };
 
 pub mod exporter;
 pub mod parser;
+pub mod server;
 pub mod types;
 
 fn main() {
@@ -14,6 +16,9 @@ fn main() {
         match command {
             Commands::Print { input, output } => {
                 let _ = print_file(input, output);
+            }
+            Commands::Serve {} => {
+                start_language_server();
             }
         }
     } else {
@@ -40,6 +45,7 @@ enum Commands {
         #[arg(short, long)]
         output: Option<PathBuf>,
     },
+    Serve {},
 }
 
 // --- //
@@ -57,4 +63,21 @@ fn print_file(input: PathBuf, output: Option<PathBuf>) -> std::io::Result<()> {
     }
 
     Ok(())
+}
+
+/// Starts the novel language server.
+fn start_language_server() {
+    tokio::runtime::Builder::new_current_thread()
+        .enable_all()
+        .build()
+        .unwrap()
+        .block_on(async {
+            let stdin = tokio::io::stdin();
+            let stdout = tokio::io::stdout();
+
+            let (service, socket) = tower_lsp::LspService::new(|client| LanguageBackend { client });
+            tower_lsp::Server::new(stdin, stdout, socket)
+                .serve(service)
+                .await;
+        })
 }
