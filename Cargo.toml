@@ -2,6 +2,8 @@
 edition = "2024"
 name = "novel-lang"
 version = "0.0.1"
+description = "Toolchain for the 'novel-lang' markup language for writing scripts."
+license = "MIT"
 
 [[bin]]
 name = "novel"
