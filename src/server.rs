@@ -1,4 +1,5 @@
 use tower_lsp::jsonrpc::Result;
+use tower_lsp::lsp_types::request::Completion;
 use tower_lsp::lsp_types::*;
 use tower_lsp::{Client, LanguageServer};
 
@@ -31,5 +32,11 @@ impl LanguageServer for LanguageBackend {
             }),
             range: None,
         }))
+    }
+
+    async fn completion(&self, _: CompletionParams) -> Result<Option<CompletionResponse>> {
+        Ok(Some(CompletionResponse::Array(vec![
+            CompletionItem::new_simple("NEW SCENE".to_string(), "Creates a new scene.".to_string()),
+        ])))
     }
 }

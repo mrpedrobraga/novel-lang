@@ -10,20 +10,23 @@ use {
         },
         combinator::{complete, eof, map, opt},
         multi::{many_till, many1, separated_list0, separated_list1},
-        sequence::{delimited, preceded},
+        sequence::{delimited, preceded, terminated},
     },
     std::collections::HashMap,
 };
 
 pub fn file(input: &str) -> IResult<&str, File> {
-    let parser = (
-        opt(frontmatter),
-        opt(line),
-        opt(line),
-        separated_list0(
-            multispace0,
-            complete(delimited(multispace0, scene, multispace0)),
+    let parser = terminated(
+        (
+            opt(frontmatter),
+            opt(line),
+            opt(line),
+            separated_list0(
+                multispace0,
+                complete(delimited(multispace0, scene, multispace0)),
+            ),
         ),
+        multispace0,
     );
 
     map(parser, |(frontmatter, title, subtitle, scenes)| File {
