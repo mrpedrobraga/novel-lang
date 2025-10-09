@@ -6,7 +6,7 @@ use {
         bytes::{complete::take_until1, tag},
         character::{
             anychar,
-            complete::{alphanumeric1, line_ending, multispace0, newline, none_of, space0},
+            complete::{alphanumeric1, line_ending, multispace0, newline, none_of, space0, space1},
         },
         combinator::{complete, eof, map, opt},
         multi::{many_till, many1, separated_list0, separated_list1},
@@ -18,9 +18,7 @@ use {
 pub fn file(input: &str) -> IResult<&str, File> {
     let parser = terminated(
         (
-            opt(frontmatter),
-            opt(line),
-            opt(line),
+            opt(key_value_list),
             separated_list0(
                 multispace0,
                 complete(delimited(multispace0, scene, multispace0)),
@@ -29,17 +27,11 @@ pub fn file(input: &str) -> IResult<&str, File> {
         multispace0,
     );
 
-    map(parser, |(frontmatter, title, subtitle, scenes)| File {
-        title,
-        subtitle,
+    map(parser, |(frontmatter, scenes)| File {
         frontmatter,
         scenes,
     })
     .parse(input)
-}
-
-fn frontmatter(input: &str) -> IResult<&str, HashMap<String, Value>> {
-    delimited((tag("---"), newline), key_value_list, (newline, tag("---"))).parse(input)
 }
 
 fn key_value_list(input: &str) -> IResult<&str, HashMap<String, Value>> {
@@ -75,31 +67,19 @@ fn scene(input: &str) -> IResult<&str, Scene> {
 }
 
 fn scene_item(input: &str) -> IResult<&str, SceneItem> {
-    alt((
-        comment,
-        tagged_action_line,
-        dialogue,
-        new_current_speaker,
-        action_line,
-    ))
-    .parse(input)
+    alt((comment, tagged_action_line, dialogue_block, action_block)).parse(input)
 }
 
-fn action_line(input: &str) -> IResult<&str, SceneItem> {
-    map(many1(rich_text), |rich_texts| {
-        SceneItem::ActionLine(rich_texts.into_iter().reduce(RichText::merge).unwrap())
+fn action_block(input: &str) -> IResult<&str, SceneItem> {
+    map(rich_text_block, |lines| {
+        SceneItem::ActionBlock(lines.into_iter().fold(RichText(vec![]), RichText::merge))
     })
     .parse(input)
 }
 
 fn tagged_action_line(input: &str) -> IResult<&str, SceneItem> {
     map(
-        (
-            delimited(space0, tag(">"), space0),
-            identifier,
-            delimited(space0, tag(":"), space0),
-            rich_text,
-        ),
+        delimited(space0, (tag("#"), identifier, space1, rich_text), space0),
         |(_, tag, _, rich_text)| SceneItem::TaggedAction(tag, rich_text),
     )
     .parse(input)
@@ -108,17 +88,24 @@ fn tagged_action_line(input: &str) -> IResult<&str, SceneItem> {
 fn comment(input: &str) -> IResult<&str, SceneItem> {
     map(
         (delimited(space0, tag("//"), space0), rich_text),
-        |(_, rich_text)| SceneItem::Comment(rich_text),
+        |(_, rich_text)| SceneItem::SpoilerBlock(rich_text),
     )
     .parse(input)
 }
 
-fn dialogue(input: &str) -> IResult<&str, SceneItem> {
+fn dialogue_block(input: &str) -> IResult<&str, SceneItem> {
     map(
-        (delimited(space0, tag("-"), space0), rich_text),
-        |(_, rich_text)| SceneItem::Dialogue(rich_text),
+        (
+            delimited(tag("["), reference, tag("]")),
+            preceded(line_ending, rich_text_block),
+        ),
+        |(speaker, block)| SceneItem::DialogueBlock { speaker, block },
     )
     .parse(input)
+}
+
+fn rich_text_block(input: &str) -> IResult<&str, Vec<RichText>> {
+    separated_list0(line_ending, rich_text).parse(input)
 }
 
 fn rich_text(input: &str) -> IResult<&str, RichText> {
@@ -130,7 +117,7 @@ fn rich_text(input: &str) -> IResult<&str, RichText> {
 }
 
 fn rich_text_part_reference(input: &str) -> IResult<&str, RichTextPart> {
-    let parser = delimited(tag("["), reference, tag("]"));
+    let parser = delimited(tag("[["), reference, tag("]]"));
     map(parser, RichTextPart::Reference).parse(input)
 }
 
@@ -140,11 +127,6 @@ fn rich_text_part_text(input: &str) -> IResult<&str, RichTextPart> {
         RichTextPart::Text(text.iter().collect::<String>())
     })
     .parse(input)
-}
-
-fn new_current_speaker(input: &str) -> IResult<&str, SceneItem> {
-    let parser = delimited(tag("["), reference, tag("]"));
-    map(parser, SceneItem::NewCurrentSpeaker).parse(input)
 }
 
 fn reference(input: &str) -> IResult<&str, Reference> {
