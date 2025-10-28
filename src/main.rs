@@ -6,6 +6,7 @@ use {
 
 pub mod exporter;
 pub mod parser;
+pub mod player;
 pub mod server;
 pub mod types;
 
@@ -31,6 +32,11 @@ async fn main() {
                         std::fs::write(path.as_path(), html).unwrap();
                     }
                 }
+            }
+            Commands::Play { input } => {
+                let raw = std::fs::read_to_string(&input).unwrap();
+                let (_, file) = crate::parser::file(&raw).unwrap();
+                player::play(file);
             }
             Commands::Serve {} => {
                 start_language_server().await;
@@ -63,6 +69,10 @@ enum Commands {
         path: Option<PathBuf>,
     },
     Serve {},
+    Play {
+        #[arg(short, long)]
+        input: PathBuf,
+    },
 }
 
 #[derive(ValueEnum, Clone, Default)]

@@ -165,7 +165,7 @@ Okay...
 
 [The Mystery Kid]
 And you'll be home before you know it, luv!
-But, now, it's time to get you to [important]the other side[/important].
+But, now, it's time to get you to **the other side**.
 The way home might be dangerous... and a bit chilly, but, what the heck!
 You can do it, I know it!
 There's an 100% chance that you'll maybe survive!
@@ -176,39 +176,50 @@ The entire table with Mystery Kid and Piérre float up
 with a comedic whistle noise.
 
 == Mirror ==
+[Narration]
 It's you... NOT!
 The mirror is too matte to see anything.
 
 == Boombox ==
+[Narration]
 It's a boom... paralelepiped?
 
 == Spilled Coffee 1 ==
+[Narration]
 Caution. The floor is coffee'd.
 
 == Spilled Coffee 2 ==
+[Narration]
 No use crying over spilled coffee.
 
 == Clothes Rack 1 ==
+[Narration]
 Several glimmering black suits with red-and-blue bowties.
 
 == Clothes Rack 2 ==
+[Narration]
 It's not yet time for you to wear a suit.
 
 == VHS ==
+[Narration]
 A stack of video-cassetes.
 It seems like it consists of sitcoms, but spliced to contain only the laugh tracks.
 
 == Garbage 1 ==
+[Narration]
 Ew, it's trash.
 
 == Garbage 2 ==
+[Narration]
 If the trash can, so can you!
 
 == Papers 1 ==
+[Narration]
 It's several pages of paper written on with glitter pens.
 In it, alternate scripts for this very encounter.
 ...and a bunch of drawings of people in elaborate suits.
 
 == Papers 2 ==
+[Narration]
 One of the papers catches your eyes.
 It reads: "Stop looking at my stuff and get out already!"
