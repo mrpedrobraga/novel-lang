@@ -492,6 +492,8 @@ Woah... nice pull...
 
 (APD) The two of them continue to walk until they run into a patio, where all the previously floating entities seem to have gathered on the floor. Claire looks at them intensely.
 
+Underneath them, there is a gaping hole in the ground, like something with a giant claw tore a wound into the plane of the floor.
+
 [Andy]
 Told you they were sleeping.
 
@@ -508,10 +510,18 @@ Huh? I don't know what to think, man...
 
 [Andy]
 I think it's aliens.
-Aliens came to Earth and replaced all the students with clones.
+Aliens sprouted from the Earth's core and replaced all the students with clones.
 Either that or it's theater club rehersal.
 
 [Claire]
+Let's just keep walking.
+
+They take a step.
+
+[Claire]
+Wait if they've come from Earth they're not aliens then.
+
+[Andy]
 Let's just keep walking.
 
 == Fetch Quest ==
@@ -553,7 +563,9 @@ Claire brandishes the keychain in the air.
 [Andy]
 Oh, give that to me, let me see.
 
-Claire pockets the key. The game explains "you can press Z to access the inventory."
+Claire pockets the key. Narration reads "'Principal's Keys' was added to your KEY items."
+
+// There's a subtle UI gag where there's a normal items section, a KEY items and then an IMPORTANT items. The KEY items section is exclusively for KEYs.
 
 // This interaction in particular teaches you to _use_ items on specific things. You must _use_ the key on Andy to progress.
 
@@ -996,6 +1008,7 @@ Cheerios!
 #TRANS Smash cut
 
 == The Forest ==
+Where: Zenith Forest
 
 Claire stands around in the moonlit forest, just outside of the school. Her image stands out against the background, emitting no shadow, like a poor 1980s VFX overlay. She's astral projecting, though she does not know.
 
@@ -1035,6 +1048,7 @@ Where are we going?
 Pierre lets out a soft meow and bolts in between the trees. Claire picks up her pace and soon she finds a curious path. Very tensely, she walks over a big trunk laid down as a bridge overr the creek. And then she finds herself in a clearing in the forest.
 
 == The Gateway ==
+Where: The Treehouse
 
 // Wonder if people will recognise the treehouse from the [[#Setting_The_Tone|first scene]].
 
@@ -1088,7 +1102,11 @@ Music starts to swell with a magigc orchestral sound.
 
 #CHYRON Into The Other Side
 
-====
+// From now on, a few things change.
+// Opening the UI now shows an empty "DP" gauge underneath the HP gauge.
+
+== Is This A Dream ==
+Where: Hearthaven
 
 Claire remains looking at the city for a moment. She stands still, finally allowing herself to calm down. Pierre jumps onto the handrail and she pets him without moving her gaze.
 
@@ -1130,6 +1148,9 @@ Pierre jumps from the handrail onto the ground and down the stairs that lead to 
 (APD) Claire walks down toward the city.
 
 == Foreigner ==
+Where: Hearthaven
+
+#BGM Hearthaven
 
 As the walks into the city, the people look at her with intrigue. She feels a bit uncomfortable with the sudden attention.
 
@@ -1153,3 +1174,788 @@ Oh, my! My eyes must deceive me!
 And retreats into her building.
 
 (APD) Claire continues walking until she reaches the village fountain bridge.
+
+There, she sees Evelyn shaking her arms in heightened emotion, telling two other kids ([[Erica]] and [[Enzo]]) about something.
+
+When Claire gets closer, she can just about make it out.
+
+[Evelyn]
+You gotta come! You gotta _see_ it!!!
+
+[Enzo]
+Hey, hey, lay it out already!
+
+[Evelyn]
+No! You're not gonna believe me if I _tell_ you! Come see her!
+
+[Enzo]
+Her who???
+
+Evelyn grabs Enzo's hand and pulls him toward the right, but then sees Claire is Right There.
+
+[Evelyn]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!
+
+[Claire]
+(thinking)
+What is so shocking about me???
+
+[Enzo]
+A... a foreigner...?
+
+[Evelyn]
+A foreigner? She's not just any foreigner! Look closer.
+
+The three children gather close to her.
+
+[Enzo]
+(too close)
+She does look good for a foreigner.
+
+[Claire]
+Uh. Oh. Hi...
+
+[Evelyn]
+She SOUNDS good!
+
+[Erica]
+(sniffs her hair)
+She smells good, too!
+
+[Claire]
+(thinking)
+What is this place...
+
+[Evelyn]
+There's... something about her I can't quite put my finger on.
+
+[Claire]
+Alright, alright, back off.
+
+The three kids give her some space.
+
+[Evelyn]
+Oh. My ball. I oughta retrieeeeeve it!
+
+Evelyn leaves the frame for one moment. Enzo and Erica keep looking at her.
+
+[Enzo]
+So.
+(trying to sound cool)
+Come here often?
+
+[Claire]
+Huh. No this is literally my first time.
+
+[Enzo]
+Oh. Eh... ya... got a name, foreigner?
+
+[Claire]
+Claire.
+
+[Enzo]
+Name's Enzo.
+
+[Claire]
+(looking around)
+Uh... Okay.
+
+Evelyn comes back.
+
+[Evelyn]
+You know how to play ontoball?
+
+[Erica]
+(monotonely)
+It's a game where you free the ball of metaphysical constraints and try to guess what it settles into.
+
+[Claire]
+what
+
+[Erica]
+I don't think they have ontoball on her side... Let's play a game the (sic) Claire knows.
+
+Becky comes into the bridge, out of breath from running. She pants for a bit, fixes her hair and glasses, then addresses Claire.
+
+[Becky]
+Human, excuse me, the town's mayor requests your attendance to his office.
+
+[Enzo]
+(surprised)
+"H"... "Human"?
+
+[Becky]
+Sorry kids. I'm afraid this meeting is of utmost urgency. Will you accompany me, young human?
+
+[Claire]
+I guess so.
+(thinking)
+Why are they calling me that...
+
+The kids wave her goodbye, feeling all a bit disappointed.
+
+#CAM The camera lingers on Erica for a moment.
+
+[Erica]
+...
+
+#TRANS Campy 80s lateral wipe.
+
+[Becky]
+Just a heads up, the mayor can be a somewhat intense negotiator.
+
+[Claire]
+Uhh... Okay!
+
+[Becky]
+Alright.
+
+They enter the office.
+
+#TRANS Slide
+
+== Political Favour ==
+Where: Hearthaven/Mayor Office
+
+#BGM Politics
+
+The [[Manuel McMayor|mayor]] sits in his chair, scribbling on some paperwork. There are mountains of paper all across his desk and also the floor.
+
+[McMayor]
+(looks up in surprise)
+Huh? What? Oh.
+(goes back to business)
+Look, kid, I have an OBSCENE amount of paperwork to process! Grownup bussiness, okay!
+If you're lost, go look for an orphanage or something, I don't have time for this.
+
+[Becky]
+(aheming)
+S... sir?
+
+[McMayor]
+Now, get lost! Go play with some... dolls or something!
+
+[Becky]
+Sir!
+
+[McMayor]
+What, Becky? Can't you see I'm getting rid of this kid that's standing ominously in the doorway?
+
+[&]
+What? Would we have it stand in the corner during our meeting with **The Hero of Spirit**? That has to go perfect, Becky, perfect!
+
+[Becky]
+But, sir, this child IS the Hero of Spirit!
+
+[McMayor]
+Are... are you sure about that?
+
+[Becky]
+Yes.
+
+The mayor pauses for another moment.
+
+[McMayor]
+Greetings, hero! Welcome to my humble office! Feel free to stand in the doorway as much as you'd like!
+
+(APD) Claire takes a few steps forward and looks at his office.
+
+// There's all kinds of fun flavour text regarding the many, many objects cluttering the room.
+
+[McMayor]
+Alright. The topic of our meeting is—
+the state of the world as you might've seen it.
+
+[Claire]
+Oh. Yeah.
+(thinking)
+Finally...
+
+[McMayor]
+We're interested in knowing when do you plan to resume your activities as **The Hero Of Spirit**.
+
+[Claire]
+As what?
+
+[McMayor]
+As **The Hero Of Spirit**.
+
+[Claire]
+Again—  what?
+
+[McMayor]
+You're playing hard to get, huh, kid...
+
+[Claire]
+I literally have no idea what you're talking about, sir...
+
+#BGM Cuts off ominously.
+
+[McMayor]
+Well, in this case...
+
+McMayor steps out of his chair and goes around the table.
+Claire steps back. The man puts his hand on the table, his back turned to Claire.
+
+[&]
+You leave me no other option...
+
+The screen starts to flash black, threatening a battle. The HP meter shows up... but then suddenly, the HUD drops and the music blasts on again as he drops to his knees in a begging position.
+
+#BGM Politics (Chorus)
+
+[McMayor]
+Please help us, hero! We're completely lost without you!
+
+[Claire]
+I... I...
+
+[McMayor]
+Is it money that you want? I can pay you a fee for your service! Here's a sack of gold.
+
+[Claire]
+I...
+
+// Here the player gets a choice to go "Okay! I'll do it!" or "More."
+
+[&]
+(thinks for a moment)
+More.
+
+The mayor pulls another sack of gold. This isn't animated, the sacks of gold just appear piling up in front of Claire with jumpcuts.
+
+[&]
+(with a straight face)
+More.
+
+The mayor pulls two more sacks of gold.
+
+[&]
+(smiling childishly, her arms out)
+More!!!
+
+The mayor pulls out a single other sack of gold.
+
+[McMayor]
+Please, hero! This is all I have!
+
+[Claire]
+(smiling)
+Okay yeah I'll do it.
+(thinking)
+What the heck am I getting into.
+
+[McMayor]
+(recomposing himself)
+Excellent.
+
+[Becky]
+(with complete sincerity)
+Masterful play, sir.
+
+The mayor returns to his seat and rearranges his tie.
+
+(APD) Claire pockets the 5 sacks of gold. Narration reads "You pocket the gold. Got 5 gold."
+
+// Also, every time someone says "The Ancient Scroll" here they say it with glimmering turquoise waving text and a mysterious sound cue.
+
+[Claire]
+(confused but smiling)
+Alright, what do you want me to do.
+
+[McMayor]
+Why does it seem like you have no idea what your job is...
+
+[Becky]
+Sir, if the hero needs a refresher, perhaps we can provide it with **The Ancient Scroll**, no?
+
+[McMayor]
+Excellent plan, Becky. Hand me the scroll and we will remind the hero of its (sic) duty.
+
+[Becky]
+Well...
+
+[McMayor]
+What?
+You don't have it?
+
+[Becky]
+Uhh....
+
+[McMayor]
+Becky— you're fired!
+
+[Becky]
+H- huh?
+
+[McMayor]
+Have you lost the most important document in our land?
+
+[Becky]
+I didn't lose it! I simply handed it to _the Professor_ for preservation!
+
+[McMayor]
+The Professor Wacko?
+
+Becky turns to Claire.
+
+[Becky]
+(exhasperated)
+I have uhhh a meeting to go over with the mayor, heh, can you do me a huge favour and go to Professor Whynott's house, and retrieve **The Ancient Scroll** for me, would you, kid?
+
+[&]
+His house is just at beginning of town, ya can't miss it.
+
+[Claire]
+Okay. It's an ancient scroll I'm looking for.
+
+[Becky]
+**The Ancient Scroll**
+
+[Claire]
+Okay, sure, I'll get it.
+
+// If you interact with the Mayor again:
+
+[Claire]
+Your name is "Manuel M. McMayor"???
+
+[McMayor]
+Sure thing. Why?
+
+[Claire]
+So you're a mayor... And your name is "McMayor"?
+
+[McMayor]
+(annoyed)
+What's the confusion about?
+I am from the prosperous McMayor family, we are proud to carry this name across generations! My grandfather was a McMayor, my father was a McMayor, and now so am I!
+
+[Claire]
+Oh... so you come from a family of mayors...
+
+[McMayor]
+Huh? What gave you THAT idea?!
+The McMayors are internationally renowed dentists.
+The PIONEERS in door-assisted deciduous removal.
+
+[Claire]
+Your grandpa and your dad, they weren't mayors?
+
+[McMayor]
+Nope.
+
+== Find The Professor ==
+Where: Hearthaven
+
+#BGM Hearthaven
+
+(APD) Claire steps out of the office, finding that the kids were eavesdropping through the door.
+
+[Evelyn]
+Heyyyy foreigner! Can you play now?
+
+[Claire]
+Sorry... I have to find some professor about a scroll.
+
+[Evelyn]
+Oh, the weird scientist guy? He's funny.
+His house is just SOUTH of here.
+
+// If Claire walks down in the frame
+
+[Enzo]
+What? Where are you going?
+
+[Claire]
+You said his house is south of here?
+
+[Evelyn]
+Yeah, south! In...
+(pointing to the top right of frame)
+That direction.
+
+[Claire]
+I don't have a compass on me!
+
+[Evelyn]
+Yeah but why did you start walking on a random direction.
+
+[Enzo]
+You could've asked.
+
+Claire slow blinks.
+
+// Either way, they decide to come with you.
+
+[Erica]
+Hey. Let's help the human get there safely.
+
+(APD) Claire and the kids walk to the professor's house. Talking to the residents now, they are much more comfortable with her presence.
+
+They'll say things like:
+
+"It's been a while since we've had a human over. A long while. Welcome!"
+
+"Did you fall through a tear, my dear? Are you hurt? If you want some tea, I'll be making some later."
+
+"Woah... you look REALLY lost. Don't worry, you're safe here now, alright?"
+
+"Our homes have been destroyed, too, but we've made this place our own. We hope it can be your home, too."
+
+== The Atelier ==
+Where: Hearthaven/Atelier
+
+(APD) Claire arrives at the Professor's door. She knocks on the door softly. No response.
+
+[Enzo]
+(to Erica)
+You think he's home?
+
+[Evelyn]
+He rarely leaves his house...
+
+[Enzo]
+What does he even do?
+
+[Erica]
+He used to build deadly robots for the royal guard...
+
+Claire turns around.
+
+[Claire]
+(worried)
+Deadly robots???
+
+[Erica]
+(sighing dreamingly)
+Deadly robots...
+
+Claire turns back to the door and knocks on it again, more firmly. On the third knock, a loud explosion blasts the Professor and the door out of the doorway, Claire barely dodges.
+
+Smoke starts to pour out of the windows.
+
+.[[Professor Whynott]], covered in ash, gets up coughing.
+
+[Claire]
+Are... You Professor Whynott?
+
+[Whynott]
+The one and onely (sic), kiddo!
+
+[Claire]
+I'm here to get the... uh... the ancient scroll.
+
+[Whynott]
+The what?
+
+[Claire]
+The anc-
+
+[Whynott]
+Oh, the **The Ancient Scroll!**! Sorry, didn't get your accent there.
+Why, I just got a telegram about it! It's in my house!
+(he speaks with a mad doctor neurotic tone)
+Unfortunately, my dear, you find me now to be in a bit of a picle, you see...
+My newest humanoid automaton has gone: Haywire!
+
+[Claire]
+Oh...
+
+[Whynott]
+Yeah, it's a real hicklerydoo (sic) indeed.
+(he snaps into a pose with his index finger up, a metaphorical lightbulb turning on in his head)
+A plan!
+
+[Claire]
+Oh.
+
+[Whynott]
+If you wouldn't mind assisting me for a moment, darling, between you and me I am CERTAIN we could execute an AMBUST on my creation.
+
+[Evelyn]
+(awestruck)
+Coming here never disappoints...
+
+[Whynott]
+If you dash through the door and grab its attention and distract it for THREE TURNS
+(he pulls up the number three with his hand)
+I can pull off its plug from the wall, rendering it harmless!
+What do you think?
+
+[Claire]
+I... um... oh...
+
+// The player will be give a choice of "yes" or "no" here for a split second, but it'll be interrupted.
+
+[Whynott]
+Aahhh! Let's go, come on!
+
+Whynott rushes Claire into the house.
+
+#TRANS Fade out and in
+
+(APD) Claire enters the room, seeing a weird flaming single-wheeled automaton running back and forth. The house is completely thrashed, as if a struggle (and an explosion) has just taken place. The robot sees Claire and runs into her.
+
+#TRANS Battle flicker
+
+== First Battle ==
+Where: Hearthaven/Atelier
+
+#BGM Battle Against A Prototype
+
+The automaton attacks Claire with very easy fire bullet attacks, and a very easy cogwheel one.
+
+Narration for the three turns read:
+
+"Baker Owen comes in steaming!"
+
+"Fire bullets light up the room."
+
+"The children cheer you on from the door!"
+
+After the third turn, Professor Whynott tries, but fails(!) to pull the plug.
+
+"Professor Whynott trips on the electricity chord and falls!"
+
+"Professor Whynott tries to get up but trips on the same chord again!"
+
+"Professor Whynott gets too comfortable and accidentally takes a nap!"
+
+So you must either FIGHT or Spare the enemy to defeat it. If it takes too long,
+Erica will pull the chord and you get a draw.
+
+// Dying here brings you back to just outside the professor's atelier, even though the game hasn't been saved. It's very difficult to die, though.
+
+// If you win by Sparing, people congratulate you for it!
+// If you win by FIGHTING, Prof. Whynott displays sadness, but, ultimately concedes "Ahh, who cares. It's just a machine, anyways."
+
+== The Ancient Memory Card ==
+Where: Hearthaven/Atelier
+
+The automaton's eyes lose their light.
+
+[Whynott]
+There we have it— rogue explosive automaton is no more!
+
+[Claire]
+Well, if anything that did succeed at being a dangerous, deadly robot...
+
+[Whynott]
+Huh! Why, that would've served me well back in my Royal Scientist days, wouldn't it?
+(thinking nostalgically)
+I can't remember the last time I had the opportunity to design a device built for the sole purpose of tearing apart human flesh. Not since...
+
+[&]
+Oh. But you are not here to listen to an old man's nostalgic rambling.
+
+[&]
+Professor Wyatt Whynott, at your disposal.
+
+[Claire]
+I'm here to retrive the—
+
+[Whynott]
+**The Ancient Scroll!** That's right! I just got a telegram about it.
+
+[Claire]
+You said that!
+
+[Whynott]
+That's right!
+(turning around)
+Hmm... it must be somewhere... around here...
+
+[Whynott]
+How peculiar. How odd indeed.
+I specifically recall being handed the scroll for an important motive.
+
+[Claire]
+Maybe you put it in a box!
+
+[Whynott]
+A box! Genius!
+
+[Claire]
+I'll help you look for it.
+
+(APD) Claire looks around, interacting with things. There's an oven, a sink, a pile of garbage, another pile of garbage. Eventually she may talk to the professor again.
+
+[Whynott]
+Me? I woudln't keep such an important document on my pocket...
+
+[Claire]
+I was just gonna ask if—
+
+[Whynott]
+Wait... How better could I take constant care of it than to carry it on my person at all times!
+Marvellous idea, Mi—
+(pause)
+Did... did I ask you your name, my dear?
+
+[Claire]
+"Claire."
+
+[Whynott]
+Well, Claire, now I remember it all!
+I was asked to transfer our history from that old piece of parchment, **The Ancient Scroll** into a more space-efficient storage method.
+(he pulls something out of his hat)
+Take good care of this.
+
+Narration reads "Got **The Ancient 32GB Memory Card**."
+
+[Claire]
+Thanks!
+
+(APD) You can talk to him again.
+
+[Claire]
+Will you need any help cleaning up?
+
+[Whynott]
+Cleaning up? Oh— what a misunderstanding. My office just looks like that.
+An inventor's atelier needs a healthy coating of ash and debris at all times.
+
+[Claire]
+(nodding)
+To get the brain juices flowing.
+
+[Whynott]
+"The brain juices"? Ha ha! What a precious analogy! You must be the creating type!
+
+[Claire]
+(smiling)
+Ha ha.
+(straight-faced)
+No, not really.
+
+(APD) You can leave.
+
+== Deliver Scroll ==
+Where: Hearthaven
+
+[Erica]
+I can feel an aura of importance around that item.
+You should go to the Mayor's office immediately before you lose it.
+
+[Claire]
+Oh!
+
+[Erica]
+Or not idunno I'm not your mum.
+
+(APD) You can walk back to the mayor's office. You can talk to people again but you can't go inside any other buildings.
+
+[McMayor]
+Hello there, hero! Did you retrieve the item? Put it on the table.
+
+// You'll have to, once again, use the item on the table from the inventory.
+
+Claire will slam the memory card on the table with a loud thud, startling the poor mayor and his assistant.
+
+[Claire]
+It's DELIVERED!!!!!!
+
+[McMayor]
+I see it!
+Alright, alright! I see you're inching back to your classic, excited self, aren't you, hero?
+
+[Claire]
+What?
+
+[McMayor]
+I've heard a lot about you. Lively girl. 
+No memory hm... Good thing the Professor invented these handy devices. They do the remembering FOR you, ha!
+(tosses the card to the assistant)
+Becky, bring down the projector.
+
+Becky pulls out a device to plug in the memory card and starts scrolling through files for a while.
+
+[McMayor]
+What's taking so goddamn long?
+
+[Becky]
+There are a bajillion files here, sir!
+
+Becky starts scrolling through the many, many legends.
+
+[Becky]
+Kit lost in whitespace... no...
+Alien turns animals rabid... no...
+Girl climbs up a big mountain... no...
+Little boy wakes up sleeping fish... no...
+When the world is subsumed by shadow...
+Blond lad saves the prin— didn't I see this kid before...
+
+[Claire]
+What's all that stuff anyways?
+
+[Becky]
+Oh, as you know, there are these (huff)
+tears in reality... leading from your side to ours...
+
+[Claire]
+Tears... is that what that was...
+
+[Becky]
+You've fallen through one, huh?
+
+[Claire]
+Yeah... no...
+Uh... maybe?
+
+[Becky]
+Well, every so often a human child will be exploring unsupervised and end up here...
+
+[Mayor]
+...and we have to babysit them.
+
+[Becky]
+Don't listen to him— it is an _honour_ to serve these kids for as long as they stay.
+Some kids just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other real to provide that, right?
+
+[Mayor]
+Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which: your passport.
+
+(APD) You can pick it up. "'Dream Passport' was added to your SPECIAL items."
+
+[Claire]
+Am I... one of those kids?
+
+[Becky]
+Oh, no, not at all. You're something different.
+(she looks up at Claire smiling)
+Something very different.
+
+[Claire]
+Ahhhh... what does that mean...
+
+[Becky]
+You'll see.
+Aha—!
+When the angel who's seen the surface blah blah the underground— oh wait no, it's not this one either.
+
+[McMayor]
+You think you'll find it in time for the story time ceremony?
+
+[Becky]
+Not any later than that!
+
+[McMayor]
+(sighs)
+Listen, hero, how about you check in at the inn nextdoors while Becky here finds what we're looking for, hm?
+
+[Claire]
+I could go for a rest... My legs are sore from all this walking.
+
+[McMayor]
+That's a plan, then. I faxed my—
+The Innkeeper... about your arrival.
+Your room will be prepared by the time you arrive.
+
+// Bro is divorced, lol.
+
+[Claire]
+Neat.
+
+====
