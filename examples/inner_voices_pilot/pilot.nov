@@ -645,18 +645,511 @@ Claire!!!
 
 We stay a moment in darkness.
 
-#CAM The camera starts upside down and out of focus, then slowly rotates and focuses on Claire in sync with the music emerging from a low pass filter (muffled) effect.
-
-Claire is laying down on the floor. A small black cat with big yellow eyes softly licks her awake.
-
-// The game is saved here.
-
-She wakes up and looks at the cat. It stares back for a moment, then hops away.
-
-(APD) Claire gets up slowly and looks around. Anxious music comes in as she starts to powerwalk exhasperatedly.
+#CAM The camera starts upside down and out of focus, then slowly rotates and focuses on Claire in sync with the synthwave music emerging from a low pass filter (muffled) effect.
 
 #BGM Extremely Necessary Tension
 
+Claire is laying down on the floor. A small black cat with big yellow eyes softly licks her awake.
 
+#SAVE The game is saved here.
+
+She wakes up and looks at the cat. It stares back for a moment, then hops away.
+
+(APD) Claire gets up slowly and looks around. Anxious music comes in as she starts to powerwalk exhasperatedly. As she walks, the distorted school winds and bends. The previously faceless humanoids now look human, familiar.
+
+// Actually, these are all people that play a role in the story later! Lily, Guilherme, Rodrick, Tim, Nadia, etc.
+
+// As Claire walks by, the HP meter pops up. No DP meter yet.
+
+Bullets swirl around you, not exactly aiming at you, but you can be hit and receive 2 or 3 damage.
+
+// Dying here just restarts the section from the save point. It's low stakes.
+
+At the end of the corridors, Claire sees a door and enters it. The room is chaotic and trippy, save for a single mirror on the left. She's breathing funny.
+
+[Claire]
+I'm not made for all this running.
+
+Claire looks at herself in the mirror.
+
+[&]
+What the hell is going on.
+
+She sees the small cat in the reflection and turns to it. It walks up to her, walking in between her legs.
+
+#SAVE The game is saved here.
+
+Claire starts breathing more calmly. She sits down and the cat jumps on her lap. As she calms down, the background fades back into focus, revealing the current room is the bathroom.
+
+[Claire]
+(with a soft voice)
+Oh, you're a good kitty aren't you. Are you lost?
+
+The cat gazes into her with its big yellow eyes.
+
+[&]
+Me too, kitty. Guess we'll be stuck here for a while, huh...
+I... don't know what's going on. I feel like I'm going insane...
+
+Claire looks around.
+
+[&]
+(jokingly)
+You wouldn't happen to know the way out, would you?
+
+The cat jumps off her lap and then jumps through the bathroom window.
+
+[&]
+Oh, If only I were cat-sized.
+
+Claire gets up and close to the window. She stands on her toes trying to look through it. When she touches the wall, everything fades into black and she falls through the wall onto a pitch black floor.
+
+== The Encounter ==
+
+// This encounter is really important. TMK is behind it all, know this!
+
+As she looks around, there is nothing: no ceilings, no walls, no sky. Claire takes a few steps forward, each of them echoing into the emptiness.
+
+(APD) As she walks and interacts, she can feel strange things that feel "soft" like a chair, or brick walls. Eventually she takes some invisible steps upwards an elevation of some sort.
+
+Then, a voice pierces through the shadow and give the poor woman chills.
+
+[Mysterious Voice]
+Cease.
+
+[&]
+You have dwelled into a realm beyond your permission or comprehension, child.
+
+[&]
+This transgression will cost you...
+(with a dramatic pause)
+Your SOUL.
+
+A circle of flames form around here, exhibiting her SOUL in plain sight, as well as the HP counter.
+
+[&]
+Farewell.
+
+The flames inch closer and closer to her petrified self, nearly hitting her.
+
+Then, suddenly, the lights turn on, revealing [[The Mystery Kid]] and [[Pierre]] (the cat) sitting at the host's desk of the set for a late night show!!!
+
+== Pilot ==
+
+An audience out of frame laughs for a whole six seconds.
+
+[Pierre]
+You were right, that WAS funny.
+
+[The Mystery Kid]
+Funny? This was hilarious! The look in her face!
+
+// TMK is the previously mysterious voice and such
+// Also they speak with the intonation of a 1960s game show host
+
+[Claire]
+(still out of breath)
+Wait... what?
+
+[Pierre]
+She was shaking in her boots!!!
+
+[Claire]
+HOW OLD ARE YOU? TWELVE Oh— you ARE just a little kid.
+
+[The Mystery Kid]
+Sure!
+
+[Claire]
+You almost gave me a heart attack! Who even ARE you? Is...
+
+[The Mystery Kid]
+Hey! Shhh—! Get ready, we're about to go live!
+
+[Claire]
+Huh?
+
+A stagehand pushes Claire toward the guest's couch. Her sprite moves comedically by spinning in its axis in place until he falls sitting on the couch. The opening theme for the show plays, culminating in the lights around the stage lighting up. We're live!
+
+#BGM The Mystery Kid
+
+[The Mystery Kid]
+...and Good Evening, folks!
+
+[&]
+Welcome to the premiere of our incredible new evening programme: Theeeee Mystery Chat!
+Please do give a hand to our lovely first ever guest: Claire H. Carter!
+
+The audience cheers.
+
+[Pierre]
+I wonder what the H stands for.
+
+[The Mystery Kid]
+Think it stands for "helpless?"
+
+The audience laughs.
+
+[Claire]
+It stands for "Hanako," thanks.
+
+[The Mystery Kid]
+Say, Claire, what's it like to be you?
+
+Here the player can choose between "Scary" or "Confusing".
+
+[The Mystery Kid]
+Oh, the teen age — confusing times... your body is changing... hormones are raging...
+
+[Claire]
+Huh? I'm eighteen! I mean... Is...
+(looks around)
+Is this on television???
+
+[The Mystery Kid]
+HAHAHA! Claire, you're killing me!
+(they take off their hat and clean it with the edge of their sleeve)
+Look...
+
+The Mystery Kid puts their hat back on and pauses for a moment.
+
+[The Mystery Kid]
+You most likely have noticed that everything out there is kinda...
+Let's say, different. Gnarly, even!
+It's all a horrendous sahde of dark blue, for one, who signed off on THAT renovation?
+
+[Claire]
+I've... notticed that...
+
+[The Mystery Kid]
+I dig the glow-in-the-dark plants but the ominous floating twisted teenagers are a bit of a stylistic clash, aren't they... Not really into that, no.
+
+[Claire]
+Teenagers—?
+
+[The Mystery Kid]
+(interrupting Claire loudly)
+Oh, this is all because of yesterday.
+Don't you... remember?
+Something happened that broke the world along with everyone's minds.
+Clawed a tear in the sacred fabric.
+Got your classmates all... floaty... drifty... T-posing...
+
+[The Mystery Kid]
+It IS your job to mend all of this of course.
+
+[Claire]
+Huh??? Me???
+
+[The Mystery Kid]
+Well, I'd do it, but...
+battling horrible monsters, solving deadly puzzles, all for the fate of the world?
+I'm just a little kid — that's grown up business, innit?
+(audience laughs softly)
+Plus, you did do a quite good job up to here, didn't ya?
+You didn't even die once.
+
+[Claire]
+I... I don't know what's happening. 
+I feel if anything we oughta be calling the police for...
+(Claire stops to think for a moment)
+Though I'm not sure the police even would know what to make of this...
+
+Claire looks again at the audience.
+
+[&]
+(mumbling)
+wheres that laughter coming from theres noone there
+
+[The Mystery Kid]
+Yeah this won't do.
+
+The child raises their right hand and all the lights cut off. Claire looks around.
+
+[Claire]
+Weren't we live?
+
+[The Mystery Kid]
+Oh, no, the live show is pre-recorded.
+We wouldn't want our pilot to be an impromptu disaster, would we?
+Speaking of which:
+
+A slight pause.
+
+[&]
+Come on, Claire...
+
+Claire looks forlorn.
+
+[&]
+Hmm. Just what I feared. You really do seem to have no recollection of the previous events that led to the current situation.
+(they snap their fingers)
+Hey, you're looking for a safe place to rest, devoid of mortal danger, I imagine?
+
+[Claire]
+Oh, that would be... I'd really like that...
+
+[The Mystery Kid]
+Oh, well, I know JUST the place to put you.
+
+The kid jumps onto their table in excitement and gestures at Claire.
+
+[&]
+I know a place... a place away from all the mess of the world.
+I can get you there, you take five and then we talk more about it all.
+
+[Claire]
+That sounds good. I think.
+
+[The Mystery Kid]
+(winking)
+Brilliant! That's the SPIRIT, darling!
+
+They fall down from the table, ending up sitting at its edge. They assume a more serious expression.
+
+[&]
+So, let's make it official.
+I'll bring you to this secret haven, and then you'll consider helping me out. Not a commitment, just... consider.
+Do we have a **deal**?
+
+They cross their legs and stick out their hand which lights on fire as they say 'deal'. The room becomes darker to frame the two of them. Claire hesitates.
+
+// The game prompts you to make the deal or not, but if you choose not, Claire just says it's because of the fire:
+
+[The Mystery Kid]
+What's the holdup? Afraid of a handshake?
+
+[Claire]
+You're hand's on fire.
+
+[The Mystery Kid]
+It's. It's. It's magic fire. It's fine.
+
+[Claire]
+Okay.
+
+Claire hesitantly shakes their hand. The Mystery Kid gazes into here eyes seriously for a second. Then, the light comes back and they go back to laughing and joking.
+
+[The Mystery Kid]
+Okay so this handshake has zero legal binding so you gotta sign this contract.
+(they flash open a contract)
+Got a pen on you?
+
+[Claire]
+No.
+
+[The Mystery Kid]
+Are you suuuure?
+(winking)
+Check your inventory.
+
+(APD) Player checks the inventory. There is no pen. They close the inventory.
+
+[The Mystery Kid]
+Yep. Looks like you really don't have a pen.
+You can use mine though.
+(they lay the contract on the table)
+Sigh here... and here...
+(they point to places in the contract as Claire is signing...)
+Okay, Claire, you're terrific!
+
+They roll the contract back carefully, then toss it out of frame with a swift motion.
+
+[&]
+Hey!
+(snap)
+No need for frowning now. You'll be back home before you can count to three.
+Just, uh, don't start counting now.
+
+[Claire]
+(trying to put her thoughts in order)
+Are all those people really... kids from town?
+
+[The Mystery Kid]
+Claire, love, don't be getting stage fright right now.
+You're my casting call — if I believe in you, that means you should believe in yourself too.
+
+[&]
+Also, the talking cat here, Pierre, will be assisting you throughout this journey.
+
+[Pierre]
+What? Me? Do I really have to?
+
+[The Mystery Kid]
+(without diverting his gaze to him)
+Absolutely.
+
+[Pierre]
+(unbothered)
+Sure.
+
+[The Mystery Kid]
+So, I'll leave ya two to it.
+Aaaaand remember: we're all counting on you. No pressure.
+
+[Claire]
+Well, I—
+
+[The Mystery Kid]
+Cheerios!
+
+#TRANS Smash cut
+
+== The Forest ==
+
+Claire stands around in the moonlit forest, just outside of the school. Her image stands out against the background, emitting no shadow, like a poor 1980s VFX overlay. She's astral projecting, though she does not know.
+
+Pierre stands near her.
+
+[Claire]
+Oh man. That was something.
+
+[&]
+I AM going crazy. Wait, did that all happen or not?
+
+She turns at the cat beside her, which stares back at her in silence.
+After a moment to readjust, she begins walking forward.
+
+Moving away from behind the school, Claire sees, from the cliff, the city at dusk. Home is within reach, but not quite.
+
+// To the right the are barricades and police lines. You can also barely see police sirens flashing. You can try to get someone's attention but they just will "somehow" not be able to hear you.
+
+Pierre walks into the forest.
+
+(APD) Claire follows him.
+
+As Claire walks, a peaceful atmosphere accompanies her, a silence that isn't quite silent, but blends the noises of rustling leaves, a small creek nearby and bugs in the grass.
+
+#BGM Zenith
+
+[Claire]
+More walking. Got my fair share of steps in today, huh...
+
+Claire continues walking forward. The forest isn't exactly a maze, but there is some to explore.
+
+// In the way, you'll occasionally run into these big branches that you need to smash to get through. Smashing it uses the same minigame as the "FIGHT" action in battle, so this is a tutorial.
+
+[Claire]
+Where are we going?
+
+Pierre lets out a soft meow and bolts in between the trees. Claire picks up her pace and soon she finds a curious path. Very tensely, she walks over a big trunk laid down as a bridge overr the creek. And then she finds herself in a clearing in the forest.
+
+== The Gateway ==
+
+// Wonder if people will recognise the treehouse from the [[#Setting_The_Tone|first scene]].
+
+Moonlit at the clearing's far wall sits a strange treehouse. Its entrance faces her, enticingly. Pierre effortlessly jumps into the "balcony" and enters the house without fully opening the door.
+
+[Claire]
+(intrigued)
+Hm...
+
+(APD) Claire lokos up to the sky then takes a step forward. She climbs the treehouse's rope ladder and carefully opens the door, peeking inside.
+
+Inside the treehouse, instead of, well, the inside of a treehouse, there's instead a long corridor with circular walls and a glow-in-the-dark ambiance. A strange hum echoes throughout it.
+
+#CAM The camera frames the corridor from the side so we can see its length, and Claire peeking in the right of the frame.
+
+Claire takes her head out. Birds chirping return. Claire puts her head back in. Ominous sound. She repeats this two more times, then does a double blink.
+
+#CAM The camera does follow her point of view as she puts her head in and out, in comedically jarring fades.
+
+[Claire]
+Portal...
+
+Claire crawls into the corridor, leaving the door open. She walks a few feet: the door closes. She looks behind her, but does not bother to comment. Claire walks further towarrds the end of the narrow corridor. In contrast to the corridor of [[#I'm_NOT_GAY!!!|the initial nightmare]], this one widens as she gets further.
+
+At the end of the corridor there is a curtain. Claire upts her hands on it.
+
+#TRANS A campy (80s) radial transition.
+
+Claire steps out of the curtains, which close behind her.
+She opens her mouth in awe of the sight before her.
+
+// She steps out of the corridor in her child sprite, with the red dress.
+
+#CAM The shot frames her face, so the audience doesn't get to see what she sees yet.
+
+Claire walks down in frame, forward toward the edge of the cliff whe walked onto. She grabs the handrails still in awe.
+
+#CAM As she walks down in frame, the camera continues to pan down past the cliff edge and then around the city.
+
+Music starts to swell with a magigc orchestral sound.
+
+#BGM An Other World
+
+#CAM As the camera pans, the resolution of the frame slowly grows from NTSC 4:3 to a modern 16:9. The camera lands back on Claire after it all, the screen now widened, as Claire's mind.
+
+// Chyrons appear overlayed on the shot where the camera lands on Claire, framing her, and in sync with the music's beautiful final jazzy chords.
+
+#CHYRON Pilot
+
+#CHYRON Episode One (Part I)
+
+#CHYRON Into The Other Side
 
 ====
+
+Claire remains looking at the city for a moment. She stands still, finally allowing herself to calm down. Pierre jumps onto the handrail and she pets him without moving her gaze.
+
+#SAVE Game Saved.
+
+Pierre glances at the lit city for a moment, then looks back at Claire.
+
+[Pierre]
+(looking at her starstruck face)
+If I could experience this for the first time again...
+You're lucky you get that.
+
+[Claire]
+Huh—
+(she turns to him, her speech finally comfortable and not tense or confused)
+So you CAN talk, but only here, right?
+
+[Pierre]
+I can talk all the time.
+YOU can only understand me here.
+
+Pierre walks in front of her, sassily but softly hitting her in the face with its tail. Claire ponders for a moment.
+
+[Claire]
+Is this place real?
+
+[Pierre]
+As real as every thought you've thought of, and every dream you've dreamt of.
+
+[Claire]
+So... not real?
+
+[Pierre]
+(dismissively)
+If that's what you make of that.
+
+Pierre jumps from the handrail onto the ground and down the stairs that lead to the city.
+
+(APD) Claire walks down toward the city.
+
+== Foreigner ==
+
+As the walks into the city, the people look at her with intrigue. She feels a bit uncomfortable with the sudden attention.
+
+When she reaches the main street, a [[Evelyn|small child]] walks into frame following a ball she dropped. When she graphs the ball and looks up to the stranger before her, she drops the ball (and drops her jaw).
+
+[Claire]
+Um... Hi?
+
+[Evelyn]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!
+
+And then she runs out of frame.
+
+(APD) Claire walks more. Talking to the locals will have them be murmuring at your sight. "It can't be..." "Is that really a..." etc.
+
+The mayor's assistant, Becky, standing in front of the mayor's office takes sight of her.
+
+[Becky]
+Oh, my! My eyes must deceive me!
+
+And retreats into her building.
+
+(APD) Claire continues walking until she reaches the village fountain bridge.
