@@ -1958,4 +1958,517 @@ Your room will be prepared by the time you arrive.
 [Claire]
 Neat.
 
-====
+== Saving ==
+Where: Hearthaven
+
+Back out in the city, everybody is closing the shops. At the town bridge, The Mystery Kid and Pierre are hanging out.
+
+(APD) Claire talks to the two of them.
+
+[The Mystery Kid]
+Hey there, partner! Taking a late evening stroll, are you?
+
+[Pierre]
+Hey, Claire... You look pretty worried...
+
+[Claire]
+I do?
+
+[The Mystery Kid]
+Well, just to say it's not a weakness to admit you don't got it all together, you know? It would be weird if you WEREN'T scared at least sometimes.
+Speaking of which, let me share some advice.
+
+[&]
+Whenever you feel anxious... right before doing something critical for example...
+What you should do is... calm down... breathe... and touch this cat.
+
+[Claire]
+Huh?
+
+[The Mystery Kid]
+Touch. The cat. Go on, let's rehearse it now.
+
+[Pierre]
+Oh yes! Touch me like only you know how~
+
+[Claire]
+I'm—
+I'm not touching THIS cat...
+
+[The Mystery Kid]
+Pierre be normal. Come on, Claire! Touch it! Touch the cat!
+Touch! The! Cat!
+
+[Claire]
+Aaaaaaaaaaaah alright!!
+
+Claire pets Pierre.
+
+#SAVE Save menu appears.
+
+// This is the first instance of the save menu appearing proper. It always appears with a nice purr sound effect. The two options are "Record" and "Not now". Pressing "Record" does a nice tape recorder sound effect. After saving, the options are "Continue" or "Leave". Pressing continue does a nice chiptune sound effect. There's a callback to this in Episode 5 believe me or not.
+
+[Claire]
+Awwww... You just wanted a little love didn't you.
+
+[Pierre]
+Don't we all?
+
+[The Mystery Kid]
+I knew you were a cat person!
+Well, don't you feel much better now?
+
+[Claire]
+Huh?
+Yeah I guess so... a little...
+
+// Talking to the Mystery Kid again
+
+[The Mystery Kid]
+This really is a nice little place, isn't it?
+
+[Claire]
+What really _is_ this place?
+
+[The Mystery Kid]
+It's too late for philosophy lessons.
+
+[Claire]
+Huh? What does that mean?
+
+[The Mystery Kid]
+It means "go to sleep."
+
+// (APD) You can walk around and inspect the buildinds and stuff. There's, of course, the passage to the old city ruins. I think approaching it will make the music stop, and only a quiet wind can be heard. Ominous.
+
+== Dream Within A Dream ==
+
+Arriving in the inn, Claire's received by [[Rosetta]], a big, lovable woman.
+
+// She's like, big to contrast with the mayor's small size. She's, like, an old actress type, with lots of quirky pink clothing, a hat, a glimmering dress and some good ol' (American) southern hospitality.
+
+[Rosetta]
+Welcome, darling! Oh, do get rigth in, mind the gap, but come, come!
+
+Claire walks a bit more around the inside.
+
+[&]
+It's so good to receive you here, really!
+It's been so long since a human has found themselves here! So long...
+
+[Claire]
+More like _lost_ myself here...
+
+[Rosetta]
+Oh, Manuel told me that your mind is all scrambled, isn't it right, hun?
+Oh, don't worry — it happens!
+
+[&]
+See, I'll be preparing your room: once you get a good night's sleep, your memories will come flowing back to you in no time! Unless...
+Eh, you don't have to worry about that!
+
+[Claire]
+I see. Thanks, ma'am.
+
+[Rosetta]
+Ma'am? Who are you calling ma'am?
+
+[Claire]
+I—
+
+[Rosetta]
+Who am I kidding, I've been aging—
+(widening her eyebrows)
+Like fine wine, though! Ah ha ha!
+(smiling)
+Will you hand me your passport for a moment, dear...
+
+Claire hands her the passport. She inputs some information into a toy computer.
+
+[Rosetta]
+Yes... Yes... Thank you, here ya go.
+Alright, "Claire," your room is right there waitin' fer you.
+Get a good night's sleep to be rested for the ceremony tomorrow mornin'.
+
+[Claire]
+Excuse me, ceremony?
+
+[Rosetta]
+Oh, it's nothin' much. Our storytelling thing. Every day we all gather together to hear a story around the village hearth. Becky thought it right to ask Nana to tell our golden tale since you're here, to teach you what it is that we do.
+You're the quiet, "go along with it" type, but I'm sure you've been lookin' for some answers to some questions haven't you?
+
+[Claire]
+(smiling)
+Oh... um...
+
+[Rosetta]
+Well you ain't getting any of them now! The faster you snooze, the faster you wake up!
+
+[Claire]
+You know, some rest would actually probably do me good right now.
+
+[Rosetta]
+Yes it will, hun.
+
+Claire enters her room. It's neat. Unlike the previous room, it's lit in blue instead of warm orange. Her expression becomes serious (the smile vanishes from her face).
+
+Claire walks to the bed and lays down on it for a moment. She puts her hands over her face for a moment and brushes her eyes. The pace of the scene slows down to the minimum, now that she has some time for herself.
+
+[Claire]
+...
+
+A brief pause.
+
+[Claire]
+Good night, me!
+
+#TRANS Fade to black.
+
+== Dream Within A Dream (2) ==
+Where: New Horizon/School/Bathroom
+
+Claire dreams of the events happening in the real world. She can't walk or interact with anything. The image is fuzzy, with TV-like artifacts. It's clearly a dream.
+
+Andy has Claire's head on his lap. He's feeling her head for temperature.
+
+Bruno comes in the room.
+
+[Andy]
+Did the key work?
+
+[Bruno]
+No. Did she wake up?
+
+[Andy]
+Nope.
+
+[Bruno]
+How can she sleep in a moment like this...
+
+[Andy]
+She's knocked out, dude. You should've seen it, she flipped out.
+
+A noise knocks at the door. Bruno holds himself against it.
+
+[Bruno]
+Crap, dude! Help me here!
+
+[Andy]
+On moment.
+
+He touches Claire's face one more time.
+
+[&]
+Come on, Claire... come back to us...
+
+#TRANS Cut
+
+== The Third Awakening ==
+Where: Hearthaven/Inn
+
+Claire wakes up, not felling that well rested.
+
+#SAVE Game is saved here.
+
+As she tries to get up, she finds a dead mouse placed upon her, which she throws out of herself immediately. (That's a gift from Pierre)
+
+[Claire]
+Ghmghmm... Morning...
+(wiping her eyes)
+Daaad!
+
+Claire wakes up and walks towards the door, and peeks through it.
+
+[Claire]
+Dad... I got cramps...
+(she looks around the strange place)
+Dad?
+
+A pause of realization.
+
+[Claire]
+Oh...
+
+Erica appears in the window, upside down.
+
+[Erica]
+Hey!
+
+[Claire]
+(sarcastically)
+This is normal.
+
+[Erica]
+Oh, great! I thought I was being weird for a moment.
+Come to the roof.
+
+Erica slides up out of view. Claire follows her to the roof and, seeing the city, sits besides her. Erica points up to the sky, where glow-in-the-dark star stickers glow. The two look up for a moment.
+
+[Erica]
+How... um... are you?
+
+[Claire]
+Those stars...
+
+[Erica]
+Hm? What about them?
+
+[Claire]
+They look like...
+
+[Erica]
+Oh, yeah, they're stickers. The glow-in-the-dark kind.
+
+Claire laughs.
+
+[Claire]
+You know what? I think I get it. This... is just a dream, isn't it?
+
+[Erica]
+It is a dream...
+
+[Claire]
+Knew it! I mean, I... didn't... I've been so... confused...
+Chased by shadowy aliens? Zombies? Whatever—
+Then walking through a portal in the woods...
+
+[Erica]
+You crossed a portal to come here...
+
+[Claire]
+Huh? Yeah, a tunnel...
+
+[Erica]
+Is... is the physical realm... really real?
+
+[Claire]
+What?
+
+[Erica]
+Sorry, it's a weird question... but...
+I've never met someone from another realm before...
+Whenever I've heard of Earth... it's so strange...
+(she starts brushing her hair with her hands and looking away from Claire)
+Evelyn told me you have something called the "Laws of Physics" that... make your body behave in just one way...
+
+[&]
+And since our Laws of Stories don't apply there... sometimes things just... happen? With no cause or reason why? That sounds... so... alien to me.
+
+[Claire]
+...
+
+[Erica]
+I wish I could visit your side, but...
+The treshold, we can't... you know...
+
+A long pause.
+
+[Erica]
+I guess the stars in your world don't look anything like this. Since you called it out so quickly. If I could just come over there I'd understand...
+
+[Claire]
+You wouldn't see nothing with all the light pollution.
+
+[Erica]
+Huh... well, I'd be glad to meet the locals at least. I'd make all sorts of friends.
+
+Claire reminisces for a moment.
+
+[Claire]
+Eh... I'm not sure about that.
+I had trouble fitting in and I just came from _Japan_.
+Imagine you, from a whole different world.
+
+[Erica]
+Well, t- they'd calm after they see I'm nice.
+
+[Claire]
+Ha. If you're nice that's when they get you harder.
+I wish I'd grown up in a place like this.
+Y'know, your world seems cool.
+Dream world.
+
+[Erica]
+T— thank you.
+
+A brief pause.
+
+[Erica]
+I guess it _is_ cool.
+Even more cool now that you're here.
+
+She smiles at Claire. Claire is still looking into the distance and doesn't reply.
+
+[Erica]
+Alright, I'll let you be. Get ready for the ceremony!
+
+[Claire]
+Oh yeah, the thing.
+
+Erica yeets herself off the roof, leaving the frame (we never hear her land). Claire looks to the sky one last time, then crawlks back through the window and sits on the bed for a moment, before getting up.
+
+(APD) You can leave the room.
+
+== Storytelling ==
+Where: Hearthaven
+
+Leaving the room, nobody's in the inn. You can get a slice of lemon pie from the back of the fridge, as well as some moon cola.
+
+Getting outside, everybody is gathered in the village centre. The yarn golems hold ceremonial torches (lit matches) and [[Evangeline]], the oracle, holds her needle staff in the middle, awaiting Claire's arrival.
+
+Claire steps through the mass and sits in the front, besides Evelyn and Enzo. Erica is not in sight.
+
+[McMayor]
+Good evening, folks. We find ourselves once again together, all well, to tell stories to one another. The tale we've chosen to tell today is a very special one. As is customary, your madam, The Oracle, will now narrate it for us.
+
+[The Oracle]
+Thank you, lad.
+Please, folks of Hearthaven, old and new, residents...
+and foreigners...
+Open your hearts to this old tale.
+
+Manuel opens the lid of the hearth, revealing it to be the lens of a projector.
+
+#CAM Pans into the sky, framing the projection, a rectangular frame, which looks like a 70's home-made video recording.
+
+// The small rectangular frame is reminiscient of Survival Kids or UNDERTALE.
+
+#BGM The Eternal Tale
+
+The camera (within the projection) pans slowly from below, where it frames stars and darkness.
+
+[The Oracle]
+Since a time long forgotten,
+Drifting in the void,
+Nestled in a sunbeam,
+
+When she says Earth, the camera lands on Earth as seen from space, with a flare from the sun shining on top of its image, mimicking the imagery within the poem. A mix of Earthrise and The Pale Blue Dot.
+
+[&]
+EARTH,
+your home,
+lies within our care.
+
+Cave people dancing around a bonfire.
+
+[&]
+And from the EARTH you grow,
+HOPE guides your hearts
+
+Close up of a wall where kids are playing with the shadows. The wall has some paintings on it: negative handprints, stick figures, shapes.
+
+[&]
+And every DREAM you make
+Brings each other warmth
+
+The slide shows a younger child from close holding a small flower like a little golden flame about to be snuffed by the wind. The child looks scared and despondent. Their body is covered in thorns and wounds.
+
+[&]
+But...
+Sometimes you'll find...
+A SOUL that's different...
+Its heart's been bruised...
+Its body beaten.
+
+The child is shown running away into the woods, the sunset in the background.
+
+[&]
+We hear their story...
+
+The child walks over a creek towards what seems to be a cave.
+
+[&]
+We hear their pain...
+
+The kid is inside the cave, their hand touching the cave wall, as a blue light shines from deep within.
+
+[&]
+We make a portal...
+
+Intimate closeup shot of their eyes awestruck by whatever they are seeing.
+
+[&]
+We call their name...
+
+Framing the cave entrance beggining to close, leaving no trace.
+
+[&]
+If they come out
+They're not the same
+
+#TRANS The entire screen goes white, then slowly black.
+
+[The Oracle]
+This, Hero, is our purpose. And the role _you've_ taken, too.
+But today, something else looms in the horizon...
+
+#TRANS Fade
+
+A scene from the real world plays, in 4:3, showing the streets of New Horizon bathed in apocalyptic red light. It's raining.
+
+// This is a scene from the future, an event which happens off-screen between the end of Episode 03 and the start of Episode 04. This makes sense if you've read the Episode 04 script.
+
+#CAM Slowly panning upwards, to frame the empty sky.
+
+Lightning flashes, lighting the vast night sky.
+
+[&]
+Boiling with hatred...
+
+Suddenly, with the mention of it, the sillouette of The Angel — its many concentric rings — is illuminated in the next two lightning flashes.
+
+[&]
+A terror from another world threatens the worlds with anihilation.
+
+#TRANS Smash to black with a lightning sound.
+
+#TRANS Fade in
+
+Everybody is silent, solemnly.
+
+Claire stands up.
+
+[Claire]
+I'm... This is...
+
+[Rosetta]
+(trying to lighten Claire up)
+But, Claire, you're safe here with us for as long as you stay, okay?
+
+[McMayor]
+Even if your realm does end up being destroyed you will be able to stay here.
+
+The crowd begins to disperse.
+
+[Claire]
+I'm... sorry... you've all been so hospitable and welcoming, but...
+
+Another pause.
+
+[Claire]
+My dad's gotta be worried sick. And there's those guys stuck at school, too...
+
+[McMayor]
+Didn't you hear it? Your world is going to be destroyed! There will be nothing to return to.
+
+[The Oracle]
+The human must go back to her world.
+
+A brief pause.
+
+[The Oracle]
+Young heroin. You seek the way back home, do you not?
+
+[Claire]
+Yeah...
+
+[The Oracle]
+There is only one way for you to return safely.
+In the bleak catacombs... the ruins of the old city...
+Find **The Mirror**, and exit through it.
+
+[Evelyn]
+Nana... Can the human not stay with us? We wanted to play—
+
+[The Oracle]
+It is decided. She must leave now.
