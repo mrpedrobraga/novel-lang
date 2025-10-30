@@ -92,7 +92,7 @@ Then, he sends her off.
 == Happy Stroll to School ==
 Where: Nightmare New Horizon
 
-Little Claire steps outside, only to just catch the bus going off without her.
+Little Claire steps outside, only to just witness the bus going off without her.
 
 [Claire]
 Bognaddit. Oh well...
@@ -992,7 +992,7 @@ What? Me? Do I really have to?
 Absolutely.
 
 [Pierre]
-(unbothered)
+(not really bothered)
 Sure.
 
 [The Mystery Kid]
@@ -1003,7 +1003,7 @@ Aaaaand remember: we're all counting on you. No pressure.
 Well, I—
 
 [The Mystery Kid]
-Cheerios!
+Break a leeeeeg!
 
 #TRANS Smash cut
 
@@ -1047,7 +1047,7 @@ Where are we going?
 
 Pierre lets out a soft meow and bolts in between the trees. Claire picks up her pace and soon she finds a curious path. Very tensely, she walks over a big trunk laid down as a bridge overr the creek. And then she finds herself in a clearing in the forest.
 
-== The Gateway ==
+== The Portal ==
 Where: The Treehouse
 
 // Wonder if people will recognise the treehouse from the [[#Setting_The_Tone|first scene]].
@@ -1105,7 +1105,7 @@ Music starts to swell with a magigc orchestral sound.
 // From now on, a few things change.
 // Opening the UI now shows an empty "DP" gauge underneath the HP gauge.
 
-== Is This A Dream ==
+== Marvelous Sight ==
 Where: Hearthaven
 
 Claire remains looking at the city for a moment. She stands still, finally allowing herself to calm down. Pierre jumps onto the handrail and she pets him without moving her gaze.
@@ -1491,6 +1491,10 @@ H- huh?
 [McMayor]
 Have you lost the most important document in our land?
 
+[Claire]
+(mumbling)
+no don't fire her
+
 [Becky]
 I didn't lose it! I simply handed it to _the Professor_ for preservation!
 
@@ -1545,7 +1549,7 @@ Your grandpa and your dad, they weren't mayors?
 [McMayor]
 Nope.
 
-== Find The Professor ==
+== Direction Gag ==
 Where: Hearthaven
 
 #BGM Hearthaven
@@ -1603,7 +1607,7 @@ They'll say things like:
 
 "Our homes have been destroyed, too, but we've made this place our own. We hope it can be your home, too."
 
-== The Atelier ==
+== The Professor ==
 Where: Hearthaven/Atelier
 
 (APD) Claire arrives at the Professor's door. She knocks on the door softly. No response.
@@ -1842,7 +1846,7 @@ You should go to the Mayor's office immediately before you lose it.
 Oh!
 
 [Erica]
-Or not idunno I'm not your mum.
+Or not i dunno I'm not your mum.
 
 (APD) You can walk back to the mayor's office. You can talk to people again but you can't go inside any other buildings.
 
@@ -1867,7 +1871,7 @@ What?
 I've heard a lot about you. Lively girl. 
 No memory hm... Good thing the Professor invented these handy devices. They do the remembering FOR you, ha!
 (tosses the card to the assistant)
-Becky, bring down the projector.
+Becky, analysis.
 
 Becky pulls out a device to plug in the memory card and starts scrolling through files for a while.
 
@@ -1880,11 +1884,11 @@ There are a bajillion files here, sir!
 Becky starts scrolling through the many, many legends.
 
 [Becky]
-Kit lost in whitespace... no...
+Kid lost in whitespace... no...
 Alien turns animals rabid... no...
 Girl climbs up a big mountain... no...
 Little boy wakes up sleeping fish... no...
-When the world is subsumed by shadow...
+When the world is subsumed by shadow... hell no...
 Blond lad saves the prin— didn't I see this kid before...
 
 [Claire]
@@ -1912,10 +1916,10 @@ Well, every so often a human child will be exploring unsupervised and end up her
 
 [Becky]
 Don't listen to him— it is an _honour_ to serve these kids for as long as they stay.
-Some kids just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other real to provide that, right?
+Some kids just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other realm to provide that, right?
 
 [Mayor]
-Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which: your passport.
+Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which — your passport.
 
 (APD) You can pick it up. "'Dream Passport' was added to your SPECIAL items."
 
@@ -1956,7 +1960,7 @@ Your room will be prepared by the time you arrive.
 // Bro is divorced, lol.
 
 [Claire]
-Neat.
+Cool beans.
 
 == Saving ==
 Where: Hearthaven
@@ -2189,7 +2193,7 @@ A pause of realization.
 [Claire]
 Oh...
 
-Erica appears in the window, upside down.
+Erica pops up by the window, upside down.
 
 [Erica]
 Hey!
@@ -2457,7 +2461,7 @@ The human must go back to her world.
 A brief pause.
 
 [The Oracle]
-Young heroin. You seek the way back home, do you not?
+Young heroine. You seek the way back home, do you not?
 
 [Claire]
 Yeah...
@@ -2472,3 +2476,201 @@ Nana... Can the human not stay with us? We wanted to play—
 
 [The Oracle]
 It is decided. She must leave now.
+
+Evangeline walks up to the catacomb doors. APD, you may say goodbye to everybody.
+
+Some people will say stuff like:
+
+"Huh? Already leaving? Okay!"
+
+"Even though your stay was short, you brought joy into our monotonous lives for at least a few moments."
+
+"Good luck out there! Don't die and stuff!"
+
+When you get to the catacomb doors, Evangeline will have a small conference with you.
+
+[The Oracle]
+Young heroine...
+
+[Claire]
+Yeah?
+
+A brief pause.
+
+[The Oracle]
+It is not poor hospitality; my hand is forced to urge you to seek your destiny this night.
+
+[&]
+The Hero of Spirit is the light in their path, the guide of lost souls.
+But tonight, both you and your world are wounded in insidious ways, and you find yourself in the role of the student once again. And there is no guide to help you.
+
+[&]
+Now. You must be your own light.
+
+She hands Claire a lit match.
+
+[&]
+Doing this alone will teach you the importance of your own role in their journeys. Claire. For everyone's sake. You must reach **The Mirror** and exit to your world.
+
+// Double entendre here, by "your world" Claire understands "Earth," but Nana means Claire's otherworld. Somni always refer to the physical realm as a "realm," never a "world."
+
+[Claire]
+The Mirror. Yep. Got it.
+
+Evangeline looks at her for a moment.
+
+[Evenlyn]
+(sad)
+Bye, human...
+
+[Enzo]
+Huh... where's Erica when we're saying goodbye, now...
+
+[Rosetta]
+Take care out there, will ya?
+
+She hands you some star cookies.
+
+[McMayor]
+You will need some money in your journey.
+Alright, take this, and don't say I never gave you anything.
+Don't spend it all in one place!
+
+Narration reads "Got 1 gold."
+
+[Claire]
+Thanks for the stay. You were all very kind.
+
+Finally, Claire leaves the city.
+
+// You can come back in, everyone will be gone.
+// There are some secrets to be hidden here later.
+
+== Nadir Forest ==
+Where: Nadir Forest
+
+Claire walks into the twisted dark forest of hollow trees that encircles Hearthaven. As she walks, the trees creep dark and tall above her. The ground is filled with snowy soot.
+
+After walking for a short while, she runs into Pierre chilling inside an empty tram station. You can interact with him.
+
+[Claire]
+Hey!
+
+[Pierre]
+Hello, human. Anxious already?
+
+[Claire]
+A little.
+
+[Pierre]
+Well, have at me!
+
+#SAVE The presence of _some_ infrastructure within the creepy forest feels reassuring. Your SOUL glimmers with HOPE.
+
+You may buy something at the vending machine with your gold.
+
+After being there for a little while, a tram will arrive and wait for her to enter. When she does enter, she sits for a moment. All the other seats are empty. Then, the conductor will summon her to the cabin. (APD) She'll get up and head to the front. 
+
+There, professor Whynott is manning the tram.
+
+[Whynott]
+Welcome aboard, Claire, my dear!
+
+[Claire]
+Professor! It's great to see you!
+Are you the conductor?
+
+[Whynott]
+Observant as always, I see! Why yes, I am the conductor, indeed!
+
+[Claire]
+(sarcastic "very funny" expression)
+I just thought you were an inventor.
+
+[Whynott]
+Well, I used to be! Back in the good old days...
+Now, well, I can't support my "hobby" on a "former Royal Scientist" salary!
+
+[Claire]
+How much does a bus driver make?
+
+[Whynott]
+Darling, this is a tram! It's like a bus — on rail!
+If you believe me, your world used to have them all around.
+
+[Claire]
+Oh, I think I've seen them before.
+
+The tram suddenly screeches to a halt.
+
+[Whynott]
+Scandalous.
+
+[Claire]
+What happened?
+
+[Whynott]
+There seems to be an obstacle in the rail up ahead.
+(his index finger jumps into the air)
+Idea! There is a maintenance station up ahead — it should have the necessary controls to unobstruct the way... Claire, would you kindly—
+
+[Claire]
+Yes, sir!
+
+(APD) Claire steps off the tram and enters the station.
+
+== First Real Battle ==
+Where: Nadir Forest
+
+#BGM Liminal
+
+(APD) Claire enters the decrepit station, accidentally stepping on a teddy bear laying on the ground. She grabs a lever fixed into the panel and, with effort (and a minigame), activates it.
+
+#CAM Shows rail outside.
+
+The ground below the rail activates like a spring launch mechanism that yeets the logs on top of the rail forward. Then it settles.
+
+#CAM Shows Claire again.
+
+Claire rolls her shoulders.
+
+[Claire]
+That should do it.
+
+(APD) She heads back out, stepping on the plush again.
+
+Before she can leave the room, a voice calls her out of nowhere.
+
+[Theodor]
+Hey!
+
+Claire looks around.
+
+[Theodor]
+Yes! You!
+
+The toy bear starts floating in the air, startling Claire.
+
+[&]
+What's the big idea, huh kid?
+
+[Claire]
+What???
+
+[Theodor]
+The FIRST time you stepped on me — fine, maybe she didn't see me — I thought. I'm laying on the ground, the room is dark...
+And then!!! You stepped on me AGAIN???
+
+[Claire]
+Oh...
+
+[Theodor]
+"Oh..." I know your kind! You think you can step all over people and they don't do anything, huh!!! You... my old boss... my ex-wife— YOU'RE ALL THE SAME!!!
+
+[Claire]
+I'm sorry I stepped on you, sir, I didn't mean to—
+
+[Theodor]
+WELL HEAR THIS!!! I'LL SHOW YOU HOW IT FEELS!!! NOBODY'S STEPPING ON ME EVER AGAIN!!!
+
+#TRANS Battle flicker
