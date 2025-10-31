@@ -20,10 +20,15 @@ async fn main() {
                 input,
                 target,
                 path,
+                content,
             } => {
                 let raw = std::fs::read_to_string(&input).unwrap();
                 let (_, file) = crate::parser::file(&raw).unwrap();
-                let html = crate::exporter::export_html(&file);
+
+                let html = match content {
+                    PrintContent::All => crate::exporter::export_html(&file),
+                    PrintContent::Outline => crate::exporter::export_html_outline(&file),
+                };
 
                 match target {
                     PrintOutput::Stdout => print!("{}", html),
@@ -67,6 +72,8 @@ enum Commands {
         target: PrintOutput,
         #[arg(short, long)]
         path: Option<PathBuf>,
+        #[arg(short, long)]
+        content: PrintContent,
     },
     Serve {},
     Play {
@@ -80,6 +87,13 @@ enum PrintOutput {
     #[default]
     File,
     Stdout,
+}
+
+#[derive(ValueEnum, Clone, Default)]
+enum PrintContent {
+    #[default]
+    All,
+    Outline,
 }
 
 // --- //

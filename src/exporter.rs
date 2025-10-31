@@ -27,6 +27,32 @@ pub fn export_html(file: &File) -> String {
     .into_inner()
 }
 
+pub fn export_html_outline(file: &File) -> String {
+    maud! {
+        body {
+            main {
+                @if let Some(frontmatter) = &file.frontmatter {
+                    div class="header" {
+                        @if let Some(title) = frontmatter.get("T") {
+                            div class="header-title" {(r_value(title))}
+                        }
+
+                        @if let Some(subtitle) = frontmatter.get("S") {
+                            div class="header-subtitle" {(r_value(subtitle))}
+                        }
+                    }
+
+                }
+                @for (idx, scene) in file.scenes.iter().enumerate() {
+                    (r_scene_outline(scene, idx))
+                }
+            }
+        }
+    }
+    .render()
+    .into_inner()
+}
+
 fn r_scene(scene: &Scene, idx: usize) -> impl Renderable {
     maud! {
         div class="scene" {
@@ -42,6 +68,26 @@ fn r_scene(scene: &Scene, idx: usize) -> impl Renderable {
                 @for item in scene.items.iter() {
                     (r_item(item))
                 }
+            }
+        }
+    }
+}
+
+fn r_scene_outline(scene: &Scene, idx: usize) -> impl Renderable {
+    maud! {
+        div class="scene" {
+            div class="scene-name" {
+                (
+                    format!("{}. {}",
+                    idx + 1,
+                    scene.name.clone().unwrap_or_else(|| format!("Scene {}", idx + 1)))
+                )
+            }
+            div class="marker" id=(scene.name.as_ref().map(|name| name.replace(" ", "_"))) {}
+            div class="scene-items" {
+                /* @for item in scene.items.iter() {
+                    (r_item(item))
+                } */
             }
         }
     }
