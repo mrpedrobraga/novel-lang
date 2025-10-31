@@ -473,7 +473,7 @@ Good thinking.
 
 (APD) Claire and Andy walk together back into the school.
 
-====
+== The Tear ==
 
 (APD) Claire checks out the vending machine.
 
@@ -524,7 +524,7 @@ Wait if they've come from Earth they're not aliens then.
 [Andy]
 Let's just keep walking.
 
-== Fetch Quest ==
+== What Could Go Wrong ==
 
 (APD) Claire and Andy head upstairs, where the Principal's office is.
 
@@ -2374,7 +2374,7 @@ A SOUL that's different...
 Its heart's been bruised...
 Its body beaten.
 
-The child is shown running away into the woods, the sunset in the background.
+The child is shown running away into the woods, the sunrise in the background.
 
 [&]
 We hear their story...
@@ -2674,3 +2674,678 @@ I'm sorry I stepped on you, sir, I didn't mean to—
 WELL HEAR THIS!!! I'LL SHOW YOU HOW IT FEELS!!! NOBODY'S STEPPING ON ME EVER AGAIN!!!
 
 #TRANS Battle flicker
+
+#BGM Battle Incoming!
+
+Claire fights against an angry teddy bear with trust issues.
+
+During the fight, Theodor will continuously try to step on you doing pathetic damage (it is so soft).
+
+Narration reads "This bear don't care!", "Smells like dust.", "Rage fills the air", "Teddy's legs are so soft they deal 1 damage." on a loop.
+
+[Claire]
+Nooo! Don't attack me!
+
+[Teddy]
+Wahahaha! Feel my furaay!!!
+
+// You can defeat Teddy by giving him money or talking to him and letting him vent about uhh... his boss that "fired him" by telling him he "works too much and deserves a nice vacation" and his wife that scheduled a nice night out but didn't show up... hours before the great evacuation... You can also defeat him by punching him or setting him on fire.
+
+== That Was Weird ==
+
+(APD) Claire comes back from the station to the tram cabin.
+
+[Whynott]
+Great job, kiddo!
+
+[Claire]
+What can I say, I'm a mind boggling, lever toggling queen.
+
+[Whynott]
+Whatt? (sic)
+
+[Claire]
+Let's keep going.
+
+The tram continues forward.
+
+#TRANS Corny 80's clock wipe transition.
+
+The tram continues to Aurora, the vegetation getting promply duller as the sky appears. It's sunrise. The golden sun adds some colour to the grey sky. You can see, in the distance, the clouds taking over the sky as the tram makes progress into the catacombs, the rain hitting the top of the tram weirdly soothing. Nearing a cliff, the tram converts into a suspended tram and gently drifts inbetween the stems of giant flowers.
+
+[Claire]
+Woah...
+
+[Whynott]
+(smiling)
+
+[Claire]
+Wait, are all these flowers big or did we become tiny?
+Oh, am I'm rambling too much? Hehehe...
+
+The Professor takes a deep breath.
+
+[Whynott]
+Ah, not at all.
+
+[Claire]
+Huge droplets. So round.
+
+[Whynott]
+How I missed the conversations one has with passengers. Driving these trams around, a surefire way to enrich the SOUL...
+
+[Claire]
+If... noone comes here... Then why do you drive the tram?
+
+[Whynott]
+Well, somebody has to! If nobody else is will, it's up to ye old Professor!
+
+[Claire]
+(smiling)
+No, but, like, how do you even collect fares—
+
+Suddenly, something falls into the tram ceiling with a jarring thud.
+
+[Whynott]
+Mind checking what that was?
+
+[Claire]
+On it.
+
+Claire opens the window to look outside the tram, and a Wadwasp pours in!
+
+[Claire]
+I... uh... got this! I think!
+
+Here you can battle the single Wadwasp. You can set it on fire... or soothe it by talking to it. Their battle uses the song "Battle Incoming!" too.
+
+[Claire]
+Oh yeah... that's...
+
+A bunch of bleaked bees pour into the train and inch toward Claire.
+
+[&]
+What's the collective noun for bee?
+
+[Whynott]
+"Swarm" — are you alright back there?
+
+Claire freezes while looking at the bees approaching. A frame of a flashback flashes on screen, like how it happened in [[#What_Could_Go_Wrong|the school earlier]]. Seeing Claire take too long, Prof. Whynott concocts a plan.
+
+[Whynott]
+You're... Uh... Athletic, right? You're pretty young, got some nice legs for jumping?
+
+[Claire]
+What kinda question is that?
+Well, I do gymnastics... some somersaults...
+
+[Whynott]
+That's what kind of question that it is!
+
+The professor jumps from the conductor's seat and pushes the bees away with his hat, and backs down into the cabin, letting Claire enter first. Then he closes the cabin door, using his body to keep it shut.
+
+[Whynott]
+Claire, darling, open the door, will you?
+
+The door opens, and air rushes by, the tram starts to shake pretty intensely. Both of them have to shout.
+
+[&]
+Now, hear me — ugh — you're gonna have to jump!
+Find something that will break your fall and go for it!
+
+[Claire]
+J... jump???
+
+[Whynott]
+You heard me!
+
+[Claire]
+W- what about you? You have a plan?
+
+[Whynott]
+The plan is to get you to safety.
+
+[Claire]
+You can't fight all of these things by yourself...
+Maybe if we try together...
+
+[Whynott]
+I'm jump after you.
+
+// Here, the player will be prompted to press Z to jump... But it will fail.
+
+[Whynott]
+(preoccupied)
+Claire, please, jump! NOW!!
+
+[Claire]
+I... can't! It's too high! I can't jump!
+
+[Claire]
+You can't stay there frozen either!
+
+[Claire]
+My legs... they won't...
+
+The bees break through the door and come swarming in.
+
+[Whynott]
+NOW!!! Get to Aurora!! find **The Mirror** and GET OUT!! NOW, JUMP!!
+
+Claire closes her eyes and lets herself go.
+
+#TRANS Cut to black.
+
+And in black we stay for a moment.
+
+== The Catacombs ==
+Where: Aurora/Outskirts
+
+#BGM (silence + ambience)
+
+It's a low point.
+
+Claire is laying down in the middle of a puddle. The rain has since caught on. The atmosphere is grey and bleak; she gets up.
+
+[Claire]
+(mumbling)
+**The Mirror...**
+
+The drizzle floats in the air, swayed by wind. Claire walks slowly, unmotivated. Torn buildings and giant swords tower in the distance. Cockcrow Peak, and part of the castle, can be seen far.
+
+(APD) Claire presses on, taking breaks to push whatever debris is on her way.
+
+You can follow the tram line into the city. There's a navigational puzzle here where the rails show the correct place to go (since it's the path the tram would've taken). There are several strange misplaced status across the greyscale plaza. Strangely detailed frogs frozen in time. Claire has to drag her boots across the puddles on the floor, no longer trying to maintain herself dry.
+
+Interacting with them, narration reads "For a moment... you thought you saw the statue... breathe?" There are several closed (some barricated) buildings. Nobody's home.
+
+Then, on the corner of her eye, she sees a girl in a yellow dress seemingly cleaning one of the statues.
+
+[Claire]
+A... girl?
+
+The kid is startled and looks at Claire, squinting through the mist. Claire does a little wave. The girl stares at her for a second, then uncerimoniously turns away and leaves.
+
+[&]
+W... wait!
+
+Claire steps forth on to the next room but the girl has already vanished.
+
+[&]
+Dang it...
+
+A little bit forward, the only path is blocked by two heavy statues.
+
+[Claire]
+(sarcastically)
+Great.
+
+On her own, Claire walks around and sits down at a bench besides a frog statue.
+She sits for a minute.
+
+[Claire]
+So... Let's see...
+The school's been taken over by... whatever...
+I found a portal to a parallel world...
+The world is going to end... and I'm some sort of guide or hero...
+(she smiles)
+This is the weirdest dream I've ever had.
+
+[Claire]
+Can't wait to wake up from it though.
+
+A moment passes.
+
+[Claire]
+(mimicking british accent)
+Bit of rain, innit?
+
+Claire looks at the statue beside her.
+
+[Claire]
+If I'm complaining of the cold,
+You must have it even worse, huh, stone man?
+What are you, a frog?
+
+Claire looks at it.
+
+[Claire]
+This place is so gloomy, eh...
+
+A brief pause.
+
+[&]
+You know what?
+(smiling determinedly)
+I won't be.
+I'm going to DREAM my own thing now.
+
+Narration reads "However small, you felt something begin to resonate within your command menu."
+
+When the player chooses the pulsating rainbow option, Claire will close her eyes, smile and open her arms. She stays there for a moment, feeling the rain. Then, suddenly, the clouds open partly, letting a growing pillar of sunlight in. The statue rumbles and then in a flash, the town area flashes into partial colour tile by tile (like in a GBC game).
+
+The frog kid blinks twice, feels its body and does a surprised expression.
+
+[Kid Frog]
+(croak)
+Holy marsh!
+
+[Claire]
+Huh?
+
+[Kid Frog]
+You!!
+
+The frog jumps in front of her.
+
+[Kid Frog]
+H- hi! Are you a h- h- human???
+
+[Claire]
+Yes?
+
+[Kid Frog]
+Woah! Wo- wo- woah! I haven't seen a human folk in ages! Th- thanks for bringing me back, yo!
+
+[Claire]
+I... did this?
+
+[Kid Frog]
+I'm gonna tell everybody in town!
+
+The kid frog hops away. The city, while still raining, is somewhat more lively now, filled with some blues and greens.
+
+#BGM Forgotten Sun
+
+(APD) You can walk forward. There are two status still blocking the way. You know the drill, it's to use DREAM on them. They turn into TESTY TOAD.
+
+[Testy Toad]
+Gah! Outrageous!
+(ribbit)
+I'm... Awake???
+
+He notices Claire.
+
+[&]
+My colour came back and I don't know what to do!!! Tell what, for all that's worth, I'm gonna take my confusion out on you!!!
+
+[Claire]
+What? Why???
+
+There's a fight here against Testy Toad. You can Talk or DREAM to soothe him. Giving him some moon cola also works. You can also murder him I guess. The battle theme is still [[Battle Incoming!]].
+
+[Testy Toad]
+I'm awfully sorry, little one.
+I just haven't had my morning coffee in... Well...
+
+[Claire]
+(smiling)
+Get outta here!!!!
+
+[Testy Toad]
+Will do! Will do!
+
+He hops away.
+
+== Lizard Ladies ==
+Where: Aurora Ruins
+
+Going forth into the alley, Claire runs into two lizard ladies and ends up fighting them. Upon defeat (by ACTing) they will say:
+
+[Lizard Lady A]
+Oh, I'm sssss-sorry dearie!
+
+[Lizard Lady B]
+I'm awfully sssss-sorry, yeah!
+
+[Lizard Lady A]
+You came in hopping, we thought we saw a frog!
+And that the frog was you!
+
+[Lizard Lady B]
+We don't like frogs... we forsake them!
+
+[Claire]
+I'm... um... not a frog.
+
+[Lizard Lady B]
+Ssss-say, what are you? We can't tell.
+
+[Claire]
+I'm uh... a human...
+
+[Lizard Lady A]
+Oh! I haven't ssss-seen a human in agessss!
+
+[Lizard Lady B]
+Ssss-say, are you a boy human or a girl human, little one?
+
+[Claire]
+I'm a girl!
+
+[Lizard Lady A]
+A girl human? How exxxxquisite!
+
+(APD) You walk through an alley. In there, The Mystery Kid and Pierre stand suspisciously.
+
+== Mystery Duel ==
+
+[The Mystery Kid]
+Hey, it's everybody's favourite child of indeterminate gender!!! Your one and only host!!!
+Oh, may I say you look dashing today, my dear, absolutely soaked in elegance?
+
+[Claire]
+(britishly)
+Oh, nothing that a small dash of absolutely pouring rain can't do!
+
+[The Mystery Kid]
+Haven't pet the cat in a while, have you?
+
+[Pierre]
+Hey, Claire! You know you can talk to me even if you're *not* anxious, right?
+
+[Claire]
+What difference does it make if I'm anxious all the time.
+
+[Pierre]
+Touché...
+But also, have at me!!!
+
+#SAVE Game is saved here.
+
+// Save points have whimsical narration usually, but there's never any narration or flavour text if The Mystery Kid is on screen since they are the narrator and that's not supposed to be obvious on a first playthrough.
+
+[The Mystery Kid]
+Oh, what a great team we make, the three of us.
+Say this, love, I'm really proud of what we've built together. You help me, I help you...
+
+[Claire]
+You haven't helped me at all!!!
+
+[The Mystery Kid]
+What??? Who was there with you all this time? When you were doing puzzles? Comitting arson? Fighting frog (sic)?
+
+[Claire]
+(baffled)
+Not you!
+
+[The Mystery Kid]
+(offended)
+Well, I'm DONE helping you, since THAT's how it's gonna be. Hmpf.
+
+[Claire]
+You have been of no help whatsoever???
+
+[The Mystery Kid]
+(offended 2, the sequel)
+Gasp!
+(putting their fists out in a goofy fighting stance)
+That's it! I'm not gonna take such ingratitude to my face! Bring it on, Claire!
+
+// Prompt here.
+// You can choose "Bring It On" or "Leave It Off"
+
+// If you choose "Bring It On", you can fight them!
+
+[Claire]
+(smiling, whispering)
+_This is a bit, right?_
+
+[The Mystery Kid]
+(smiling, whispering)
+_Yeah!_
+
+[Claire]
+Well, uh, in this case, I will, uh... forsake you!!!
+
+[The Mystery Kid]
+Well, then, time to teach you some respect. Prepare to be destroyed in combat!
+
+[Claire]
+Yeah, ha ha. You're...
+(serious)
+Still joking, right?
+
+A brief pause.
+
+[&]
+Right?
+
+A brief pause.
+
+[&]
+Righ-
+
+#TRANS Battle flicker
+
+[The Mystery Kid]
+Get got!
+
+The Mystery Kid throws a single, very slowly rotating card at you.
+
+// There is no "narration" during this battle, only TMK commenting as themselves.
+
+[Claire]
+Huh?
+
+[The Mystery Kid]
+That was my attack! :D
+
+[Claire]
+You can't just throw one card at me and call that an attack.
+
+[The Mystery Kid]
+Why not?
+FINE. Okay.
+(wink)
+Alright, get ready for my next turn then.
+
+You can choose actions here.
+
+// If you choose 'Pose'
+
+[The Mystery Kid]
+Cool! Dunno why you did that but sure!
+
+// If you choose 'Hug' you can hug them
+
+[The Mystery Kid]
+Awww... are you saying goodbye since you're going to die?
+
+Next turn, they throw _two_ very slowly rotating cards at her.
+
+[Claire]
+Huh???
+
+[The Mystery Kid]
+What now???
+
+[Claire]
+Oh, come on! Don't just send two cards either! I can take more than this!
+
+[The Mystery Kid]
+Oh. I see.
+
+Your have a turn here, etc.
+
+The Mystery Kid throws a single slowly rotating chard again... but, before it can even hit you, an assortment of random bullets — fire, dice, tokens, move through the bullet board at insane speeds. Then the slowly moving card completes its journey through the bullet board and off screen.
+
+[The Mystery Kid]
+Alright this fills my legally mandated screentime quota for this act. Let's call it a truce, okay? I'm going to Spare you now!
+
+You can then Spare them.
+
+// Some battle notes: being hit by normal bullets deal 1 damage per bullet.
+// Being hit by any of the cards deals 999 damage, and kills you instantly.
+// If you do survive after being hit, The Mystery Kid just says "I love strong women :)".
+// Not sparing them or hitting them prompts them to say "Do you need ACTing lessons?"
+// It's impossible to kill them no matter how much you hit them.
+
+== Tip Intro ==
+
+[The Mystery Kid]
+Huff... Puff... Oh boy, what a workout!
+Well, I hope you've learn your lesson!
+
+[Claire]
+...
+
+[The Mystery Kid]
+Alright, here's the deal.
+Look at this.
+
+TMK rotate-shrinks until only their top hat is left. Then, they jump back into their normal form.
+
+[The Mystery Kid]
+I'm gonna be leaving these top hats around... If you need a tip, just give it a tap!
+To help get, tap the tip top hat, got it?
+
+[Claire]
+Yeah.
+
+[The Mystery Kid]
+Tippity-tappity bye!
+
+The Mystery Kid vanishes into their top hat.
+
+// You can interact with it again.
+
+[Claire]
+Where did they go...
+
+[The Mystery Kid]
+Aaaaaaaaand the audience screams Encore!!!
+
+[Claire]
+Uh... Do you have a tipp?
+
+[The Mystery Kid]
+A tip? I _just_ gave you one??? About tophats???
+
+[Claire]
+Well, give me another!
+
+[The Mystery Kid]
+Sure! Keep an eye on your "HP" — if that number reaches "0"... you will "die."
+
+[Claire]
+I already knew that!
+
+[The Mystery Kid]
+Well, it's a great thing to keep in mind, no?
+
+A brief pause.
+
+[The Mystery Kid]
+Eeesh. Tough crowd...
+Yet the show must go on.
+Claire: geddaoutta here!
+
+Then they revert to a tophat again.
+
+If you save now, narration reads.
+
+#SAVE Knowing that this strange child has your back... Your SOUL glimmers with HOPE.
+
+== Drapery Drake ==
+
+On the other side of the alley, in the marketplace, amphibians and reptiles of all kinds are having beef with each other.
+
+A merchant, [[Drapery Drake]], a shifty-looking dragon, is crying as toads run around its shop.
+
+[Drapery Drake]
+Oh how I wish one!!!
+Would drive the toads away!!!
+I'd give them wares!!!
+(Provided they'd pay)
+
+You can hop in here and fight the two toads that are harrassing the poor guy. You can also just move on lmao, but he will scream "Thou art just gonna leaveth me? f'rsake me?" and you can't leave.
+
+[Drapery Drake]
+Littlest one I thanketh thee dearly. Thee has't vindicat'd me in this matt'r...
+
+[Claire]
+Glad to help, sir.
+
+[Drapery Drake]
+May I p'rhaps off'r: something in returneth?
+Aye. aye. Prithee, littlest, shall thee participateth on a dram game?
+
+// You can choose to not participate. If so he'll just say "Pleaseth" each time until you accept.
+
+[Claire]
+Sure!
+
+#TRANS Battle flicker
+
+#BGM Buy Something, Will Ya?
+
+#CAM In first person view, though still in colour.
+
+[Drapery Drake]
+Heareth the game rules:
+yond way thee'll playeth most best. 
+Findeth the jewel once, twice, thrice
+and a prize thee'll winneth fast!
+
+D.D. stuffs the jewel under one of the three hats and shuffles them once. But, because the three hats are completely distinct from one another — a baseball cap, a helmet and a tophat (which has the gem), it's trivial to find where the jewel is.
+
+[Drapery Drake]
+Remarkable luck!
+the jewel thee has't hath found!
+shalt thee findeth t again,
+in this nexth comingeth round?
+
+She shall. She does.
+
+[Drapery Drake]
+I'm quite bewitched!
+thou art quite artful!
+findeth the jewel once m're;
+thy pockets shall beest full!
+
+He lowers the hat one more time, and shuffles it WITH PASSION. Claire points to the correct hat immediately. But.
+
+The music cuts. The top hat starts going up slowly with a matching whistle noise, revealing a very thing scaled The Mystery Kid inside. When the top hat reaches its zenith, TMK's sprite expands and their theme blasts at full volume.
+
+#BGM The Mystery Kid
+
+[The Mystery Kid]
+Goood evening, folks!
+
+The dragon shivers horrified in the corner.
+
+[&]
+Are you in the middle of something? I mean, you _insisted_ in summoning me. Three times is not a coincidence, right?
+
+[&]
+Well I have a tip for ya that will ad just a DASH of excitement to your battles... Quite... literally... See that little **purple flower** of yours? Whenever you see its beautiful purple, remember of trying for [Z]!
+
+[&]
+Really, try it now!
+
+Claire does a dash!
+
+[Claire]
+OH, Neato!
+
+[The Mystery Kid]
+Yes! You got it! Claire's **purple** and her "Warp Dash."
+So, keep that in mind.
+
+[The Mystery Kid]
+Purple — Dash!
+
+Then they disappear into their hat.
+
+[Drapery Drake]
+A- are they gone???
+
+[Claire]
+I think so.
+
+[Drapery Drake]
+I'm sorry. I'll... I'll... Uh...
+The shope is did close!
+
+D.D. slides off screen.
