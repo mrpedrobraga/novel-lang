@@ -72,7 +72,7 @@ enum Commands {
         target: PrintOutput,
         #[arg(short, long)]
         path: Option<PathBuf>,
-        #[arg(short, long)]
+        #[arg(short, long, default_value = "all")]
         content: PrintContent,
     },
     Serve {},
