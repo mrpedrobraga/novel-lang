@@ -3905,7 +3905,7 @@ APD Claire presses on.
 
 == BK Feud 1 ==
 
-[Basket Knight] stands atop a wall and looks at you from up there.
+.[[Basket Knight]] stands atop a wall and looks at you from up there.
 
 #BGM Royal Nuisance
 
@@ -3990,7 +3990,7 @@ She leaves the room.
 
 In this room, there is a small tea stand, and, to its side, an ornate table, with several bleaked characters drinking tea:
 
-// Here we have [Dolores], [Tea Frog], [Tea Bunny], [The Mystery Kid] and and [Pierre].
+// Here we have [[Dolores]], [[Tea Frog]], [[Tea Bunny]], [[The Mystery Kid]] and and [[Pierre]].
 
 There's a sign which reads "Cuppa Dream — Aurora's finest tea shop."
 
@@ -4065,7 +4065,7 @@ Ahhhh...
 // The tea shop sells Red Tea and Ice Tea, as well as Star Cookies.
 // When you buy an item it'll remark "Tiny spiders wearing pointy hats pour your tea with some effort. They reassure you you can keep the cup."
 
-Walking to the right, there will be two knight statues ([Shovel Knight] and [Bucket Knight]) blocking the way. Using DREAM on them wakes them up, but they attack you.
+Walking to the right, there will be two knight statues ([[Shovel Knight]] and [[Bucket Knight]]) blocking the way. Using DREAM on them wakes them up, but they attack you.
 
 // You can see the odd folks continuing to have their tea party while you're being impaled to death <3. During battle, narration will remark The Mystery Kid cheering for you and offering no help.
 
@@ -4308,7 +4308,7 @@ During the maze, you'll be attacked by Scissor Knight. It'll be complaining that
 
 == Bonding with BK ==
 
-On the next room, they'll fight [Rake Knight] and [Can Knight]. BK will be backseat-gaming during the battle criticising your actions.
+On the next room, Claire will fight [[Rake Knight]] and [[Can Knight]]. BK will be backseat-gaming during the battle criticising your actions.
 
 [Basket Knight]
 Don't take it to heart, okay...
@@ -4568,7 +4568,7 @@ There, there... What's gotten into you...
 [Basket Knight]
 Something's startled it... If it is one of the knights again I'll have strong word with them... But... I don't know...
 
-Walking more to the right... from the leaves, a corrupted figure jumps. As they turn their head to you, you can make it out. It's Professor Whynott.
+Walking more to the right... from the leaves, a corrupted figure jumps. As they turn their head to you, you can make it out. It's [[Professor Whynott]].
 
 [Claire]
 N... no...
@@ -4627,4 +4627,140 @@ We built this place for them...
 Winds begin to blow leaves around.
 
 [&]
-Tired travellers.
+Tired travellers could come by and take a rest... Eat some pie... Smell the flowers... Humans are always on some adventure, aren't they? Struggling to grow or whatever...
+
+Basket Knight walks past you, looking away from you, towards the entrance.
+
+[&]
+When we opened this up... we were waiting for masses of people to come by...
+
+A slight pause.
+
+[&]
+They never did... The people who did come made a mockery of this world. Stepped in the grass. Plucked petals out of Flobuds... Threw rubbish in the lake and kicked the signs...
+
+[Claire]
+I'm sorry that these jerks came but...
+
+[Basket Knight]
+No...
+Ha ha.
+They weren't jerks...
+Humans aren't evil... I sometimes like to pretend they are, but...
+(smiling sad)
+Maybe all they needed was the fun of not caring for a little while.
+But all of them were nice people...
+
+[&]
+But nice people do horrible things all the time...
+When we asked them to stop, they just didn't.
+Maybe they thought that because they were so cute and adorable, they couldn't possibly be wrong.
+And we couldn't bring ourselves to yell at them...
+We were desperate for visits anyway...
+
+[&]
+Humans think that a polite smile and a "positive" attitude will make everything okay.
+
+She looks at you.
+
+[&]
+Looking at you fake-smile your way through the garden, all huggy-lovey just now...
+It reminds me of them.
+
+[Claire]
+I'm not... fake-smiling...
+
+She looks away from you again.
+
+[Basket Knight]
+Lie to yourself all you want, I've learned to see through it all.
+Or are you really suddenly THAT cheerful while being soaking wet, stranded in an alien, dying world?
+
+[Claire]
+...
+
+[Basket Knight]
+I don't know what you want to do in our castle.
+And I don't care about how you'll justify to yourself that you're in the right.
+And there's barely anything left in this place from back then...
+
+[&]
+But as the captain of the crown's guard...
+I won't let a human take any more from me...
+(smiling)
+Step forward.
+If you dare.
+
+(APD) You can step forward.
+
+[Basket Knight]
+En garde.
+
+// TODO: Write the fight here. Or rather, BK's monologuing...
+// This is the first serious battle. And, as a twist to the area so far, it can not be won through being nice and positive. To befriend Basket Knight, you have to be open with your negative feelings, and allow her to be negative, too.
+
+#BGM Overgrown
+
+[Basket Knight]
+(teary eyed, smiling)
+You really are genuinely that nice...
+Why?
+Are you stupid?
+
+[&]
+You're gonna be eaten alive out there.
+Not everything can be solved by giving out hugs, you know...
+It doesn't matter how nice you are, you're bound to find a fight you can't win by befriending the enemy.
+Eventually, you'll have to FIGHT...
+
+[Claire]
+I hugged you because you're nice.
+I can punch jerks when it comes to it.
+
+[Basket Knight]
+Fighting jerks is easy.
+Fighting people you like, though...
+I couldn't bring myself to use my full power on you, and look what happened.
+But I'm glad you're not dead on the ground.
+
+[Claire]
+...
+
+[Basket Knight]
+The castle is... just across from the entrance, really.
+I'm... sorry, I'm so tired... you can go to the shrine on your own...
+
+Basket Knight walks past you, looking despondent.
+
+[Claire]
+Are you going back to gardening?
+
+[Basket Knight]
+Maybe I'll take that break you told me to.
+Taking care of this garden... where nobody comes... ha ha...
+
+She walks until she's just out of frame, then stops.
+
+[Basket Knight]
+What for?
+
+Then leaves.
+
+[Claire]
+...
+
+// If you return to the tunnel, the one that leads to this area, you'll find an item on the ground. A winding key.
+
+(APD) Claire exits the garden through the main entrance.
+
+#BGM Liminal
+
+To the left, an empty pier, no boats docked. The ocean is grey and uneasy.
+
+To the right, a tram station. A tram is crashed there.
+
+Up ahead, the Castle of Dawn.
+
+(APD) Claire puts her hands on the large doors. As she pushes on it, an imposing fanfarre builds up as the screen fades to white, a royal anticipation for the epic place.
+
+#TRANS Fade To White
