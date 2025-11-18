@@ -7,7 +7,7 @@ When: 21-06-2029
 
 The game opens by showing the logos of the "publishers," against a black screen (like a movie) interspersed with scenes from an important memory. Ominous synthwave music plays.
 
-// This memory is of the event that kickstarted this entire plot. Right now, it's a chekov's gun to be fired later.
+// This memory is of the event that kickstarted this entire plot. Right now, it's a Chekov's gun to be fired later.
 
 #BGM Overture
 #SFX An ambient sound of rain and sirens.
@@ -73,7 +73,7 @@ One of these days you're going to fall flat on your face.
 Claire recomposes herself.
 
 [&]
-Here, your stuff — hey! You're quite energectic today, huh?
+Here, your stuff — hey! You're quite energetic today, huh?
 
 [Claire]
 (nods in one sharp, excited motion)
@@ -262,7 +262,7 @@ SUDDENLY! The room's window shoots open, letting in a burst of rain. Bruno and C
 
 #TRANS Cut.
 
-== Running Hijinks ==
+== Running Hi-jinks ==
 Where: School Hallways
 
 #CAM The camera shows the classroom door from the outside.
@@ -293,7 +293,7 @@ Ahhh so that's what you meant with g—
 You're yelling...
 
 [Bruno]
-**HUH??? NO SHIT**
+**H- YELLING??? NO SHIT!!!**
 
 [Claire]
 So... are we gonna stay in this dark room now?
@@ -405,7 +405,7 @@ Just... run really fast.
 You want to GO BACK OUT THERE????
 
 [Andy]
-Oh, yeah, if any of those weirdoes gets too close I can just bonk them with this:
+Oh, yeah, if any of those weirdos gets too close I can just bonk them with this:
 (he pulls out an umbrella seemingly out of nowhere)
 
 Bruno stares in disbelief.
@@ -460,7 +460,7 @@ Maybe they went away to take a nap?
 
 Claire does not respond.
 
-(At player's discretion) The two of them walk towards the exit, still aprehensive of any surprises. Claire pulls on the entrance door. It's locked.
+(At player's discretion) The two of them walk towards the exit, still apprehensive of any surprises. Claire pulls on the entrance door. It's locked.
 
 [Andy]
 Booger. Hm...
@@ -511,7 +511,7 @@ Huh? I don't know what to think, man...
 [Andy]
 I think it's aliens.
 Aliens sprouted from the Earth's core and replaced all the students with clones.
-Either that or it's theater club rehersal.
+Either that or it's theater club rehearsal.
 
 [Claire]
 Let's just keep walking.
@@ -570,7 +570,98 @@ Claire pockets the key. Narration reads "'Principal's Keys' was added to your KE
 // This interaction in particular teaches you to _use_ items on specific things. You must _use_ the key on Andy to progress.
 
 [Andy]
-Rad. Now let's get outta here.
+Hmm... Yes... Yes... Looks like keys alright.
+
+[Claire]
+Haha...
+
+[Andy]
+(smiling)
+How are you feeling?
+
+[Claire]
+Me? I don't know...
+
+[Andy]
+You look awful.
+
+[Claire]
+Is that how you talk
+
+[Andy]
+You're shaking.
+Can I check you?
+
+[Claire]
+Uh... sure.
+
+Andy approaches Claire, puts his hands on her shoulder and closes his eyes.
+The HP/DP gauge appears, showing Claire with 3 HP and 0 DP.
+The bullet board appears around Claire, showing her SOUL and an x-ray of Claire
+underneath.
+// Arrows will appear, indicating to the player that you can move.
+// You'll be able to move as the dialogue goes on.
+
+[Andy]
+Oh my god... what happened to you?
+Even your SOUL looks hurt.
+
+[Claire]
+...
+
+[Andy]
+I'm low on magic, so it'll take a minute.
+
+A moment of silence, as Andy slowly heals Claire up.
+
+[Andy]
+Yeah...
+You know, uh... Bruno's neurotic ass isn't here...
+So I should probably acknowledge it now...
+
+A brief pause.
+
+[&]
+This... is freaking weird, isn't it???
+
+[Claire]
+Huh?
+
+[Andy]
+It's like— at some point I was riding a bike, looking for you, you called me...
+And then...
+Poof...
+There I am in the patio...
+
+[Claire]
+...
+
+[Andy]
+Claire, what's the last thing you remember?
+
+[Claire]
+I... don't know...
+I think I remember... a school bus?
+
+[Andy]
+A school bus?
+Hey... um... what's... my name?
+
+[Claire]
+Um... "Andy."
+Right?
+
+[Andy]
+(looking at her worried)
+...
+
+[Claire]
+Did I get it wrong?
+
+[Andy]
+No, but...
+(smiling)
+Nevermind, let's get out of here.
 
 The two of them get out of the room, feeling a bit more relieved.
 
@@ -611,6 +702,7 @@ Yeah...
 After Claire takes a single step forward, the bell goes off with a loud, echoing ring.
 
 [Andy]
+(smacks lips)
 okay
 
 The strange creatures start to phase through the floor from below, the lights faltering as they do so. They approach the bell eerily, getting closer to Andy and Claire.
@@ -625,7 +717,7 @@ What the— Hey, that's— not that funny, guys!
 
 Claire looks petrified at the faceless humanoid creatures approaching her. She starts to sweat and breathe funny.
 
-She takes a step back. Flashes of the nightmare school (from the beggining of the episode) show on screen. Children's faces overlayed atop the monsters'.
+She takes a step back. Flashes of the nightmare school (from the beginning of the episode) show on screen. Children's faces overlayed atop the monsters'.
 
 [&]
 (keeping Claire behind him, holding his umbrella out)
@@ -667,7 +759,7 @@ Claire is laying down on the floor. A small black cat with big yellow eyes softl
 
 She wakes up and looks at the cat. It stares back for a moment, then hops away.
 
-(APD) Claire gets up slowly and looks around. Anxious music comes in as she starts to powerwalk exhasperatedly. As she walks, the distorted school winds and bends. The previously faceless humanoids now look human, familiar.
+(APD) Claire gets up slowly and looks around. Anxious music comes in as she starts to powerwalk exasperatedly. As she walks, the distorted school winds and bends. The previously faceless humanoids now look human, familiar.
 
 // Actually, these are all people that play a role in the story later! Lily, Guilherme, Rodrick, Tim, Nadia, etc.
 
@@ -774,6 +866,9 @@ Sure!
 
 [Claire]
 You almost gave me a heart attack! Who even ARE you? Is...
+(breathing)
+Do you study here... Huff... Oh boy...
+Where are your parents?
 
 [The Mystery Kid]
 Hey! Shhh—! Get ready, we're about to go live!
@@ -798,12 +893,12 @@ The audience cheers.
 I wonder what the H stands for.
 
 [The Mystery Kid]
-Think it stands for "helpless"?
+Think it stands for "Helicopter"?
 
 The audience laughs.
 
 [Claire]
-It stands for "Hanako," thanks.
+It... uh... stands for "Hanako"... but wh—
 
 [The Mystery Kid]
 Say, Claire, what's it like to be you?
@@ -814,7 +909,7 @@ Here the player can choose between "Scary" or "Confusing".
 Oh, the teen age — confusing times... your body is changing... hormones are raging...
 
 [Claire]
-Huh? I'm eighteen! I mean... Is...
+Huh? I'm twenty years old... I mean... Is...
 (looks around)
 Is this on television???
 
@@ -828,7 +923,7 @@ The Mystery Kid puts their hat back on and pauses for a moment.
 [The Mystery Kid]
 You most likely have noticed that everything out there is kinda...
 Let's say, different. Gnarly, even!
-It's all a horrendous sahde of dark blue, for one, who signed off on THAT renovation?
+It's all a horrendous shade of dark blue, for one, who signed off on THAT renovation?
 
 [Claire]
 I've... noticed that...
@@ -871,7 +966,7 @@ Claire looks again at the audience.
 
 [&]
 (mumbling)
-wheres that laughter coming from theres noone there
+wheres that laughter coming from theres no one there
 
 [The Mystery Kid]
 Yeah this won't do.
@@ -932,7 +1027,7 @@ They cross their legs and stick out their hand which lights on fire as they say 
 What's the holdup? Afraid of a handshake?
 
 [Claire]
-You're hand's on fire.
+Your hand's on fire.
 
 [The Mystery Kid]
 It's. It's. It's magic fire. It's fine.
@@ -1045,7 +1140,7 @@ Claire continues walking forward. The forest isn't exactly a maze, but there is 
 [Claire]
 Where are we going?
 
-Pierre lets out a soft meow and bolts in between the trees. Claire picks up her pace and soon she finds a curious path. Very tensely, she walks over a big trunk laid down as a bridge overr the creek. And then she finds herself in a clearing in the forest.
+Pierre lets out a soft meow and bolts in between the trees. Claire picks up her pace and soon she finds a curious path. Very tensely, she walks over a big trunk laid down as a bridge over the creek. And then she finds herself in a clearing in the forest.
 
 == The Portal ==
 Where: The Treehouse
@@ -1058,7 +1153,7 @@ Moonlit at the clearing's far wall sits a strange treehouse. Its entrance faces 
 (intrigued)
 Hm...
 
-(APD) Claire lokos up to the sky then takes a step forward. She climbs the treehouse's rope ladder and carefully opens the door, peeking inside.
+(APD) Claire looks up to the sky then takes a step forward. She climbs the treehouse's rope ladder and carefully opens the door, peeking inside.
 
 Inside the treehouse, instead of, well, the inside of a treehouse, there's instead a long corridor with circular walls and a glow-in-the-dark ambiance. A strange hum echoes throughout it.
 
@@ -1071,9 +1166,9 @@ Claire takes her head out. Birds chirping return. Claire puts her head back in. 
 [Claire]
 Portal...
 
-Claire crawls into the corridor, leaving the door open. She walks a few feet: the door closes. She looks behind her, but does not bother to comment. Claire walks further towarrds the end of the narrow corridor. In contrast to the corridor of [[#I'm_NOT_GAY!!!|the initial nightmare]], this one widens as she gets further.
+Claire crawls into the corridor, leaving the door open. She walks a few feet: the door closes. She looks behind her, but does not bother to comment. Claire walks further towards the end of the narrow corridor. In contrast to the corridor of [[#I'm_NOT_GAY!!!|the initial nightmare]], this one widens as she gets further.
 
-At the end of the corridor there is a curtain. Claire upts her hands on it.
+At the end of the corridor there is a curtain. Claire puts her hands on it.
 
 #TRANS A campy (80s) radial transition.
 
@@ -1088,7 +1183,7 @@ Claire walks down in frame, forward toward the edge of the cliff whe walked onto
 
 #CAM As she walks down in frame, the camera continues to pan down past the cliff edge and then around the city.
 
-Music starts to swell with a magigc orchestral sound.
+Music starts to swell with a magic orchestral sound.
 
 #BGM An Other World
 
@@ -1145,7 +1240,7 @@ If that's what you make of that.
 
 Pierre jumps from the handrail onto the ground and down the stairs that lead to the city.
 
-(APD) Claire walks down toward the city.
+(APD) Claire jumps onto a floating biscuit in the milk river and drifts down the stream towards the city.
 
 == Foreigner ==
 Where: Hearthaven
@@ -1325,7 +1420,7 @@ The [[Manuel McMayor|mayor]] sits in his chair, scribbling on some paperwork. Th
 (looks up in surprise)
 Huh? What? Oh.
 (goes back to business)
-Look, kid, I have an OBSCENE amount of paperwork to process! Grownup bussiness, okay!
+Look, kid, I have an OBSCENE amount of paperwork to process! Grownup business, okay!
 If you're lost, go look for an orphanage or something, I don't have time for this.
 
 [Becky]
@@ -1422,7 +1517,7 @@ I...
 (thinks for a moment)
 More.
 
-The mayor pulls another sack of gold. This isn't animated, the sacks of gold just appear piling up in front of Claire with jumpcuts.
+The mayor pulls another sack of gold. This isn't animated, the sacks of gold just appear piling up in front of Claire with jump-cuts.
 
 [&]
 (with a straight face)
@@ -1540,7 +1635,7 @@ Oh... so you come from a family of mayors...
 
 [McMayor]
 Huh? What gave you THAT idea?!
-The McMayors are internationally renowed dentists.
+The McMayors are internationally renowned dentists.
 The PIONEERS in door-assisted deciduous removal.
 
 [Claire]
@@ -1660,7 +1755,7 @@ The anc-
 Oh, the **The Ancient Scroll!**! Sorry, didn't get your accent there.
 Why, I just got a telegram about it! It's in my house!
 (he speaks with a mad doctor neurotic tone)
-Unfortunately, my dear, you find me now to be in a bit of a picle, you see...
+Unfortunately, my dear, you find me now to be in a bit of a pickle, you see...
 My newest humanoid automaton has gone: Haywire!
 
 [Claire]
@@ -1675,11 +1770,11 @@ A plan!
 Oh.
 
 [Whynott]
-If you wouldn't mind assisting me for a moment, darling, between you and me I am CERTAIN we could execute an AMBUST on my creation.
+If you wouldn't mind assisting me for a moment, darling, between you and me I am CERTAIN we could execute an AMBUSH on my creation.
 
 [Evelyn]
 (awestruck)
-Coming here never disappoints...
+Coming over here never disappoints...
 
 [Whynott]
 If you dash through the door and grab its attention and distract it for THREE TURNS
@@ -1757,7 +1852,7 @@ Oh. But you are not here to listen to an old man's nostalgic rambling.
 Professor Wyatt Whynott, at your disposal.
 
 [Claire]
-I'm here to retrive the—
+I'm here to retrieve the—
 
 [Whynott]
 **The Ancient Scroll!** That's right! I just got a telegram about it.
@@ -1775,7 +1870,7 @@ How peculiar. How odd indeed.
 I specifically recall being handed the scroll for an important motive.
 
 [Claire]
-Maybe you put it in a box!
+Preservation... Maybe you put it in a box!
 
 [Whynott]
 A box! Genius!
@@ -1825,7 +1920,7 @@ An inventor's atelier needs a healthy coating of ash and debris at all times.
 To get the brain juices flowing.
 
 [Whynott]
-"The brain juices"? Ha ha! What a precious analogy! You must be the creating type!
+"The brain juices"? Ha ha! What a precious analogy! You must be the creative type!
 
 [Claire]
 (smiling)
@@ -1846,7 +1941,7 @@ You should go to the Mayor's office immediately before you lose it.
 Oh!
 
 [Erica]
-Or not i dunno I'm not your mum.
+Or not, I won't judge, I'm not your mum.
 
 (APD) You can walk back to the mayor's office. You can talk to people again but you can't go inside any other buildings.
 
@@ -1879,6 +1974,7 @@ Becky pulls out a device to plug in the memory card and starts scrolling through
 What's taking so goddamn long?
 
 [Becky]
+(fixing her glasses)
 There are a bajillion files here, sir!
 
 Becky starts scrolling through the many, many legends.
@@ -1915,11 +2011,11 @@ Well, every so often a human child will be exploring unsupervised and end up her
 ...and we have to babysit them.
 
 [Becky]
-Don't listen to him— it is an _honour_ to serve these kids for as long as they stay.
-Some kids just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other realm to provide that, right?
+Don't listen to him— it is an _honour_ to serve these young humans for as long as they stay.
+Some of them just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other realm to provide that, right?
 
 [Mayor]
-Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which — your passport.
+Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which — your passport's ready.
 
 (APD) You can pick it up. "'Dream Passport' was added to your SPECIAL items."
 
@@ -1935,7 +2031,9 @@ Something very different.
 Ahhhh... what does that mean...
 
 [Becky]
+(still looking at Claire)
 You'll see.
+(looks down at the computer)
 Aha—!
 When the angel who's seen the surface blah blah the underground— oh wait no, it's not this one either.
 
@@ -1947,7 +2045,7 @@ Not any later than that!
 
 [McMayor]
 (sighs)
-Listen, hero, how about you check in at the inn nextdoors while Becky here finds what we're looking for, hm?
+Listen, hero, how about you check in at the inn while Becky here finds what we're looking for, hm?
 
 [Claire]
 I could go for a rest... My legs are sore from all this walking.
@@ -1976,7 +2074,7 @@ Hey there, partner! Taking a late evening stroll, are you?
 Hey, Claire... You look pretty worried...
 
 [Claire]
-I do?
+Worried? Me?
 
 [The Mystery Kid]
 Well, just to say it's not a weakness to admit you don't got it all together, you know? It would be weird if you WEREN'T scared at least sometimes.
@@ -2000,7 +2098,9 @@ I'm—
 I'm not touching THIS cat...
 
 [The Mystery Kid]
-Pierre be normal. Come on, Claire! Touch it! Touch the cat!
+Pierre: be normal.
+Claire: Touch the cat!
+Touch it! Touch the cat!
 Touch! The! Cat!
 
 [Claire]
@@ -2043,7 +2143,7 @@ Huh? What does that mean?
 [The Mystery Kid]
 It means "go to sleep."
 
-// (APD) You can walk around and inspect the buildinds and stuff. There's, of course, the passage to the old city ruins. I think approaching it will make the music stop, and only a quiet wind can be heard. Ominous.
+// (APD) You can walk around and inspect the buildings and stuff. There's, of course, the passage to the old city ruins. I think approaching it will make the music stop, and only a quiet wind can be heard. Ominous.
 
 == Dream Within A Dream ==
 
@@ -2052,7 +2152,7 @@ Arriving in the inn, Claire's received by [[Rosetta]], a big, lovable woman.
 // She's like, big to contrast with the mayor's small size. She's, like, an old actress type, with lots of quirky pink clothing, a hat, a glimmering dress and some good ol' (American) southern hospitality.
 
 [Rosetta]
-Welcome, darling! Oh, do get rigth in, mind the gap, but come, come!
+Welcome, darling! Oh, do get right in, mind the gap, but come, come!
 
 Claire walks a bit more around the inside.
 
@@ -2099,6 +2199,7 @@ Excuse me, ceremony?
 
 [Rosetta]
 Oh, it's nothin' much. Our storytelling thing. Every day we all gather together to hear a story around the village hearth. Becky thought it right to ask Nana to tell our golden tale since you're here, to teach you what it is that we do.
+(winking)
 You're the quiet, "go along with it" type, but I'm sure you've been lookin' for some answers to some questions haven't you?
 
 [Claire]
@@ -2109,7 +2210,7 @@ Oh... um...
 Well you ain't getting any of them now! The faster you snooze, the faster you wake up!
 
 [Claire]
-You know, some rest would actually probably do me good right now.
+You know what, some rest would actually probably do me good right now.
 
 [Rosetta]
 Yes it will, hun.
@@ -2196,11 +2297,11 @@ Oh...
 Erica pops up by the window, upside down.
 
 [Erica]
-Hey!
+Hey! I was watching you sleep— you were talking...
 
 [Claire]
 (sarcastically)
-This is normal.
+A normal thing to do.
 
 [Erica]
 Oh, great! I thought I was being weird for a moment.
@@ -2209,7 +2310,12 @@ Come to the roof.
 Erica slides up out of view. Claire follows her to the roof and, seeing the city, sits besides her. Erica points up to the sky, where glow-in-the-dark star stickers glow. The two look up for a moment.
 
 [Erica]
-How... um... are you?
+How... um...
+
+Erica gets a green book from her side and reads something from it.
+
+[Erica]
+"Hello. How Has Your Day Been?"
 
 [Claire]
 Those stars...
@@ -2263,7 +2369,7 @@ And since our Laws of Stories don't apply there... sometimes things just... happ
 
 [Erica]
 I wish I could visit your side, but...
-The treshold, we can't... you know...
+The threshold, we can't... you know...
 
 A long pause.
 
@@ -2289,29 +2395,38 @@ Well, t- they'd calm after they see I'm nice.
 [Claire]
 Ha. If you're nice that's when they get you harder.
 I wish I'd grown up in a place like this.
+Your people are so nice...
 Y'know, your world seems cool.
 Dream world.
 
 [Erica]
-T— thank you.
+(perplexed)
+Th... thank you.
 
 A brief pause.
 
 [Erica]
 I guess it _is_ cool.
+(smiling)
 Even more cool now that you're here.
 
 She smiles at Claire. Claire is still looking into the distance and doesn't reply.
 
 [Erica]
-Alright, I'll let you be. Get ready for the ceremony!
+(flustered)
+Alright, I'm sorry I'll leave you alone.
+Get ready for the ceremony!
+It's in five minutes.
 
 [Claire]
 Oh yeah, the thing.
 
-Erica yeets herself off the roof, leaving the frame (we never hear her land). Claire looks to the sky one last time, then crawlks back through the window and sits on the bed for a moment, before getting up.
+[Erica]
+Bye.
 
-(APD) You can leave the room.
+Erica yeets herself off the roof, leaving the frame (we never hear her land). Claire looks to the sky one last time, then crawls back through the window and sits on the bed for a moment, before getting up.
+
+(APD) You can go back in the bedroom.
 
 == Storytelling ==
 Where: Hearthaven
@@ -2335,7 +2450,7 @@ Manuel opens the lid of the hearth, revealing it to be the lens of a projector.
 
 #CAM Pans into the sky, framing the projection, a rectangular frame, which looks like a 70's home-made video recording.
 
-// The small rectangular frame is reminiscient of Survival Kids or UNDERTALE.
+// The small rectangular frame is reminiscent of Survival Kids or UNDERTALE.
 
 #BGM The Eternal Tale
 
@@ -2363,13 +2478,13 @@ Close up of a wall where kids are playing with the shadows. The wall has some pa
 
 [&]
 And every DREAM you make
-Brings each other warmth
+A new adventure starts.
 
-The slide shows a younger child from close holding a small flower like a little golden flame about to be snuffed by the wind. The child looks scared and despondent. Their body is covered in thorns and wounds.
+The slide shows  a younger child from close holding a small flower like a little golden flame about to be snuffed by the wind. The child looks scared and despondent. Their body is covered in thorns and wounds.
 
 [&]
 But...
-Sometimes you'll find...
+Sometimes there'll be...
 A SOUL that's different...
 Its heart's been bruised...
 Its body beaten.
@@ -2394,7 +2509,7 @@ Intimate closeup shot of their eyes awestruck by whatever they are seeing.
 [&]
 We call their name...
 
-Framing the cave entrance beggining to close, leaving no trace.
+Framing the cave entrance beginning to close, leaving no trace.
 
 [&]
 If they come out
@@ -2419,10 +2534,10 @@ Lightning flashes, lighting the vast night sky.
 [&]
 Boiling with hatred...
 
-Suddenly, with the mention of it, the sillouette of The Angel — its many concentric rings — is illuminated in the next two lightning flashes.
+Suddenly, with the mention of it, the silhouette of The Angel — its many concentric rings — is illuminated in the next two lightning flashes.
 
 [&]
-A terror from another world threatens the worlds with anihilation.
+A terror from another world... threatens to break this cycle...
 
 #TRANS Smash to black with a lightning sound.
 
@@ -2510,7 +2625,7 @@ Now. You must be your own light.
 She hands Claire a lit match.
 
 [&]
-Doing this alone will teach you the importance of your own role in their journeys. Claire. For everyone's sake. You must reach **The Mirror** and exit to your world.
+Doing this alone will teach you the importance of your own role in the journeys of whoever you guide next. Claire. For everyone's sake. You must reach **The Mirror** and exit to your world.
 
 // Double entendre here, by "your world" Claire understands "Earth," but Nana means Claire's otherworld. Somni always refer to the physical realm as a "realm," never a "world."
 
@@ -2519,7 +2634,7 @@ The Mirror. Yep. Got it.
 
 Evangeline looks at her for a moment.
 
-[Evenlyn]
+[Evelyn]
 (sad)
 Bye, human...
 
@@ -2549,7 +2664,7 @@ Finally, Claire leaves the city.
 == Nadir Forest ==
 Where: Nadir Forest
 
-Claire walks into the twisted dark forest of hollow trees that encircles Hearthaven. As she walks, the trees creep dark and tall above her. The ground is filled with snowy soot.
+Claire walks into the twisted dark forest of hollow trees that encircles Hearthaven. As she walks, the trees creep dark and tall above her. The ground is filled with snowy soot. It's really dark, with a lof of pure black. The only light that illuminates anything are some long yellow light poles.
 
 After walking for a short while, she runs into Pierre chilling inside an empty tram station. You can interact with him.
 
@@ -2711,7 +2826,7 @@ The tram continues forward.
 
 #TRANS Corny 80's clock wipe transition.
 
-The tram continues to Aurora, the vegetation getting promply duller as the sky appears. It's sunrise. The golden sun adds some colour to the grey sky. You can see, in the distance, the clouds taking over the sky as the tram makes progress into the catacombs, the rain hitting the top of the tram weirdly soothing. Nearing a cliff, the tram converts into a suspended tram and gently drifts inbetween the stems of giant flowers.
+The tram continues to Aurora, the vegetation getting promptly duller as the sky appears. It's sunrise. The golden sun adds some colour to the grey sky. You can see, in the distance, the clouds taking over the sky as the tram makes progress into the catacombs, the rain hitting the top of the tram weirdly soothing. Nearing a cliff, the tram converts into a suspended tram and gently drifts in-between the stems of giant flowers.
 
 [Claire]
 Woah...
@@ -2735,7 +2850,7 @@ Huge droplets. So round.
 How I missed the conversations one has with passengers. Driving these trams around, a surefire way to enrich the SOUL...
 
 [Claire]
-If... noone comes here... Then why do you drive the tram?
+If... no one comes here... Then why do you drive the tram?
 
 [Whynott]
 Well, somebody has to! If nobody else is will, it's up to ye old Professor!
@@ -2777,7 +2892,7 @@ You're... Uh... Athletic, right? You're pretty young, got some nice legs for jum
 
 [Claire]
 What kinda question is that?
-Well, I do gymnastics... some somersaults...
+Well, I do gymnastics...
 
 [Whynott]
 That's what kind of question that it is!
@@ -2857,14 +2972,14 @@ The drizzle floats in the air, swayed by wind. Claire walks slowly, unmotivated.
 
 You can follow the tram line into the city. There's a navigational puzzle here where the rails show the correct place to go (since it's the path the tram would've taken). There are several strange misplaced status across the greyscale plaza. Strangely detailed frogs frozen in time. Claire has to drag her boots across the puddles on the floor, no longer trying to maintain herself dry.
 
-Interacting with them, narration reads "For a moment... you thought you saw the statue... breathe?" There are several closed (some barricated) buildings. Nobody's home.
+Interacting with them, narration reads "For a moment... you thought you saw the statue... breathe?" There are several closed (some barricaded) buildings. Nobody's home.
 
 Then, on the corner of her eye, she sees a girl in a yellow dress seemingly cleaning one of the statues.
 
 [Claire]
 A... girl?
 
-The kid is startled and looks at Claire, squinting through the mist. Claire does a little wave. The girl stares at her for a second, then uncerimoniously turns away and leaves.
+The kid is startled and looks at Claire, squinting through the mist. Claire does a little wave. The girl stares at her for a second, then unceremoniously turns away and leaves.
 
 [&]
 W... wait!
@@ -2957,7 +3072,7 @@ The kid frog hops away. The city, while still raining, is somewhat more lively n
 
 #BGM Forgotten Sun
 
-(APD) You can walk forward. There are two status still blocking the way. You know the drill, it's to use DREAM on them. They turn into TESTY TOAD.
+(APD) You can walk forward. There are statues still blocking the way. You know the drill, it's to use DREAM on them. They turn into TESTY TOAD.
 
 [Testy Toad]
 Gah! Outrageous!
@@ -2990,7 +3105,7 @@ He hops away.
 == Lizard Ladies ==
 Where: Aurora Ruins
 
-Going forth into the alley, Claire runs into two lizard ladies and ends up fighting them. Upon defeat (by ACTing) they will say:
+Going forth into the alley, Claire runs into two lizard ladies you can use DREAM on and ends up fighting them. Upon defeat (by ACTing) they will say:
 
 [Lizard Lady A]
 Oh, I'm sssss-sorry dearie!
@@ -3026,7 +3141,7 @@ I'm a girl!
 [Lizard Lady A]
 A girl human? How exxxxquisite!
 
-(APD) You walk through an alley. In there, The Mystery Kid and Pierre stand suspisciously.
+(APD) You walk through an alley. In there, The Mystery Kid and Pierre stand suspiciously.
 
 == Mystery Duel ==
 
@@ -3063,7 +3178,7 @@ Say this, love, I'm really proud of what we've built together. You help me, I he
 You haven't helped me at all!!!
 
 [The Mystery Kid]
-What??? Who was there with you all this time? When you were doing puzzles? Comitting arson? Fighting frog (sic)?
+What??? Who was there with you all this time? When you were doing puzzles? Commiting arson? Fighting frogs (sic)?
 
 [Claire]
 (baffled)
@@ -3164,14 +3279,23 @@ What now???
 Oh, come on! Don't just send two cards either! I can take more than this!
 
 [The Mystery Kid]
+I'm taking it easy on you since you're a girl :)
+
+[Claire]
+I'm a g— You're— three freaking years old???
+
+[The Mystery Kid]
 Oh. I see.
 
 Your have a turn here, etc.
 
-The Mystery Kid throws a single slowly rotating chard again... but, before it can even hit you, an assortment of random bullets — fire, dice, tokens, move through the bullet board at insane speeds. Then the slowly moving card completes its journey through the bullet board and off screen.
+The Mystery Kid throws a single slowly rotating card again... but, before it can even hit you, an assortment of random bullets — fire, dice, tokens, move through the bullet board at insane speeds. Then the slowly moving card completes its journey through the bullet board and off screen.
+
+[Claire]
+...
 
 [The Mystery Kid]
-Alright this fills my legally mandated screentime quota for this act. Let's call it a truce, okay? I'm going to Spare you now!
+Alright this fills my legally mandated screen-time quota for this act. Let's call it a truce, okay? I'm going to Spare you now!
 
 You can then Spare them.
 
@@ -3217,10 +3341,10 @@ Where did they go...
 Aaaaaaaaand the audience screams Encore!!!
 
 [Claire]
-Uh... Do you have a tipp?
+Uh... Do you have a tip?
 
 [The Mystery Kid]
-A tip? I _just_ gave you one??? About tophats???
+A tip? I _just_ gave you one??? About top-hats???
 
 [Claire]
 Well, give me another!
@@ -3288,7 +3412,7 @@ yond way thee'll playeth most best.
 Findeth the jewel once, twice, thrice
 and a prize thee'll winneth fast!
 
-D.D. stuffs the jewel under one of the three hats and shuffles them once. But, because the three hats are completely distinct from one another — a baseball cap, a helmet and a tophat (which has the gem), it's trivial to find where the jewel is.
+D.D. stuffs the jewel under one of the three hats and shuffles them once. But, because the three hats are completely distinct from one another — a baseball cap, a helmet and a top-hat (which has the gem), it's trivial to find where the jewel is.
 
 [Drapery Drake]
 Remarkable luck!
@@ -3355,8 +3479,8 @@ D.D. slides off screen.
 Throughout the city, there will be many frogs and lizards fighting each other. Talking to them offer a bunch of different dialogue.
 
 [City Toad]
-People in Aurora might seem cold at first, but they're friendly, I tell you!
-Learn to ACT the right way, even _outside battles_, and they might even give you directions.
+People in the city might seem cold at first, but they're friendly, I tell you!
+Learn to ACT the right way, in and out of battles, and they might even give you directions.
 
 [Claire]
 Acting...
@@ -3466,7 +3590,7 @@ Oh, you're trying to access your world, huh?
 Yeah!
 
 [Canine Guard]
-Hm... Like I sad before, it's not allowed for humans to visit the mirror shrine unaccompanied. But you ARE a very polite human... And the garden could use some colour...
+Hm... Like I said before, it's not typically allowed for humans to visit the mirror shrine unaccompanied. But you ARE a very polite human...
 (smiles)
 Eh, I'll allow it!
 
@@ -3519,10 +3643,12 @@ You got this, Claire.
 
 == The Garden ==
 
+#BGM Overgrown
+
 Walking a bit more, she eventually steps into a bed of flowers. Then she stops and looks around.
 
 [Claire]
-This is... more colourful than I expected...
+Woah...
 
 [Basket Knight]
 Oi! You!
@@ -3536,7 +3662,7 @@ Yes! You there!
 H... hi! I'm not a frog or a lizard!
 
 [Basket Knight]
-I know very well what you are!
+I know what you are...
 
 [Claire]
 Huh?
@@ -3550,3 +3676,955 @@ So... go back to wherever you came from, and, uh safe travels!
 
 [Claire]
 H... hey wait!
+
+The Basket Knight leaves the screen.
+
+== Into The Garden ==
+
+APD, Claire presses on to the next room, where, as she's walking through the flowers, a Flobud jumps into a battle. Claire effortlessly befriends it by making it bloom with DREAM.
+
+Then, to the right, there is a puzzle about pushing boulders and Rakestones to properly rake a tiny zen garden. A sign reads "Please leave the garden as tidy as you found it."
+
+After the puzzle, a battle against two Flobuds and a Honibi.
+
+In the next room, which is a field of flowers, the girl will be picking up lemons from a lemon tree.
+
+[Basket Knight]
+Ooo... These are smellin' good...
+Slemin' good...
+Slemon pie...
+
+She puts some lemons in her basket.
+
+[&]
+There we go.
+
+She turns around to leave and sees Claire.
+
+[&]
+Wh— You're still here?
+What did I tell you?
+Huuumans are NOT allowed in the castle!
+
+[Claire]
+Im not going to a castle,
+Im looking for a mirror...
+
+[Basket Knight]
+Do you think I'm stupid???
+The Mirror IS in the castle, everybody knows that!
+
+[Claire]
+Look, Can't I... just stay a little bit?
+Just so I can get on with this dream...
+
+[Basket Knight]
+Hm...
+(sighing)
+Okay, since you're so hopeless I'll show you where The Mirror is... IIIIF you promise to leave through it immediately...
+Aaaand to not touch anything once we get there.
+Except for The Mirror.
+You can touch The Mirror.
+Gently.
+
+[Claire]
+I promise.
+
+[Basket Knight]
+(smiling)
+Alrighty, let's get this over with.
+
+She disappears to the next room.
+When walking in the next room, you have to step on a flower when walking towards B.K.
+
+[Basket Knight]
+Alright, so we literally just have to follow this brick road allllll the way to-
+
+She turns to you.
+
+[&]
+Wha— I can't believe it! Do humans really have no respect for anything?
+
+[Claire]
+W... what did I do???
+
+[Basket Knight]
+You're stepping on the bloody flowers!
+
+[Claire]
+Oh. Oh. Well, they shouldn't be here, should they?
+
+[Basket Knight]
+In the flower garden???
+
+[Claire]
+I meant... In the...
+(sneeze)
+In the way...
+
+[Basket Knight]
+(narrow eyes)
+I know your kind...
+You think just because you're pretty and nice and good-smelling you don't have to take accountability, huh...
+
+[&]
+Know what? I've made my mind.
+(pointing at Claire)
+I'm onto you, human!
+I'll devise a plan to foil your evil boondogglery!!!
+Heh heh.
+
+She disappears into the next room.
+Then she comes back.
+
+[&]
+(angry, flailing her arms)
+And get out of the flowers!!!
+
+Then she disappears again.
+
+[Claire]
+(thinking)
+Why am I being bossed around by a blonde british child...
+
+[Pierre]
+Tell me about it!
+
+// You can save in this room.
+// Save dialog reads: "The air's saturated with the sour-sweet scent of citrus. Your SOUL shimmers with HOPE."
+
+== Checkmate, Human ==
+
+In the next room, there are three guards mid-argument. They are standing on a checkerboard flooring.
+
+#CAM Pan to the right, leaving Claire almost out of frame.
+
+[R Nerd]
+No! YOU listen! I can move across the WHOLE board at once! Rooks rule!
+
+[K Nerd]
+So what? You can get blocked by your own pieces. Knights are stronger, faster, and unstoppabler (sic)!
+
+[P Nerd]
+Well, I think—
+
+[R Nerd]
+Shut up, "pawn"!
+
+[P Nerd]
+You underestimate the power of the humble pawn!
+The pawn works hard to achieve its lifelong dreams!
+It concerns itself not with immediate power... and thus they embody the biggest virtues of chess: Strategy, Patience!
+
+[K Nerd]
+Patience? Chess is a game of action and passion, yo!
+It's about completely dominating your opponent with your sheer power! Kyahh!
+
+[R Nerd]
+What an impasse we find ourselves in. How I'd wish for someone new to come by...
+Only an unbiased arbitre could settle this ancient dispute once and for all...
+If only a foreigner, for example, a human, were to miraculously appear right before our very eyes this instant...
+
+#CAM The camera slowly pans back to Claire.
+
+Claire tries to sneak by, but she steps on a stick and makes noise.
+
+[Claire]
+H... Hello there?
+
+An awkward pause.
+
+[R Nerd]
+Get her!
+
+[K Nerd]
+Whoever defeats the human in battle first is the victor!
+
+[Claire]
+W- w- w- wait!
+D... Does it have to be a battle???
+I mean, smart fellows like you surely—
+
+[K Nerd]
+What? The bullet board even has a checkerboard pattern!
+
+[Claire]
+The what—
+
+// Battle time!
+
+Claire fights against the three nerds, which take turns attacking you with their chess pieces. It's the same as in the old prototype — R, K and P (in this order) have their pieces move according to the chess movement rules. The comedy in this battle comes from the fact that you'll struggle in R and K's turns, but P's moves are ridiculously easy to dodge.
+
+Until, on the third turn, it'll reach the end of the board and start glowing. The battle pattern will be cut there, followed by one more turn of R and K. On the next P turn, the transformation concludes, the pawn becoming a queen with a dramatic sound and visual effect. Then, it rages through the battle board, possibly destroying you.
+
+[R Nerd]
+Unbelievable! The human has faced us and stood its ground!
+
+[K Nerd]
+What a remarkable warrior!
+
+[P Nerd]
+What a brilliant strategist.
+
+[R Nerd]
+It's settled. The... "Rose" is clearly the superior piece...
+Here, human, take this as a sign of our gratitude.
+
+Got 1x Red Tea.
+
+[Claire]
+Thank you!
+
+// If you talk to P nerd after the fight.
+
+[P Nerd]
+A strange girl with a basked gives us treats sometimes.
+I don't like tea, but I enjoy her visits.
+Her voice is soothing.
+
+// If you talk to R nerd after the fight.
+
+[R Nerd]
+Who are you?
+
+// If you talk to K nerd after the fight.
+
+// If you've defeated GYMBRO.
+
+[K Nerd]
+Ah, what a mighty warrior I see before me!
+
+// If you've sided with GYMBELLE.
+
+[K Nerd]
+Ah, what an elegant sight graces my eyes.
+
+//TODO: I realise GYMBRO AND GYMBELLE haven't been mentioned in this draft yet.
+
+APD Claire presses on.
+
+== BK Feud 1 ==
+
+[Basket Knight] stands atop a wall and looks at you from up there.
+
+#BGM Royal Nuisance
+
+[Basket Knight]
+Oi! Human!
+Since you've chosen to continue to invade this site...
+I have no option but to put an end to your tyranny...
+Bahahaha!
+
+She throws, from her basket, a single Flobud and throws it on the ground (gently).
+
+[Basket Knight]
+Behold! My troop!
+
+[Flobud]
+*flower noises*
+
+[Basket Knight]
+I'm sorry for this, human, but, like I said, no other choice.
+
+The Flobud charges in. You can defeat it easily. Like, it's not any harder than a normal Flobud encounter.
+
+[Basket Knight]
+What??? How'd you???
+(ahem-ing)
+I mean... Yes! Of course! I was merely testing your strength!
+We're just getting warmed up, bahaha!
+The real challenge... is up ahead!!!
+
+She marches out of frame.
+
+APD Claire may follow her.
+
+== BK Feud 2 ==
+
+[Basket Knight]
+Greetings! It is I! Et cetera!
+So yeah, you can defeat ONE Flobud!
+But... can you—
+
+[Claire]
+Let me guess... You're gonna throw TWO flower buds at me?
+
+[Basket Knight]
+What? Two measly Flobuds? Do you take me for an idiot?
+
+[Claire]
+Oh. Oh no sorry It was just—
+Alright, what will you do then?
+
+[Basket Knight]
+Bahahah! You're about to find out! Have at ya!
+
+She throws three Flobuds at you.
+
+After you defeat (befriend) them she's gonna be surprised.
+
+[Basket Knigt]
+How'd you— What'd you—
+
+[Claire]
+They're my friends now.
+
+[Basket Knight]
+Look at what you did to the poor things!
+They're stupid now!
+
+[Claire]
+They're vibing... Come vibe with us!
+
+[Basket Knight]
+NO!!!
+I haven't given up on defeating you yet!
+I'll find an even MORE threatening enemy to destroy you! Just you wait!
+Bahahahahaha— COUGH COUGH... Ughh....
+(cutely)
+Bu-bye~!
+
+She leaves the room.
+
+== The Teashop ==
+
+In this room, there is a small tea stand, and, to its side, an ornate table, with several bleaked characters drinking tea:
+
+// Here we have [Dolores], [Tea Frog], [Tea Bunny], [The Mystery Kid] and and [Pierre].
+
+There's a sign which reads "Cuppa Dream — Aurora's finest tea shop."
+
+// Talking to Dolores:
+
+[Dolores]
+Oh, hi there, sweetie!
+Are you a h-h-h-h-h-h-
+What an excellent story! You sure have been on a journey!!!
+
+[Cliare]
+I haven't said anything...
+
+[Dolores]
+Please enjoy some tea, will you?
+It's Aurora's finest!
+
+// Talk to her again:
+
+[Dolores]
+My husband usually accompanies me to these events...
+His name is Tommy... Terrence?
+He's a little late, but, when he arrives he will tell you alllll about his banking job...
+
+// Talk to tea frog:
+
+[Tea Frog]
+Ribbit!
+Unlike those brutes back in town, I've turned gray! But I haven't turned uncivilised!
+(whispering)
+Please don't tell anyone back there... that I secretly love tea...
+Master Chayin's tea is not that great... but these aracnisser smuggle the good stuff from the Physical Realm!
+
+// Talk to tea bunny:
+
+[Tea Bunny]
+Purrrr!!!
+
+// Talk to The Mystery Kid:
+
+[The Mystery Kid]
+Hey there, Claire!
+Check this out: an Aracnisse, like a cat, can cross the barrier between worlds... so the items you buy from this stand are _actually_ real...
+
+[Claire]
+Interesting...
+
+[The Mystery Kid]
+I know, right? Now, if you excuse me, I have a tea party to return to.
+
+// Talk to them again:
+
+[The Mystery Kid]
+These fine folks were transformed, too, but they retained their class!
+
+[Dolores]
+Of course! Unlike those brutes of Aurora, we wouldn't let ourselves be undermined by such a barbaric disease. They were c-c-c-corrupted by the sickness...
+As for me, my mind is perfectly fi-fi-fi-fi-fi-
+Hey, human! Didn't see you there! Would you care for a cuppa?
+
+// Saving dialogue (with Pierre) reads:
+// "The aroma of a tea party for odd folks in a dying kingdom. Your SOUL glimmers with HOPE."
+
+// To the right of the tea party, framed by bushes, there's a standing door.
+// Flavour text reads: "This lone standing door seems to lead nowhere."
+
+// On the other side of the room, there are some old, worn, giant teacups filled with rain and mud. One of them, an axolotl is using it as a bathtub. Talking to him:
+
+[Axolotl]
+Ahhhh...
+
+// The tea shop sells Red Tea and Ice Tea, as well as Star Cookies.
+// When you buy an item it'll remark "Tiny spiders wearing pointy hats pour your tea with some effort. They reassure you you can keep the cup."
+
+Walking to the right, there will be two knight statues ([Shovel Knight] and [Bucket Knight]) blocking the way. Using DREAM on them wakes them up, but they attack you.
+
+// You can see the odd folks continuing to have their tea party while you're being impaled to death <3. During battle, narration will remark The Mystery Kid cheering for you and offering no help.
+
+== BK Feud 3 ==
+
+The Basket Knight is at it again!
+
+[Basket Knight]
+Greetings! Hi! Hello!
+
+[Claire]
+Hiii!
+
+[Basket Knight]
+Ready to die???
+
+[Claire]
+Sure!
+
+[Basket Knight]
+Bahahaha no you're not! Get her, boys!
+
+The Honibis jump at Claire.
+
+During battle, narration will remark that "For some reason, they seem very interested in Claire's SOUL." I think you can let them pollinate you. You can also flirt with them for some reason. They are easily defeated.
+
+// Normal win
+
+[Basket Knight]
+STOP!!! BEFRIENDING THE ENEMY!!!
+
+[Claire]
+I can't help it, it's so cute!!!
+
+[Basket Knight]
+And stop calling it cute!!!
+
+[Claire]
+Never!!!
+
+[Basket Knight]
+(steam coming outta her head like a teapot)
+GAH!!!
+
+// If you flirted with any of them
+
+[Basket Knight]
+Stop flirting with the enemies!!!
+
+[Claire]
+But it's so cute! Look at it it's so fat!
+
+[Basket Knight]
+It's a bloody bee you're flirting at (sic)!
+Are you really that lonely!
+
+[Claire]
+No!
+(thinking)
+I mean...
+(shrug)
+Maybe?
+
+Either way, BK jumps into the arena and shoos the bees away.
+
+[Basket Knight]
+Get out of here you traitors. Go back to your pens!!!
+
+Then she turns to you.
+
+[Basket Knight]
+En guarde.
+
+[Claire]
+Huh?
+
+[Basket Knight]
+If even my loyal bees with betray me...
+Then I'll have to dispatch you myself.
+
+[Claire]
+Oh.
+
+[Basket Knight]
+That's right. Have. At. Ya!!!!!
+
+She then starts to run at you as the battle flicker threatens to trigger the battle transition... but then she trips and falls face first in the dirt, sliding up to Claire's feet and leaving a long dirt trail.
+
+// Interacting with her:
+
+[Basket Knight]
+...
+
+// And again
+
+[Basket Knight]
+I... Just go on... I need a moment...
+
+(APD) Claire moves on.
+
+== Cheese trap ==
+
+You reach a place with denser vegetation and, in the middle of it, a single table with a slice of lemon pie on it.
+
+// If you try to walk past it without eating it:
+
+[Basket Knight]
+The human tried to leave... but she couldn't resist the sweet moldy scent of lemon pie...
+
+[Narrator]
+Hey!!!
+
+// If you try to leave again:
+
+[Basket Knight]
+The human tried to leave again... but her nose spoke louder and she could not!!!
+
+[Narrator]
+Apparently... someone's coming for my job...
+
+// When you interact with it.
+
+[Basket Knight]
+A-ha!
+
+[Claire]
+How'd you get here so fast!
+
+[Basket Knight]
+Well, you see, I— Well that doesn't matter!
+What matters is: you fell into my deadly trap!!!
+Bahahahahaha!!!
+
+[Claire]
+Oh, cool. What does it trigger.
+
+[Basket Knight]
+It triggers—
+
+A slight pause.
+
+[&]
+I... Um...
+(annoyed)
+Booger....
+
+[Claire]
+Language!!!
+
+[Basket Knight]
+(flustered)
+S... sorry...
+
+She lowers herself into the bush.
+
+== The Maze ==
+
+There's a short maze made of prickly rose hedges here containing items, but also a few encounters against Honibis, Bundlebees, Flobuds, and Prickle, all lost in the maze. Pierre is also lost in the maze. You can't save with him because he's too anxious himself.
+
+Basket Knight sits atop a wall on the side of the maze.
+
+[Claire]
+You made this whole hedge in five seconds?
+
+[Basket Knight]
+Nope! It was already here! 
+But I lured you into it, bahahaha!
+The Scissor Knight rearranges it into a new shape every day since it's gone mad... Not even I know how to solve it...
+There's no way you can escape!!! I could laugh in your face!!!
+
+[&]
+(smiling)
+Wait, I can!
+
+She puts her basket by her side, then she jumps down from the wall and walks to be in front of Claire.
+
+[Basket Knight]
+Bahahahahahaha!
+
+Then she steps back.
+
+[Basket Knight]
+Anyways, I got errands to run... And...
+
+She looks to one side, looks to another...
+
+[Basket Knight]
+Oh...
+
+She looks at Claire, flustered, adjusting her dress' skirt.
+
+[Basket Knight]
+*ahem*
+
+A brief pause.
+
+[Claire]
+Yes...
+
+[Basket Knight]
+So... Um... We're... Uh... Stuck together... And... Um...
+
+She extends a hand to you.
+
+[&]
+How about... we call it a truce? But just for now!
+
+[Claire]
+Sure!
+
+[Basket Knight]
+Yippie! I mean... I'm totally gonna kick your butt later, so don't get too used to it.
+(remembers)
+Me basket!!!
+
+She walks towards the wall where her basket is and does two little pathetic jumps to try to get to it.
+
+[Basket Knight]
+Don't just stand there!!!
+
+[Claire]
+Oh.
+
+You can walk up to her, Claire will hold her by her waist and raise her above her head. Basket Knight picks up her basket.
+
+[Basket Knight]
+Now unhand me at once!!!
+
+Claire lowers her.
+
+[Basket Knigiht]
+Alright. You solve the maze, now!!!
+
+// If you talk to BK.
+
+During the maze, you'll be attacked by Scissor Knight. It'll be complaining that someone stole its "Seamstress Scissors." BK will be like "nobody stole your scissors grandma lets go to bed."
+
+// This unassuming, throwaway detail is a hint to what's happening in the real world, for the mystery that will be properly established in Episode 02.
+// That is, it's the Scissor Knight's Seamstress Scissors that FK and MK use to open tears.
+
+== Bonding with BK ==
+
+On the next room, they'll fight [Rake Knight] and [Can Knight]. BK will be backseat-gaming during the battle criticising your actions.
+
+[Basket Knight]
+Don't take it to heart, okay...
+They're not aware of their actions...
+Before they turned gray they were very...
+
+[&]
+Well, they were very annoying... But they sure id looove humans.
+
+Then it starts to rain.
+
+[Basket Knight]
+Bloody hell... Let's get moving.
+
+To the left, there's BK's home — a cute house inside a huge mushroom. By its side, there's a fenced area with a feeding through (filled with an assortment of flowers) and a water bucket.
+
+The Honibis are all buzzing around, outside their pen.
+
+[Basket Knight]
+Huh? Hey!
+(flailing her arms)
+Get back to your pen! You're gonna get wet!
+
+The Honibis don't listen.
+
+[Claire]
+Maybe you should take a break?
+You seem to be working hard...
+
+[Basket Knight]
+(tired)
+Bahaha... If I take abreak this place will grey out in five minutes...
+
+[Claire]
+It rains a lot in here, doesn't it... aren't you cold?
+
+[Basket Knight]
+Mmm...
+Alright. Let's do a tactical retreat.
+But afterwards, we have to work twice as hard.
+
+[Claire]
+Sure, commander!
+
+[Basket Knight]
+Captain*!
+
+[Claire]
+Let's go.
+
+They go into her house.
+
+#BGM (ambience)
+
+You can hear just the sound of the rain hitting the roof top. The lighting is soft. It's cozy, like a lazy summer afternoon.
+
+[Claire]
+Your house is cute...
+
+[Basket Knight]
+Feel free to look around; don't touch anything.
+Sit down when you feel like it.
+
+[Claire]
+I'll touch the stool. With my butt.
+
+[Basket Knight]
+(flustered)
+Whatever.
+
+// If you interact with the fridge:
+
+[Basket Knight]
+That's my refrigerator. It's where you put things to— you know what a bloody refrigerator is...
+
+// If you interact with the fridge again, narration remarks "It's full of individually wrapped slices of lemon pie. Take one?"
+
+// If you say yes:
+
+"Got 1x Lemon Pie Slice."
+
+[Basket Knight]
+Put it back, you thief!
+
+"Lost 1x Lemon Pie Slice. For now..."
+
+// If you interact with the hammock:
+
+[Basket Knight]
+Sleeping grounds.
+After a day of service, is where I get knocked out.
+Don't sit on it, you're wet.
+
+// If you interact with the oven:
+
+[Basket Knight]
+This is the mechanical oven.
+It's where you of in the cold food.
+
+[Claire]
+This isn't gonna come alive and attack me, will it?
+
+[Basket Knight]
+What?
+Is that a human thing?
+
+// When you finally sit your ass down:
+
+[Basket Knight]
+Oh! Where are my manners?
+
+Basket Knight puts a teapot in the stove-top, then cranks a little winding mechanism to turn on the fire. The teapot begins to heat up. Basket Knight walks over to her basket (it's on the counter top), gets two whole lemons, walks back and puts them inside the teapot.
+
+[Claire]
+Why don't you move your arms when you walk... Are you a robot?
+
+[Basket Knight]
+Robot? Ha! I'm an automaton!
+No electricity or coal in here...
+
+[Claire]
+It's very steampunk...
+
+[Basket Knight]
+There is no steam!!!
+It's clockwork allll the way down.
+Winding mechanisms... levers... gears...
+
+[Claire]
+Oh... is that what that thing on your back is for?
+
+// BK's design has a winding mechanism on her lower back, which passes for a bow.
+
+[Basket Knight]
+Yes...
+
+Basket Knight gets the teapot and pours your tea on a little cup.
+
+[Basket Knight]
+Now for some honey...
+
+Basket Knight squirts honey onto the cup for five whole seconds. Then she sits down and hands your cup.
+
+[Basket Knight]
+There you go.
+
+Narration remarks "You take a sip of the tea. It tastes disgusting."
+
+[Claire]
+Wait, doesn't that mean that one day you'll run out of winding and die?
+
+[Basket Knight]
+So what? You'll get old and die too!
+
+[Claire]
+Oh. Oh yeah that's true hehehe...
+Mortality...
+
+[Basket Knight]
+Plus, if someone rewinds my escapement I could live indefinitely... until I rusted I guess...
+
+For a moment, they stop talking, and nothing can be heard but the rain.
+
+[Basket Knight]
+You know... It's kinda.... nice having a house guest.
+Even if it's a human.
+
+A slight pause.
+
+[Basket Knight]
+It can get lonely here some times...
+
+[Claire]
+Do you... not have parents?
+
+[Basket Knight]
+Not quite. I mean, there's our creator?
+He seemed to like when I called him dad.
+But... that was a while ago...
+
+[Claire]
+He left you here all alone?
+
+[Basket Knight]
+Stuff happens.
+There were the other knights, too...
+They were kinda like family, I guess...
+They were *sigh* supposed to be at least...
+
+A brief pause.
+
+[Basket Knight]
+They'd say I wasn't a "real knight"
+becaue "you're too sweet" and "you can't use that as a weapon"...
+(angry)
+One of them has a bloody bucket! That's like 80% basket!!!
+
+[&]
+We never did any fighting anyways...
+We just kept taking care of the garden...
+When the sickness came, none of them could ward it off.
+Jokes on them, now I'M the captain! Haha...
+
+The rain ceases, BK stands up and walks away while mumbling.
+
+[Basket Knight]
+Rain's gone. Let's get those bees before it freaking starts again. I swear to heavens, it's every five minutes...
+
+// If you interact with the fridge now:
+
+"Got 1x Lemon Pie. You have won the long game."
+
+// When you can go outside.
+
+#BGM Overgrown
+
+[Basket Knight]
+Alright.
+
+She tries to pull one bee that's very interested in a flower, but it doesn't budge.
+
+[&]
+What are you standing there for?
+Help me put them back in their pen!
+
+Little minigame. You can grab bees by pressing Z and throw them in their pen. Some of them trigger a little bullet board microgame when you touch them, so be careful! When you win, BK will suplex her bee into the pen.
+
+[Basket Knight]
+Alright, let's see...
+One... Two... Three... Four... Oh, crikey, where's Dexter...
+
+Basket Knight goes down and looks around. As she turns away from the pen, all the bees start slowly flying over the fence.
+
+[Basket Knight]
+It's probably not far from here...
+(sigh)
+I don't know how they keep getting out.
+Let's go get that bastard.
+
+Basket Knight runs to the right. Since it's no longer raining, Pierre is here.
+
+// Saving narration reads: "With resilience and determination, the little girl continues to care for the garden. Your SOUL sparkles with HOPE."
+
+Claire goes to the right.
+
+== Consequences ==
+
+#BGM (silence)
+
+There's a long corridor... the floor is dirt, the walls are the stems of giant flowers. Rain drips from the giant leaves.
+
+[Basket Knight]
+There, there... What's gotten into you...
+
+// If you talk to BK...
+
+[Basket Knight]
+Something's startled it... If it is one of the knights again I'll have strong word with them... But... I don't know...
+
+Walking more to the right... from the leaves, a corrupted figure jumps. As they turn their head to you, you can make it out. It's Professor Whynott.
+
+[Claire]
+N... no...
+
+[Basket Knight]
+Did you find what s— Oh... D... dad?
+
+Basket Knight walks to Professor Whynott's right and grabs his sleeve.
+
+[Basket Knight]
+Can you... Hey...
+
+#TRANS Battle Flicker
+#BGM Bleak Battle (slowed)
+
+During battle, the background goes dark.
+
+Whynott attacks you with patterns similar to Baker Owen, trying to smash you with tools or machinery. His patterns are easy, and repetitive, but fast and deadly. You will probably need to *DASH* out of the way to survive. He mutters some nonsense about contraptions and other things...
+
+// "...an excellent idea..."
+// "...gone haywire!"
+// "...a terrible idea..."
+// "...tram... listen... the plan..."
+// "...want... see her again..."
+// "...please... pain..."
+// "...the sickness..."
+
+// You can defeat him by DREAM easily.
+// "You dreamt of your bed at the end of a long day."
+
+#BGM (silence)
+
+After calming him down, the professor turns into smoke and wanders into the leaves aimlessly. A moment of silence.
+
+Basket Knight gets up, grabs Dexter, and with her back facing you...
+
+[Basket Knight]
+Our truce.
+
+A slight pause.
+
+[Basket Knight]
+It's over.
+
+She walks right out of frame.
+
+== Versus Basket Knight ==
+
+Claire gets closer to the garden's front entrance. There's a stone path that cuts through a lake. A sign reads "Welcome, humans! Please take as much as you need from the garden!" At the path's center, a gazebo.
+
+When Claire reaches the center of the gazebo, where several flowers and fuits in sacs reside, Basket Knight comes from behind you.
+
+[Basket Knight]
+We built this place for them...
+
+Winds begin to blow leaves around.
+
+[&]
+Tired travellers.
