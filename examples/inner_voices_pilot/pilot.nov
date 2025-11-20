@@ -390,7 +390,8 @@ The two boys begin messing about in different computers.
 // If you talk to Andy.
 
 [Andy]
-Hi. You think there's any cool tapes laying around in lockers? We could watch a— oh, you mean to ask what we're gonna do?
+You know where they keep those TV-trolley thingies the substitute teachers use?
+We could probably watch a mov— oh, you mean to ask what we're gonna do?
 
 [Claire]
 Mmhmm.
@@ -490,9 +491,9 @@ She puts her hand in the dispenser. Oh ho ho! She lucks out and finds that there
 [Andy]
 Woah... nice pull...
 
-(APD) The two of them continue to walk until they run into a patio, where all the previously floating entities seem to have gathered on the floor. Claire looks at them intensely.
+(APD) The two of them continue to walk until they run into a patio, where all the previously floating entities seem to have gathered on the floor. They are standing still, staring at their feet, unmoving. Claire looks at them intensely.
 
-Underneath them, there is a gaping hole in the ground, like something with a giant claw tore a wound into the plane of the floor.
+At the middle of the patio, there's a deep, long hole, like something with a claw tore a wound into the plane of the floor.
 
 [Andy]
 Told you they were sleeping.
@@ -519,7 +520,7 @@ Let's just keep walking.
 They take a step.
 
 [Claire]
-Wait if they've come from Earth they're not aliens then.
+Wait, if they've come from Earth they're not aliens then.
 
 [Andy]
 Let's just keep walking.
@@ -553,7 +554,18 @@ Claire looks at him silently with a wide mouth, then shakes her head and enters 
 [Andy]
 Now where would a key be.
 
-(APD) Claire walks around the room, lazily dragging her hand across the table. She opens a few drawers, and in one of them she finds a keychain.
+(APD) Claire walks around the room.
+
+// If you interact with the TV trolley here.
+
+[Andy]
+Oh, look, there it is.
+(winking)
+If you just found some cool tapes, we could watch a movie instead of escaping.
+
+// When interacting with the drawers.
+
+She opens a few drawers, and in one of them she finds a keychain.
 
 [Claire]
 I got it.
@@ -576,7 +588,7 @@ Hmm... Yes... Yes... Looks like keys alright.
 Haha...
 
 [Andy]
-(smiling)
+(phew)
 How are you feeling?
 
 [Claire]
@@ -586,10 +598,11 @@ Me? I don't know...
 You look awful.
 
 [Claire]
-Is that how you talk
+(smiling)
+Is that how you approach women? Not really a smooth talker...
 
 [Andy]
-You're shaking.
+No, you're shaking.
 Can I check you?
 
 [Claire]
@@ -603,7 +616,7 @@ underneath.
 // You'll be able to move as the dialogue goes on.
 
 [Andy]
-Oh my god... what happened to you?
+Oh my God... what happened to you?
 Even your SOUL looks hurt.
 
 [Claire]
@@ -616,35 +629,42 @@ A moment of silence, as Andy slowly heals Claire up.
 
 [Andy]
 Yeah...
-You know, uh... Bruno's neurotic ass isn't here...
+You know, uh...
+Bruno's neurotic ass isn't here...
 So I should probably acknowledge it now...
 
 A brief pause.
 
 [&]
+(scared)
 This... is freaking weird, isn't it???
 
 [Claire]
 Huh?
 
 [Andy]
-It's like— at some point I was riding a bike, looking for you, you called me...
-And then...
-Poof...
-There I am in the patio...
+(exasperated, but quietly)
+I'm playing it cool, but...
+It's like— at some point I was riding a bike, looking for you, you called me on the phone...
+And then, like a jump cut, there I am in the patio...
 
 [Claire]
 ...
 
 [Andy]
+(preoccupied)
 Claire, what's the last thing you remember?
 
 [Claire]
 I... don't know...
-I think I remember... a school bus?
+I think I remember... my house...
+I went downstairs to the living room...
+My dad was there... then... I missed the bus...
 
 [Andy]
-A school bus?
+(confused)
+You... live in an apartment...
+(confused, smiling)
 Hey... um... what's... my name?
 
 [Claire]
@@ -656,6 +676,7 @@ Right?
 ...
 
 [Claire]
+That's what the other guy called you, right?
 Did I get it wrong?
 
 [Andy]
@@ -769,7 +790,7 @@ Bullets swirl around you, not exactly aiming at you, but you can be hit and rece
 
 // Dying here just restarts the section from the save point. It's low stakes.
 
-At the end of the corridors, Claire sees a door and enters it. The room is chaotic and trippy, save for a single mirror on the left. She's breathing funny.
+At the end of the corridors Claire sees a bathroom door, and goes through it. The room is chaotic and trippy, safe for a single mirror on the left. She's breathing funny.
 
 [Claire]
 I'm not made for all this running.
@@ -804,7 +825,7 @@ You wouldn't happen to know the way out, would you?
 The cat jumps off her lap and then jumps through the bathroom window.
 
 [&]
-Oh, If only I were cat-sized.
+Oh, If only I were the size of a cat.
 
 Claire gets up and close to the window. She stands on her toes trying to look through it. When she touches the wall, everything fades into black and she falls through the wall onto a pitch black floor.
 
@@ -2229,45 +2250,6 @@ Good night, me!
 
 #TRANS Fade to black.
 
-== Dream Within A Dream (2) ==
-Where: New Horizon/School/Bathroom
-
-Claire dreams of the events happening in the real world. She can't walk or interact with anything. The image is fuzzy, with TV-like artifacts. It's clearly a dream.
-
-Andy has Claire's head on his lap. He's feeling her head for temperature.
-
-Bruno comes in the room.
-
-[Andy]
-Did the key work?
-
-[Bruno]
-No. Did she wake up?
-
-[Andy]
-Nope.
-
-[Bruno]
-How can she sleep in a moment like this...
-
-[Andy]
-She's knocked out, dude. You should've seen it, she flipped out.
-
-A noise knocks at the door. Bruno holds himself against it.
-
-[Bruno]
-Crap, dude! Help me here!
-
-[Andy]
-On moment.
-
-He touches Claire's face one more time.
-
-[&]
-Come on, Claire... come back to us...
-
-#TRANS Cut
-
 == The Third Awakening ==
 Where: Hearthaven/Inn
 
@@ -3365,7 +3347,7 @@ Eeesh. Tough crowd...
 Yet the show must go on.
 Claire: geddaoutta here!
 
-Then they revert to a tophat again.
+Then they revert to a top-hat again.
 
 If you save now, narration reads.
 
@@ -3383,7 +3365,7 @@ Would drive the toads away!!!
 I'd give them wares!!!
 (Provided they'd pay)
 
-You can hop in here and fight the two toads that are harrassing the poor guy. You can also just move on lmao, but he will scream "Thou art just gonna leaveth me? f'rsake me?" and you can't leave.
+You can hop in here and fight the two toads that are harassing the poor guy. You can also just move on lmao, but he will scream "Thou art just gonna leaveth me? f'rsake me?" and you can't leave.
 
 [Drapery Drake]
 Littlest one I thanketh thee dearly. Thee has't vindicat'd me in this matt'r...
@@ -4001,7 +3983,7 @@ Oh, hi there, sweetie!
 Are you a h-h-h-h-h-h-
 What an excellent story! You sure have been on a journey!!!
 
-[Cliare]
+[Claire]
 I haven't said anything...
 
 [Dolores]
@@ -4137,7 +4119,7 @@ Get out of here you traitors. Go back to your pens!!!
 Then she turns to you.
 
 [Basket Knight]
-En guarde.
+En garde.
 
 [Claire]
 Huh?
@@ -4296,7 +4278,7 @@ Now unhand me at once!!!
 
 Claire lowers her.
 
-[Basket Knigiht]
+[Basket Knight]
 Alright. You solve the maze, now!!!
 
 // If you talk to BK.
@@ -4340,7 +4322,7 @@ You seem to be working hard...
 
 [Basket Knight]
 (tired)
-Bahaha... If I take abreak this place will grey out in five minutes...
+Bahaha... If I take a break this place will grey out in five minutes...
 
 [Claire]
 It rains a lot in here, doesn't it... aren't you cold?
@@ -4502,7 +4484,7 @@ A brief pause.
 
 [Basket Knight]
 They'd say I wasn't a "real knight"
-becaue "you're too sweet" and "you can't use that as a weapon"...
+because "you're too sweet" and "you can't use that as a weapon"...
 (angry)
 One of them has a bloody bucket! That's like 80% basket!!!
 
@@ -4619,7 +4601,7 @@ She walks right out of frame.
 
 Claire gets closer to the garden's front entrance. There's a stone path that cuts through a lake. A sign reads "Welcome, humans! Please take as much as you need from the garden!" At the path's center, a gazebo.
 
-When Claire reaches the center of the gazebo, where several flowers and fuits in sacs reside, Basket Knight comes from behind you.
+When Claire reaches the center of the gazebo, where several flowers and fruits in sacs reside, Basket Knight comes from behind you.
 
 [Basket Knight]
 We built this place for them...
@@ -4627,7 +4609,9 @@ We built this place for them...
 Winds begin to blow leaves around.
 
 [&]
-Tired travellers could come by and take a rest... Eat some pie... Smell the flowers... Humans are always on some adventure, aren't they? Struggling to grow or whatever...
+Tired travellers could come by and take a rest... Eat some pie... Smell the flowers...
+Humans are always on some adventure, aren't they?
+Struggling to grow or whatever...
 
 Basket Knight walks past you, looking away from you, towards the entrance.
 
@@ -4637,7 +4621,10 @@ When we opened this up... we were waiting for masses of people to come by...
 A slight pause.
 
 [&]
-They never did... The people who did come made a mockery of this world. Stepped in the grass. Plucked petals out of Flobuds... Threw rubbish in the lake and kicked the signs...
+They never did...
+The people who did come made a mockery of this world.
+Stepped in the grass. Plucked petals out of Flobuds...
+Threw rubbish in the lake and kicked the signs...
 
 [Claire]
 I'm sorry that these jerks came but...
@@ -4649,11 +4636,11 @@ They weren't jerks...
 Humans aren't evil... I sometimes like to pretend they are, but...
 (smiling sad)
 Maybe all they needed was the fun of not caring for a little while.
-But all of them were nice people...
+But all of them were nice people.
 
 [&]
-But nice people do horrible things all the time...
-When we asked them to stop, they just didn't.
+Yet nice people do horrible things all the time.
+We asked them to stop; they just didn't.
 Maybe they thought that because they were so cute and adorable, they couldn't possibly be wrong.
 And we couldn't bring ourselves to yell at them...
 We were desperate for visits anyway...
@@ -4761,6 +4748,610 @@ To the right, a tram station. A tram is crashed there.
 
 Up ahead, the Castle of Dawn.
 
-(APD) Claire puts her hands on the large doors. As she pushes on it, an imposing fanfarre builds up as the screen fades to white, a royal anticipation for the epic place.
+(APD) Claire puts her hands on the large doors. As she pushes on it, an imposing fanfare builds up as the screen fades to white, a royal anticipation for the epic place.
+
+#BGM Royal Fanfare
 
 #TRANS Fade To White
+
+== Abandoned Castle ==
+
+// ...
+
+== Not A Dream ==
+
+Claire opens her eyes and begins breathing hard. Andy rushes to her and crouches. She begins looking at her own hands.
+
+[Andy]
+Calm down... relax...
+
+[Claire]
+Ugh...
+
+[Bruno]
+Do you remember your name?
+
+[Claire]
+It's Claire...
+
+[Bruno]
+How many fingers am I holding up?
+
+She gets up.
+
+[Claire]
+Three. Why are you...
+
+[Andy]
+Dude... We got the key and then the bell rang and then you ran away!
+
+[Claire]
+Huh...
+
+[Andy]
+When I found you in the bathroom, you were in the ground shaking...
+
+[Claire]
+Shaking... I...
+
+Suddenly, her head starts to hurt.
+
+#CAM In my mind, there would be an "extremely disorienting" dolly zoom effect here like in Severance, but if this is not possible in 2D, a suitable replacement.
+
+All the lights in and outside the room, and the computers on the desk glow intensely, then start to flicker as they go back to normal.
+
+[Claire]
+I... remember...
+
+[Bruno]
+(preoccupied)
+Hey, are you alright? What the hell was this?
+
+Andy looks to the ceiling.
+
+[Andy]
+Was that you?
+
+[Claire]
+(surprised)
+I... remember! I remember something!
+We... we came here on purpose... the four of us...
+We had backpacks and...
+
+A slight pause.
+
+[Claire]
+Wait, we need to go out there—
+
+[Bruno]
+Wait, wait, wait! You wanna go out there AGAIN????
+
+[Andy]
+Look, uh, I know it was my idea and all the first time, but...
+I'm with Bruno on this one...
+
+[Claire]
+I just need to get to my locker.
+
+[Andy]
+Claire...
+
+[Claire]
+I'll get out there by myself then.
+
+She turns to leave.
+
+[Andy]
+Wait!
+(smiling)
+I'll go with you then.
+
+Andy and Claire go outside. (APD) They walk to Claire's old locker and she looks at it for a moment. It's the only locker that isn't tinted blue. Light sparkles come out of it.
+
+// Only Claire, a key bearer, can see that.
+
+[Andy]
+(smiling)
+It hasn't been your locker for a while, you know that, right?
+
+[Claire]
+Doesn't it look different from the others?
+
+[Andy]
+Hmm...
+It's uh... scribbled all over...
+Whatever kid inherited it is having a tough time with bullying...
+After we get out of here we can talk with the principal about it.
+How do you plan on opening it?
+
+Claire pulls the door of the locker.
+
+[Claire]
+It's open.
+
+[Andy]
+Great.
+Now we get to see all of some kid's celebrity crushes and unfinished homework?
+
+[Claire]
+There's... just a tape here.
+
+[Andy]
+A cassette tape?
+
+[Claire]
+Yeah...
+
+[Andy]
+(surprised)
+Woah...
+You what it means?
+
+[Claire]
+What?
+
+[Andy]
+(smiling)
+We get to watch a movie after all!!!
+
+[Claire]
+(smiling)
+Something tells me this isn't a movie.
+But I wanna go watch it anyways.
+
+(APD) Claire and Andy go back to the principal's office. There, you can use the tape on the trolley to put it in and watch.
+
+Narration remarks "You put the tape into the cassette player."
+
+#TRANS Slow fade
+
+#BGM (Silence)
+
+A wooden cabin. The curtains are closed. Claire, Bruno, Andy and Rodrick are standing near a TV trolley. They all look younger.
+
+Valentino sits in the middle, cross-legged, atop a pillow. In the corner, a boy with an oversized striped shirt is sitting on a drawer.
+
+In the middle of the room, in front of Valentino, there's a small tear. Also connected to the machine, are electrodes, which Bruno is placing on Valentino's temples.
+
+[Bruno]
+Alright. Tell me what you see...
+
+Bruno takes a step back.
+
+[Valentino]
+(smiling)
+I see... the city...
+
+[Andy]
+Woah...
+
+[Claire]
+Anything else...?
+
+[Valentino]
+(smiling)
+Lots of buildings here... lots of buildings there...
+Some cars... And—
+
+Valentino stops smiling.
+
+[Claire]
+What was it?
+
+Valentino stops in silence for a few seconds with his mouth open.
+
+[Claire]
+What is it?
+What did you see?
+
+[Valentino]
+**The thing...**
+It's... in the sky...
+It's... coming to us... to Earth...
+
+[Bruno]
+In the sky?
+
+[Valentino]
+It's far...
+
+[Claire]
+How do you know?
+
+[Valentino]
+It looks blue like how mountains look when far away...
+
+[Bruno]
+Hm... we could use that to estimate the distance...
+
+[Claire]
+What would that mean interpretatively, though?
+
+[Bruno]
+I dunno, that's YOUR job.
+(turning to Valentino)
+How blue is it?
+
+[Valentino]
+It's so big...
+
+Valentino starts to cry.
+
+[&]
+It's bigger than the moon...
+(crying, shaking)
+It's... it's bigger than everything...
+It's coming...
+
+[Rodrick]
+Didn't you say it was far?
+
+Valentino starts to breathe harder and hyperventilate.
+
+[Valentino]
+(crying, shaking)
+It'll consume everything...
+Everything...
+
+Valentino drops and starts having a seizure. The electrodes in his head detach as he falls.
+Valentino's friend rushes to him from the other side of the room, turns him on his side and starts comforting him. The others stare in shock.
+
+Claire looks at Valentino preoccupied for a moment, then turns to Bruno.
+
+[Claire]
+(serious)
+Did you capture all that?
+
+[Bruno]
+Only glimpses. We need to learn more.
+
+Claire turns back to Valentino.
+
+[Claire]
+Do you think with something more powerful we could go deeper?
+
+[Bruno]
+Like... your dad's stuff? We could try again with some—
+
+The boy puts a pillow below Valentino's face, then, still head down, looking at Valentino speaks with a firm yet soft tone.
+
+[Milo]
+Leave.
+
+[Claire]
+Huh?
+
+[Milo]
+(head still down)
+You're done here.
+
+Claire and Bruno stand awkwardly for a moment.
+
+[Bruno]
+Just close the tear, Claire...
+
+Claire turns around and effortlessly closes the small tear in the floor of the cabin with her key.
+
+An awkward pause.
+
+[Claire]
+Will he be okay...
+
+Milo raises his arm slowly. Then, with a subtle movement of his hand, the door opens, letting sunlight in.
+
+Rodrick and Andy take the hint and start to leave. Claire looks at Valentino for a moment.
+Bruno gets up and, as he pulls the plug, the recording ends.
+
+#TRANS Slow fade in
+
+We're back with present Claire. She is looking at the TV, her face lit with its glow.
+
+[Andy]
+Huh... I remember that day...
+
+[Claire]
+What?
+
+[Andy]
+We went for ice cream after...
+I didn't have any...
+Since Val did all the work we just bought him some...
+
+[Claire]
+It's...
+It's real...
+
+[Andy]
+What?
+
+[Claire]
+The thing... the terror... from another...
+
+Claire puts her hands on her face and pushes it up, brushing her hair.
+
+[Claire]
+I...
+I know what to do.
+I think.
+
+[Andy]
+...
+
+(APD) Claire and Andy go downstairs.
+Claire looks at the hole in the ground.
+She walks up to it and sits down.
+
+[Claire]
+Will you watch over me?
+
+[Andy]
+(confused)
+...
+
+Claire looks into the hole and closes her eyes.
+
+#TRANS Fade out to black, then sudden cut.
+
+Claire is sleeping, back in the bed in the castle. Erica watches over her.
+
+[Erica]
+Hey!
+
+Claire stands up in the bed and gets up.
+
+[Claire]
+This... is...
+
+[Erica]
+Welcome back, friend!
+
+She looks to her hands.
+
+[Claire]
+I feel hazy again. Like I'm dreaming... but...
+This is...
+Is this... real... or is it a dream...
+
+[Erica]
+Yes... and yes...
+
+Claire looks to Erica.
+
+[Claire]
+Huh?
+
+[Erica]
+You're really out of it, aren't you?
+
+[Claire]
+I need to get back there... To find a way out...
+
+[Erica]
+Sure, let's get to The Mirror.
+
+[Claire]
+NO! I need to get back!
+Do you have any more of that tea...?
+
+[Erica]
+You can get more of it where The Mirror is.
+That's where I got it.
+
+[Claire]
+I remembered something while I was out there.
+
+[Erica]
+Yeah, that was probably the tea, too.
+
+[Claire]
+Really?
+
+[Erica]
+Yeah, The Mirror Of Truth, it's like, that's what it does to you.
+It's why Nana told you to come, I imagine.
+
+[Claire]
+Why did no one tell me about that?
+
+[Erica]
+Girl, we been told you that!
+
+[Claire]
+Huh... Oh... yeah... right...
+
+[Erica]
+I'll be waiting for you outside...
+
+Erica walks outside.
+
+== Into The Shrine ==
+
+#BGM Castle of Dawn
+
+(APD) Claire follows her out.
+
+Erica is facing away from Claire, shaking her hands in excitement.
+
+[Erica]
+(realising)
+OH... OH MY HEAVENS!
+(happy)
+I get to mentor a Hero!
+
+She turns to Claire.
+
+[&]
+Ahem.
+Hey, uh...
+I'll answer ALL your questions...
+IF!
+For every question I answer you answer one of MINE back!
+
+[Claire]
+Uh... sure.
+
+[Erica]
+Okay, let's go!
+
+Erica walks up the stairs.
+
+(APD) Claire walks up the stairs.
+
+#BGM Shrine of Reflection
+
+The stairs continue to a new level.
+There are several mirrors plastered along the walls.
+
+// If you interacting with any of them:
+
+[Claire]
+Why... do I look young in the reflection...
+I'm wearing my old dress in it...
+
+[Erica]
+I... don't know what to tell you...
+
+[Claire]
+I guess mirrors work weird in dreams...
+
+// As you go along the stairs
+
+[Claire]
+So...
+What is this place?
+
+[Erica]
+This is the royal castle...
+
+[Claire]
+No, I mean... this whole...
+
+[Erica]
+Oh. Well, you see.
+There's *your side*... and then there's the other side...
+Which is here.
+
+[Claire]
+The... dream world...?
+
+[Erica]
+I've never heard anyone call it that ha ha.
+We call it "The Other Side."
+
+[Claire]
+You... call your own side "The Other Side"?
+
+[Erica]
+...
+It literally never occurred to me that this is weird.
+
+[Claire]
+Haha...
+
+A bit ahead, on the next floor.
+
+[Claire]
+What is—
+
+[Erica]
+A bub bub bub!
+It's my turn!
+
+[Claire]
+Alright. Shoot it.
+
+[Erica]
+What is school?
+
+[Claire]
+It's a place you go to learn stuff and also get bullied a lot apparently.
+
+[Erica]
+Huh! Why would you keep going?
+
+[Claire]
+Well, I mean, you have to.
+It's, like, law, and stuff.
+And Education.
+Yea. Education is important.
+
+[Erica]
+Hmm...
+
+[Claire]
+What are you guys?
+Are you... like... aliens and stuff?
+
+[Erica]
+What are aliens?
+
+[Claire]
+Creatures that aren't from Earth...
+
+[Erica]
+I guess I'm not from earth, so, sure!
+Humans have called us many things before... but never that...
+
+[Claire]
+Hm?
+
+[Erica]
+Spirits... faeries... demons... add that to the list, I guess.
+What is grass?
+
+[Claire]
+You have that here?
+
+[Erica]
+Huh?
+
+[Claire]
+It's the green stuff that grows from the ground.
+
+[Erica]
+Oh, yeah! Wait... that didn't count!
+Hmm...
+What... uh... happens when you gra... dubate...
+
+[Claire]
+Graduate?
+
+[Erica]
+Yeah...
+
+[Claire]
+Well, you get a job...
+
+[Erica]
+Ooo... what's a job...
+
+[Claire]
+It's, like, a thing you gotta do so you get money.
+
+[Erica]
+I know what money is!
+Do many people get jobs?
+
+[Claire]
+Everybody gotta.
+My dad works as a researcher... he's ALWAYS busy...
+My other dad works as a therapist... he's always busy but at home.
+So I get to hear some gossip through the door.
+But I don't.
+That would be unethical.
+
+[Erica]
+Doesn't that get tiring?
+
+[Claire]
+Oh yeah.
+
+[Erica]
+So why do they do it?
+
+[Claire]
+Well, we need to eat somehow...
+Hey, this is MY turn.
+
+[Erica]
+Okay...
