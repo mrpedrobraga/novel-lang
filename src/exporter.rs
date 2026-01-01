@@ -27,6 +27,14 @@ pub fn export_html(file: &File) -> String {
     .into_inner()
 }
 
+pub fn export_rich_text(text: &RichText) -> String {
+    maud! {
+        (r_rich_text(text))
+    }
+    .render()
+    .into_inner()
+}
+
 pub fn export_html_outline(file: &File) -> String {
     maud! {
         body {

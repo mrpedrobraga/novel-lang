@@ -1,5 +1,5 @@
 use {
-    crate::server::LanguageBackend,
+    crate::{server::LanguageBackend, types::File},
     clap::{Parser, Subcommand, ValueEnum},
     std::path::PathBuf,
 };
@@ -22,8 +22,7 @@ async fn main() {
                 path,
                 content,
             } => {
-                let raw = std::fs::read_to_string(&input).unwrap();
-                let (_, file) = crate::parser::file(&raw).unwrap();
+                let file = read_file(&input).unwrap();
 
                 let html = match content {
                     PrintContent::All => crate::exporter::export_html(&file),
@@ -39,8 +38,7 @@ async fn main() {
                 }
             }
             Commands::Play { input } => {
-                let raw = std::fs::read_to_string(&input).unwrap();
-                let (_, file) = crate::parser::file(&raw).unwrap();
+                let file = read_file(input).unwrap();
                 player::play(file);
             }
             Commands::Serve {} => {
@@ -107,4 +105,16 @@ async fn start_language_server() {
     tower_lsp::Server::new(stdin, stdout, socket)
         .serve(service)
         .await;
+}
+
+pub fn read_file<P: AsRef<std::path::Path>>(path: P) -> Result<File, FileReadError> {
+    let raw = std::fs::read_to_string(&path).map_err(FileReadError::IO)?;
+    let (_, file) = crate::parser::file(&raw).map_err(|_| FileReadError::Parse)?;
+    Ok(file)
+}
+
+#[derive(Debug)]
+pub enum FileReadError {
+    IO(std::io::Error),
+    Parse,
 }

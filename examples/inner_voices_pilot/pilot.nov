@@ -106,7 +106,7 @@ When she arrives at [[the school]], she stops for a moment to observe the buildi
 #CAM Pan upwards showing the imposing building, stopping to frame the waving canadian flag.
 #TRANS Dry cut
 
-== I'm NOT GAY!!! ==
+== Freak ==
 Where: Nightmare School
 
 #BGM Dangerous Place
@@ -164,7 +164,7 @@ It's raining. Nothing but the sound of thick droplets hitting the roof and the w
 
 (Adult) Claire lays down near wall, while [[Bruno]] touches her forehead, feeling for a fever.
 
-He turns around to walk way. Claire grunts softly, Bruno jumping at the noise.
+He turns around to walk away. Claire grunts softly, Bruno jumping at the noise.
 
 [Bruno]
 You're awake.
@@ -201,7 +201,7 @@ Bruno walks over to the far side of the classroom to close the window.
 This thing just won't stay shut, will it...?
 
 [Claire]
-You.... What do you mean you "don't know"?
+You.... What do you mean you don't know?
 
 [Bruno]
 You're one to say, you don't know why we're here either!
@@ -222,12 +222,18 @@ A guy? What do you MEAN "A GUY"?
 (annoyed)
 I don't know! It was some— I'm as lost as you are, k?
 
-Claire looks around and calms down. At player discretion she walks toward the door.
+Claire looks around and calms down.
 
 == Taking a peek ==
 Where: School Classroom C
 
+At player discretion she walks toward the door.
+
+[Claire]
+Huh... Did you hear that?
+
 [Bruno]
+Hear what?
 H... hey! What do you think you're doing?
 
 [Claire]
@@ -313,7 +319,7 @@ Let there be light!
 
 [Bruno]
 (jumping in surprise)
-AAAAAAHHHH!!! HEY DON'T SURPRISE ME LIKE THAT WHO DO YOU- Oh, hey Andy.
+AAAAAAHHHH!!! HEY DON'T STARTLE ME LIKE THAT WHO DO YOU- Oh, hey Andy.
 
 [Andy]
 Heya Bruno. I see you're stranded in school, too.
@@ -341,7 +347,7 @@ Are we on a zombie apocalypse?
 [Claire]
 (preoccupied)
 I'm sure we're all—
-(confused, smiling)
+(confused, chuckling)
 W... what?
 
 [Bruno]
@@ -369,15 +375,20 @@ I-
 [Andy]
 (smiles reassuringly)
 Hey. We'll figure this out.
+This is probably some weird performance art thingy by the Arts club...
+
+[Bruno]
+Did you use to do that in high-school???
+
+[Andy]
+No. But now I kinda wish I had the idea...
 
 Bruno annoyedly mumbles under his breath and frustratedly pulls out a random chair to sit on. Claire stares at the two boys in disbelief.
 
 [&]
-Girl, sit down, too.
+Hey, Claire, sit down, too.
 
 The two boys begin messing about in different computers.
-
-====
 
 // You can inspect what each of them is doing on the computers. Narration will say:
 
@@ -385,9 +396,7 @@ The two boys begin messing about in different computers.
 
 "Andy is playing 'Space Pinball'."
 
-====
-
-// If you talk to Andy.
+// When you talk to Andy:
 
 [Andy]
 You know where they keep those TV-trolley thingies the substitute teachers use?
@@ -529,6 +538,21 @@ Let's just keep walking.
 
 (APD) Claire and Andy head upstairs, where the Principal's office is.
 
+[Claire]
+That... sound again...
+From downstairs...
+
+Claire looks around.
+
+[Andy]
+What are you talking about?
+
+[Claire]
+It's like... Sorry, it sounded like my name...?
+
+[Andy]
+Hey, let's uh keep going.
+
 Claire taps the Principal's door.
 
 [Andy]
@@ -562,6 +586,10 @@ Now where would a key be.
 Oh, look, there it is.
 (winking)
 If you just found some cool tapes, we could watch a movie instead of escaping.
+
+[Claire]
+(smiling)
+Ha ha.
 
 // When interacting with the drawers.
 
@@ -603,29 +631,32 @@ Is that how you approach women? Not really a smooth talker...
 
 [Andy]
 No, you're shaking.
-Can I check you?
+Can I Check you?
 
 [Claire]
 Uh... sure.
 
 Andy approaches Claire, puts his hands on her shoulder and closes his eyes.
 The HP/DP gauge appears, showing Claire with 3 HP and 0 DP.
-The bullet board appears around Claire, showing her SOUL and an x-ray of Claire
-underneath.
+The bullet board appears around Claire, showing her SOUL and an x-ray of Claire underneath.
+
 // Arrows will appear, indicating to the player that you can move.
 // You'll be able to move as the dialogue goes on.
 
 [Andy]
 Oh my God... what happened to you?
-Even your SOUL looks hurt.
+Even your SOUL looks weary.
 
 [Claire]
 ...
 
 [Andy]
-I'm low on magic, so it'll take a minute.
+I'm feeling tired for some reason, so it'll take a minute.
 
 A moment of silence, as Andy slowly heals Claire up.
+
+[Claire]
+If this really is a prank, I'll—
 
 [Andy]
 Yeah...
@@ -637,7 +668,7 @@ A brief pause.
 
 [&]
 (scared)
-This... is freaking weird, isn't it???
+This... IS freaking weird, isn't it???
 
 [Claire]
 Huh?
@@ -645,27 +676,40 @@ Huh?
 [Andy]
 (exasperated, but quietly)
 I'm playing it cool, but...
-It's like— at some point I was riding a bike, looking for you, you called me on the phone...
-And then, like a jump cut, there I am in the patio...
+It's like— at some point I was riding a bike, looking for something, you called me on the phone...
+And then, suddenly, like... like a jump cut, there I am in the patio...
+
+// The last thing he remembers is being called by Claire during an event that's revealed in [[Episode 04]].
 
 [Claire]
 ...
 
 [Andy]
 (preoccupied)
-Claire, what's the last thing you remember?
+What did you call me for, anyways?
 
 [Claire]
-I... don't know...
-I think I remember... my house...
+I... huh? I don't remember calling you?
+
+[Andy]
+What do you remember— what's the LAST thing you remember?
+
+[Claire]
+I think I remember... my house... my bedroom...
 I went downstairs to the living room...
 My dad was there... then... I missed the bus...
 
 [Andy]
 (confused)
-You... live in an apartment...
+Your apartment doesn't have two—
 (confused, smiling)
-Hey... um... what's... my name?
+Hey... um... what's... your name?
+
+[Claire]
+I DO remember my name.
+
+[Andy]
+What's MY name?
 
 [Claire]
 Um... "Andy."
@@ -678,6 +722,7 @@ Right?
 [Claire]
 That's what the other guy called you, right?
 Did I get it wrong?
+I'm sorry, I'm not good with names...
 
 [Andy]
 No, but...
@@ -687,6 +732,7 @@ Nevermind, let's get out of here.
 The two of them get out of the room, feeling a bit more relieved.
 
 [&]
+(smiling)
 See? That wasn't so hard, was it?
 Bruno is gonna look so stupid when we come back, hehehe...
 
@@ -734,7 +780,7 @@ The strange creatures start to phase through the floor from below, the lights fa
 (suddenly serious)
 What the— Hey, that's— not that funny, guys!
 
-// When perceiving real danger, Andy locks in, being protective of Claire
+// When perceiving real danger, Andy locks in, being protective of Claire.
 
 Claire looks petrified at the faceless humanoid creatures approaching her. She starts to sweat and breathe funny.
 
@@ -790,7 +836,7 @@ Bullets swirl around you, not exactly aiming at you, but you can be hit and rece
 
 // Dying here just restarts the section from the save point. It's low stakes.
 
-At the end of the corridors Claire sees a bathroom door, and goes through it. The room is chaotic and trippy, safe for a single mirror on the left. She's breathing funny.
+At the end of the corridors Claire sees a bathroom door, from below which a turquoise light glows and a comforting tune plays, and enters it. The room is chaotic and trippy, safe for a single mirror on the left. She's breathing funny.
 
 [Claire]
 I'm not made for all this running.
@@ -798,13 +844,13 @@ I'm not made for all this running.
 Claire looks at herself in the mirror.
 
 [&]
-What the hell is going on.
+What the hell is going on...
 
-She sees the small cat in the reflection and turns to it. It walks up to her, walking in between her legs.
+She sees the small cat in the reflection and turns to it. It walks up to her, then walks in between her legs.
 
 #SAVE The game is saved here.
 
-Claire starts breathing more calmly. She sits down and the cat jumps on her lap. As she calms down, the background fades back into focus, revealing the current room is the bathroom.
+Claire starts breathing more calmly. She sits down and the cat jumps on her lap. As she calms down, the background fades back into focus, revealing the current room is the school bathroom.
 
 [Claire]
 (with a soft voice)
@@ -814,7 +860,8 @@ The cat gazes into her with its big yellow eyes.
 
 [&]
 Me too, kitty. Guess we'll be stuck here for a while, huh...
-I... don't know what's going on. I feel like I'm going insane...
+I... don't know what's going on.
+None of this is normal...
 
 Claire looks around.
 
@@ -961,9 +1008,9 @@ Oh, this is all because of yesterday.
 Don't you... remember?
 Something happened that broke the world along with everyone's minds.
 Clawed a tear in the sacred fabric.
-Got your classmates all... floaty... drifty... T-posing...
+Got the students all... floaty... drifty... T-posing...
 
-[The Mystery Kid]
+[&]
 It IS your job to mend all of this of course.
 
 [Claire]
@@ -1053,6 +1100,8 @@ Your hand's on fire.
 [The Mystery Kid]
 It's. It's. It's magic fire. It's fine.
 
+> Here the player is prompted with two choices: 'Deal' or 'Deal'.
+
 [Claire]
 Okay.
 
@@ -1091,7 +1140,7 @@ Just, uh, don't start counting now.
 
 [Claire]
 (trying to put her thoughts in order)
-Are all those people really... kids from town?
+Are all those people really... what happened to them...?
 
 [The Mystery Kid]
 Claire, love, don't be getting stage fright right now.
@@ -1126,7 +1175,7 @@ Break a leeeeeg!
 == The Forest ==
 Where: Zenith Forest
 
-Claire stands around in the moonlit forest, just outside of the school. Her image stands out against the background, emitting no shadow, like a poor 1980s VFX overlay. She's astral projecting, though she does not know.
+Claire stands around in the moonlit forest, just outside of the school.
 
 Pierre stands near her.
 
@@ -1134,20 +1183,25 @@ Pierre stands near her.
 Oh man. That was something.
 
 [&]
-I AM going crazy. Wait, did that all happen or not?
+Huh? How did I...
+Oh...
+(thinking)
+Did any of that right now really happen?
 
 She turns at the cat beside her, which stares back at her in silence.
 After a moment to readjust, she begins walking forward.
 
 Moving away from behind the school, Claire sees, from the cliff, the city at dusk. Home is within reach, but not quite.
 
-// To the right the are barricades and police lines. You can also barely see police sirens flashing. You can try to get someone's attention but they just will "somehow" not be able to hear you.
+// To the right the are barricades and police lines. You can also barely see police sirens flashing.
+
+(APD) If Claire gets close to the police lines narration reads: "You approached the threshold with the intentional... but for some reason something about doing that felt really, really wrong."
 
 Pierre walks into the forest.
 
 (APD) Claire follows him.
 
-As Claire walks, a peaceful atmosphere accompanies her, a silence that isn't quite silent, but blends the noises of rustling leaves, a small creek nearby and bugs in the grass.
+As Claire walks, a peaceful atmosphere accompanies her, a silence that isn't quite silent, but blends the noises of rustling leaves, a small creek nearby, bugs in the grass, and occasionally... the haunting echo of a call from within the woods.
 
 #BGM Zenith
 
@@ -1156,7 +1210,7 @@ More walking. Got my fair share of steps in today, huh...
 
 Claire continues walking forward. The forest isn't exactly a maze, but there is some to explore.
 
-// In the way, you'll occasionally run into these big branches that you need to smash to get through. Smashing it uses the same minigame as the "FIGHT" action in battle, so this is a tutorial.
+// In the way, you'll occasionally run into these big branches that you need to smash to get through. Smashing it uses the same minigame as the "FIGHT" action in battle, so this is a tutorial somewhat.
 
 [Claire]
 Where are we going?
@@ -1168,7 +1222,7 @@ Where: The Treehouse
 
 // Wonder if people will recognise the treehouse from the [[#Setting_The_Tone|first scene]].
 
-Moonlit at the clearing's far wall sits a strange treehouse. Its entrance faces her, enticingly. Pierre effortlessly jumps into the "balcony" and enters the house without fully opening the door.
+Moonlit at the clearing's far wall sits a strange treehouse. Its entrance faces her, enticingly. Pierre effortlessly jumps into the balcony and enters the house opening the door, but not fully.
 
 [Claire]
 (intrigued)
@@ -1176,7 +1230,7 @@ Hm...
 
 (APD) Claire looks up to the sky then takes a step forward. She climbs the treehouse's rope ladder and carefully opens the door, peeking inside.
 
-Inside the treehouse, instead of, well, the inside of a treehouse, there's instead a long corridor with circular walls and a glow-in-the-dark ambiance. A strange hum echoes throughout it.
+Inside the treehouse, instead of, well, the inside of a treehouse, there's a long cylindrical tunnel and a glow-in-the-dark ambiance. A strange hum echoes throughout it, calling Claire.
 
 #CAM The camera frames the corridor from the side so we can see its length, and Claire peeking in the right of the frame.
 
@@ -1218,9 +1272,6 @@ Music starts to swell with a magic orchestral sound.
 
 #CHYRON Into The Other Side
 
-// From now on, a few things change.
-// Opening the UI now shows an empty "DP" gauge underneath the HP gauge.
-
 == Marvelous Sight ==
 Where: Hearthaven
 
@@ -1238,7 +1289,7 @@ You're lucky you get that.
 [Claire]
 Huh—
 (she turns to him, her speech finally comfortable and not tense or confused)
-So you CAN talk, but only here, right?
+Okay, so you CAN talk. But... you couldn't talk outside???
 
 [Pierre]
 I can talk all the time.
@@ -1247,6 +1298,7 @@ YOU can only understand me here.
 Pierre walks in front of her, sassily but softly hitting her in the face with its tail. Claire ponders for a moment.
 
 [Claire]
+What is this pl—
 Is this place real?
 
 [Pierre]
@@ -1270,7 +1322,7 @@ Where: Hearthaven
 
 As the walks into the city, the people look at her with intrigue. She feels a bit uncomfortable with the sudden attention.
 
-When she reaches the main street, a [[Evelyn|small child]] walks into frame following a ball she dropped. When she graphs the ball and looks up to the stranger before her, she drops the ball (and drops her jaw).
+When she reaches the main street, a [[Evelyn|small child]] walks into frame following a ball she dropped. She grabs the ball and looks up to the stranger before her, then she drops the ball (and drops her jaw).
 
 [Claire]
 Um... Hi?
@@ -1296,16 +1348,16 @@ There, she sees Evelyn shaking her arms in heightened emotion, telling two other
 When Claire gets closer, she can just about make it out.
 
 [Evelyn]
-You gotta come! You gotta _see_ it!!!
+You gotta come! You gotta *see* it!!!
 
 [Enzo]
 Hey, hey, lay it out already!
 
 [Evelyn]
-No! You're not gonna believe me if I _tell_ you! Come see her!
+No! You're not gonna believe me if I *tell* you! Come see them!
 
 [Enzo]
-Her who???
+Them who???
 
 Evelyn grabs Enzo's hand and pulls him toward the right, but then sees Claire is Right There.
 
@@ -1320,19 +1372,19 @@ What is so shocking about me???
 A... a foreigner...?
 
 [Evelyn]
-A foreigner? She's not just any foreigner! Look closer.
+A foreigner? They're not just any foreigner! Look closer.
 
 The three children gather close to her.
 
 [Enzo]
 (too close)
-She does look good for a foreigner.
+They do look good for a foreigner.
 
 [Claire]
 Uh. Oh. Hi...
 
 [Evelyn]
-She SOUNDS good!
+They SOUND good!
 
 [Erica]
 (sniffs her hair)
@@ -1343,7 +1395,7 @@ She smells good, too!
 What is this place...
 
 [Evelyn]
-There's... something about her I can't quite put my finger on.
+There's... something about them I can't quite put my finger on.
 
 [Claire]
 Alright, alright, back off.
@@ -1362,6 +1414,7 @@ Come here often?
 
 [Claire]
 Huh. No this is literally my first time.
+What is this place...
 
 [Enzo]
 Oh. Eh... ya... got a name, foreigner?
@@ -1370,6 +1423,9 @@ Oh. Eh... ya... got a name, foreigner?
 Claire.
 
 [Enzo]
+(surprised)
+A girl...
+(playing it cool)
 Name's Enzo.
 
 [Claire]
@@ -1421,7 +1477,7 @@ The kids wave her goodbye, feeling all a bit disappointed.
 Just a heads up, the mayor can be a somewhat intense negotiator.
 
 [Claire]
-Uhh... Okay!
+Uhh... Okay?!
 
 [Becky]
 Alright.
@@ -1483,20 +1539,22 @@ Alright. The topic of our meeting is—
 the state of the world as you might've seen it.
 
 [Claire]
-Oh. Yeah.
-(thinking)
-Finally...
+Oh.
+(wide-eyed, expecting answers)
+Yeah?
 
 [McMayor]
 We're interested in knowing when do you plan to resume your activities as **The Hero Of Spirit**.
 
 [Claire]
+(narrow-eyed, confused)
 As what?
 
 [McMayor]
 As **The Hero Of Spirit**.
 
 [Claire]
+(narrow-eyed, confused)
 Again—  what?
 
 [McMayor]
@@ -1559,7 +1617,7 @@ Please, hero! This is all I have!
 (smiling)
 Okay yeah I'll do it.
 (thinking)
-What the heck am I getting into.
+Wait, what did I just agree to...?
 
 [McMayor]
 (recomposing himself)
@@ -1577,7 +1635,7 @@ The mayor returns to his seat and rearranges his tie.
 
 [Claire]
 (confused but smiling)
-Alright, what do you want me to do.
+Alright, what do you want me to do?
 
 [McMayor]
 Why does it seem like you have no idea what your job is...
@@ -1586,7 +1644,7 @@ Why does it seem like you have no idea what your job is...
 Sir, if the hero needs a refresher, perhaps we can provide it with **The Ancient Scroll**, no?
 
 [McMayor]
-Excellent plan, Becky. Hand me the scroll and we will remind the hero of its (sic) duty.
+Excellent idea, Becky. Hand me the scroll and we will remind the hero of her duty.
 
 [Becky]
 Well...
@@ -1836,14 +1894,14 @@ Narration for the three turns read:
 
 After the third turn, Professor Whynott tries, but fails(!) to pull the plug.
 
-"Professor Whynott trips on the electricity chord and falls!"
+"Professor Whynott trips on the electricity cord and falls!"
 
-"Professor Whynott tries to get up but trips on the same chord again!"
+"Professor Whynott tries to get up but trips on the same cord again!"
 
-"Professor Whynott gets too comfortable and accidentally takes a nap!"
+"Professor Whynott gets too cozy on the floor and accidentally takes a nap!"
 
 So you must either FIGHT or Spare the enemy to defeat it. If it takes too long,
-Erica will pull the chord and you get a draw.
+Erica will pull the cord and you get a draw.
 
 // Dying here brings you back to just outside the professor's atelier, even though the game hasn't been saved. It's very difficult to die, though.
 
@@ -1888,7 +1946,7 @@ Hmm... it must be somewhere... around here...
 
 [Whynott]
 How peculiar. How odd indeed.
-I specifically recall being handed the scroll for an important motive.
+I specifically recall being handed the scroll for an important motive...
 
 [Claire]
 Preservation... Maybe you put it in a box!
@@ -1902,16 +1960,16 @@ I'll help you look for it.
 (APD) Claire looks around, interacting with things. There's an oven, a sink, a pile of garbage, another pile of garbage. Eventually she may talk to the professor again.
 
 [Whynott]
-Me? I woudln't keep such an important document on my pocket...
+Me? I wouldn't keep such an important document on my pocket...
 
 [Claire]
 I was just gonna ask if—
 
 [Whynott]
 Wait... How better could I take constant care of it than to carry it on my person at all times!
-Marvellous idea, Mi—
+Marvelous idea, Mi—
 (pause)
-Did... did I ask you your name, my dear?
+Hear, I don't believe I caught your name, my dear?
 
 [Claire]
 "Claire."
@@ -1933,7 +1991,8 @@ Thanks!
 Will you need any help cleaning up?
 
 [Whynott]
-Cleaning up? Oh— what a misunderstanding. My office just looks like that.
+Cleaning up? Oh— what a misunderstanding.
+My office just looks like that.
 An inventor's atelier needs a healthy coating of ash and debris at all times.
 
 [Claire]
@@ -2009,7 +2068,7 @@ When the world is subsumed by shadow... hell no...
 Blond lad saves the prin— didn't I see this kid before...
 
 [Claire]
-What's all that stuff anyways?
+Excuse me, what's all that stuff anyways?
 
 [Becky]
 Oh, as you know, there are these (huff)
@@ -2032,7 +2091,7 @@ Well, every so often a human child will be exploring unsupervised and end up her
 ...and we have to babysit them.
 
 [Becky]
-Don't listen to him— it is an _honour_ to serve these young humans for as long as they stay.
+Don't listen to him— it is an *honour* to serve these young humans for as long as they stay.
 Some of them just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other realm to provide that, right?
 
 [Mayor]
@@ -2041,7 +2100,7 @@ Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and
 (APD) You can pick it up. "'Dream Passport' was added to your SPECIAL items."
 
 [Claire]
-Am I... one of those kids?
+So... I'm to understand I'm one of these kids...
 
 [Becky]
 Oh, no, not at all. You're something different.
@@ -2049,7 +2108,7 @@ Oh, no, not at all. You're something different.
 Something very different.
 
 [Claire]
-Ahhhh... what does that mean...
+Ahhhh... what does any of that meeeeean...
 
 [Becky]
 (still looking at Claire)
@@ -2062,365 +2121,45 @@ When the angel who's seen the surface blah blah the underground— oh wait no, i
 You think you'll find it in time for the story time ceremony?
 
 [Becky]
-Not any later than that!
+Wait, I'm sure to find it!
 
 [McMayor]
 (sighs)
-Listen, hero, how about you check in at the inn while Becky here finds what we're looking for, hm?
+Listen, hero, how about you check in at the inn while Becky here finds what we're looking for, hm? Maybe go for a long walk?
 
 [Claire]
-I could go for a rest... My legs are sore from all this walking.
+Well I—
+
+[Becky]
+Found it!!!
+
+Becky runs out of the door with the file.
+
+[Claire]
+Oh, neat-o!
+
+// (APD) Talking to the Mayor
 
 [McMayor]
-That's a plan, then. I faxed my—
-The Innkeeper... about your arrival.
-Your room will be prepared by the time you arrive.
-
-// Bro is divorced, lol.
-
-[Claire]
-Cool beans.
-
-== Saving ==
-Where: Hearthaven
-
-Back out in the city, everybody is closing the shops. At the town bridge, The Mystery Kid and Pierre are hanging out.
-
-(APD) Claire talks to the two of them.
-
-[The Mystery Kid]
-Hey there, partner! Taking a late evening stroll, are you?
-
-[Pierre]
-Hey, Claire... You look pretty worried...
-
-[Claire]
-Worried? Me?
-
-[The Mystery Kid]
-Well, just to say it's not a weakness to admit you don't got it all together, you know? It would be weird if you WEREN'T scared at least sometimes.
-Speaking of which, let me share some advice.
-
-[&]
-Whenever you feel anxious... right before doing something critical for example...
-What you should do is... calm down... breathe... and touch this cat.
-
-[Claire]
-Huh?
-
-[The Mystery Kid]
-Touch. The cat. Go on, let's rehearse it now.
-
-[Pierre]
-Oh yes! Touch me like only you know how~
-
-[Claire]
-I'm—
-I'm not touching THIS cat...
-
-[The Mystery Kid]
-Pierre: be normal.
-Claire: Touch the cat!
-Touch it! Touch the cat!
-Touch! The! Cat!
-
-[Claire]
-Aaaaaaaaaaaah alright!!
-
-Claire pets Pierre.
-
-#SAVE Save menu appears.
-
-// This is the first instance of the save menu appearing proper. It always appears with a nice purr sound effect. The two options are "Record" and "Not now". Pressing "Record" does a nice tape recorder sound effect. After saving, the options are "Continue" or "Leave". Pressing continue does a nice chiptune sound effect. There's a callback to this in Episode 5 believe me or not.
-
-[Claire]
-Awwww... You just wanted a little love didn't you.
-
-[Pierre]
-Don't we all?
-
-[The Mystery Kid]
-I knew you were a cat person!
-Well, don't you feel much better now?
-
-[Claire]
-Huh?
-Yeah I guess so... a little...
-
-// Talking to the Mystery Kid again
-
-[The Mystery Kid]
-This really is a nice little place, isn't it?
-
-[Claire]
-What really _is_ this place?
-
-[The Mystery Kid]
-It's too late for philosophy lessons.
-
-[Claire]
-Huh? What does that mean?
-
-[The Mystery Kid]
-It means "go to sleep."
-
-// (APD) You can walk around and inspect the buildings and stuff. There's, of course, the passage to the old city ruins. I think approaching it will make the music stop, and only a quiet wind can be heard. Ominous.
-
-== Dream Within A Dream ==
-
-Arriving in the inn, Claire's received by [[Rosetta]], a big, lovable woman.
-
-// She's like, big to contrast with the mayor's small size. She's, like, an old actress type, with lots of quirky pink clothing, a hat, a glimmering dress and some good ol' (American) southern hospitality.
-
-[Rosetta]
-Welcome, darling! Oh, do get right in, mind the gap, but come, come!
-
-Claire walks a bit more around the inside.
-
-[&]
-It's so good to receive you here, really!
-It's been so long since a human has found themselves here! So long...
-
-[Claire]
-More like _lost_ myself here...
-
-[Rosetta]
-Oh, Manuel told me that your mind is all scrambled, isn't it right, hun?
-Oh, don't worry — it happens!
-
-[&]
-See, I'll be preparing your room: once you get a good night's sleep, your memories will come flowing back to you in no time! Unless...
-Eh, you don't have to worry about that!
-
-[Claire]
-I see. Thanks, ma'am.
-
-[Rosetta]
-Ma'am? Who are you calling ma'am?
-
-[Claire]
-I—
-
-[Rosetta]
-Who am I kidding, I've been aging—
-(widening her eyebrows)
-Like fine wine, though! Ah ha ha!
-(smiling)
-Will you hand me your passport for a moment, dear...
-
-Claire hands her the passport. She inputs some information into a toy computer.
-
-[Rosetta]
-Yes... Yes... Thank you, here ya go.
-Alright, "Claire," your room is right there waitin' fer you.
-Get a good night's sleep to be rested for the ceremony tomorrow mornin'.
-
-[Claire]
-Excuse me, ceremony?
-
-[Rosetta]
-Oh, it's nothin' much. Our storytelling thing. Every day we all gather together to hear a story around the village hearth. Becky thought it right to ask Nana to tell our golden tale since you're here, to teach you what it is that we do.
-(winking)
-You're the quiet, "go along with it" type, but I'm sure you've been lookin' for some answers to some questions haven't you?
-
-[Claire]
-(smiling)
-Oh... um...
-
-[Rosetta]
-Well you ain't getting any of them now! The faster you snooze, the faster you wake up!
-
-[Claire]
-You know what, some rest would actually probably do me good right now.
-
-[Rosetta]
-Yes it will, hun.
-
-Claire enters her room. It's neat. Unlike the previous room, it's lit in blue instead of warm orange. Her expression becomes serious (the smile vanishes from her face).
-
-Claire walks to the bed and lays down on it for a moment. She puts her hands over her face for a moment and brushes her eyes. The pace of the scene slows down to the minimum, now that she has some time for herself.
-
-[Claire]
-...
-
-A brief pause.
-
-[Claire]
-Good night, me!
-
-#TRANS Fade to black.
-
-== The Third Awakening ==
-Where: Hearthaven/Inn
-
-Claire wakes up, not felling that well rested.
-
-#SAVE Game is saved here.
-
-As she tries to get up, she finds a dead mouse placed upon her, which she throws out of herself immediately. (That's a gift from Pierre)
-
-[Claire]
-Ghmghmm... Morning...
-(wiping her eyes)
-Daaad!
-
-Claire wakes up and walks towards the door, and peeks through it.
-
-[Claire]
-Dad... I got cramps...
-(she looks around the strange place)
-Dad?
-
-A pause of realization.
-
-[Claire]
-Oh...
-
-Erica pops up by the window, upside down.
-
-[Erica]
-Hey! I was watching you sleep— you were talking...
-
-[Claire]
-(sarcastically)
-A normal thing to do.
-
-[Erica]
-Oh, great! I thought I was being weird for a moment.
-Come to the roof.
-
-Erica slides up out of view. Claire follows her to the roof and, seeing the city, sits besides her. Erica points up to the sky, where glow-in-the-dark star stickers glow. The two look up for a moment.
-
-[Erica]
-How... um...
-
-Erica gets a green book from her side and reads something from it.
-
-[Erica]
-"Hello. How Has Your Day Been?"
-
-[Claire]
-Those stars...
-
-[Erica]
-Hm? What about them?
-
-[Claire]
-They look like...
-
-[Erica]
-Oh, yeah, they're stickers. The glow-in-the-dark kind.
-
-Claire laughs.
-
-[Claire]
-You know what? I think I get it. This... is just a dream, isn't it?
-
-[Erica]
-It is a dream...
-
-[Claire]
-Knew it! I mean, I... didn't... I've been so... confused...
-Chased by shadowy aliens? Zombies? Whatever—
-Then walking through a portal in the woods...
-
-[Erica]
-You crossed a portal to come here...
-
-[Claire]
-Huh? Yeah, a tunnel...
-
-[Erica]
-Is... is the physical realm... really real?
-
-[Claire]
-What?
-
-[Erica]
-Sorry, it's a weird question... but...
-I've never met someone from another realm before...
-Whenever I've heard of Earth... it's so strange...
-(she starts brushing her hair with her hands and looking away from Claire)
-Evelyn told me you have something called the "Laws of Physics" that... make your body behave in just one way...
-
-[&]
-And since our Laws of Stories don't apply there... sometimes things just... happen? With no cause or reason why? That sounds... so... alien to me.
-
-[Claire]
-...
-
-[Erica]
-I wish I could visit your side, but...
-The threshold, we can't... you know...
-
-A long pause.
-
-[Erica]
-I guess the stars in your world don't look anything like this. Since you called it out so quickly. If I could just come over there I'd understand...
-
-[Claire]
-You wouldn't see nothing with all the light pollution.
-
-[Erica]
-Huh... well, I'd be glad to meet the locals at least. I'd make all sorts of friends.
-
-Claire reminisces for a moment.
-
-[Claire]
-Eh... I'm not sure about that.
-I had trouble fitting in and I just came from _Japan_.
-Imagine you, from a whole different world.
-
-[Erica]
-Well, t- they'd calm after they see I'm nice.
-
-[Claire]
-Ha. If you're nice that's when they get you harder.
-I wish I'd grown up in a place like this.
-Your people are so nice...
-Y'know, your world seems cool.
-Dream world.
-
-[Erica]
-(perplexed)
-Th... thank you.
-
-A brief pause.
-
-[Erica]
-I guess it _is_ cool.
-(smiling)
-Even more cool now that you're here.
-
-She smiles at Claire. Claire is still looking into the distance and doesn't reply.
-
-[Erica]
-(flustered)
-Alright, I'm sorry I'll leave you alone.
-Get ready for the ceremony!
-It's in five minutes.
-
-[Claire]
-Oh yeah, the thing.
-
-[Erica]
-Bye.
-
-Erica yeets herself off the roof, leaving the frame (we never hear her land). Claire looks to the sky one last time, then crawls back through the window and sits on the bed for a moment, before getting up.
-
-(APD) You can go back in the bedroom.
+What are you waiting for, a kiss on the forehead?
+Get outta here!
 
 == Storytelling ==
 Where: Hearthaven
 
-Leaving the room, nobody's in the inn. You can get a slice of lemon pie from the back of the fridge, as well as some moon cola.
-
 Getting outside, everybody is gathered in the village centre. The yarn golems hold ceremonial torches (lit matches) and [[Evangeline]], the oracle, holds her needle staff in the middle, awaiting Claire's arrival.
 
-Claire steps through the mass and sits in the front, besides Evelyn and Enzo. Erica is not in sight.
+// (APD) You can walk around and inspect the buildings and stuff. There's, of course, the passage to the old city ruins. I think approaching it will make the music stop, and only a quiet wind can be heard. Ominous.
+
+[Erica]
+Hey, hey! I saved you a good spot!
+
+Claire steps through the mass and sits in the front, besides Erica.
 
 [McMayor]
-Good evening, folks. We find ourselves once again together, all well, to tell stories to one another. The tale we've chosen to tell today is a very special one. As is customary, your madam, The Oracle, will now narrate it for us.
+Good evening, folks. We find ourselves once again together, all well, to tell stories to one another.
+The tale we've chosen to tell today is a very special one, it's one that each and every one of you already knows.
+As is tradition, your madam, The Oracle, will now narrate it for us.
 
 [The Oracle]
 Thank you, lad.
@@ -2500,7 +2239,9 @@ They're not the same
 #TRANS The entire screen goes white, then slowly black.
 
 [The Oracle]
-This, Hero, is our purpose. And the role _you've_ taken, too.
+This, Hero, is our purpose.
+Guiding these lost SOULs...
+This is the role *you* have taken, too.
 But today, something else looms in the horizon...
 
 #TRANS Fade
@@ -2519,7 +2260,9 @@ Boiling with hatred...
 Suddenly, with the mention of it, the silhouette of The Angel — its many concentric rings — is illuminated in the next two lightning flashes.
 
 [&]
-A terror from another world... threatens to break this cycle...
+A *terror from another world*...
+threatens all worlds
+with *anihilation*.
 
 #TRANS Smash to black with a lightning sound.
 
@@ -2529,12 +2272,32 @@ Everybody is silent, solemnly.
 
 Claire stands up.
 
+[The Oracle]
+Hero, you must leave this instant to pursue your destiny.
+
+[Rosetta]
+Elder, can we at least pack her some items for her travels?
+Please allow her to rest if just for a short while.
+
+[The Oracle]
+Hm...
+Very well.
+
+[Rosetta]
+I'll get everything ready.
+
+Rosetta walks to the right.
+
 [Claire]
 I'm... This is...
+
+Rosetta stops to reassure Claire,
 
 [Rosetta]
 (trying to lighten Claire up)
 But, Claire, you're safe here with us for as long as you stay, okay?
+
+then continues leaving.
 
 [McMayor]
 Even if your realm does end up being destroyed you will be able to stay here.
@@ -2542,41 +2305,295 @@ Even if your realm does end up being destroyed you will be able to stay here.
 The crowd begins to disperse.
 
 [Claire]
-I'm... sorry... you've all been so hospitable and welcoming, but...
+I'm... sorry... you've all been so nice and hospitable, but...
 
 Another pause.
 
-[Claire]
+[&]
 My dad's gotta be worried sick. And there's those guys stuck at school, too...
 
 [McMayor]
-Didn't you hear it? Your world is going to be destroyed! There will be nothing to return to.
+Didn't you hear it? Your realm is going to be destroyed! There will be nothing to return to.
 
 [The Oracle]
-The human must go back to her world.
-
-A brief pause.
-
-[The Oracle]
-Young heroine. You seek the way back home, do you not?
-
-[Claire]
-Yeah...
-
-[The Oracle]
-There is only one way for you to return safely.
-In the bleak catacombs... the ruins of the old city...
-Find **The Mirror**, and exit through it.
+The human must go to her otherworld.
 
 [Evelyn]
 Nana... Can the human not stay with us? We wanted to play—
 
 [The Oracle]
-It is decided. She must leave now.
+It is decided. She must leave today.
+After getting some rest, I suppose.
 
-Evangeline walks up to the catacomb doors. APD, you may say goodbye to everybody.
+The kids slowly go their ways.
 
-Some people will say stuff like:
+== Dream Within A Dream ==
+
+// She's like, big to contrast with the mayor's small size. She's, like, an old actress type, with lots of quirky pink clothing, a hat, a glimmering dress and some good ol' (American) southern hospitality.
+
+[Rosetta]
+Welcome, darling! Oh, do get right in, mind the gap, but come, come!
+
+Claire walks a bit more around the inside.
+
+[&]
+It's so good to receive you here, really!
+It's been so long since a human has found themselves here! So long...
+
+[Claire]
+More like _lost_ myself here...
+
+[Rosetta]
+Ah ha ha ha ha! "lost mys-" ha ha ha!
+Ohhh darling, Manuel told me that your mind is all scrambled, isn't it right, hun?
+Oh, don't worry — it happens!
+
+[&]
+See, I'll be preparing your room: once you get a good night's sleep, your memories will come flowing back to you in no time! Unless they don't, in which case, that's unfortunate.
+
+[Claire]
+(with "Oh, wait, really?" eyes)
+I see. Thanks, ma'am.
+
+[Rosetta]
+Ma'am? Who are you calling ma'am?
+
+[Claire]
+I—
+
+[Rosetta]
+Who am I kidding, I've been aging—
+(widening her eyebrows)
+Like fine wine, though! Ah ha ha!
+(smiling)
+Will you hand me your passport for a moment, dear...
+
+Claire hands her the passport. She inputs some information into a toy computer, then gives her the passport back.
+
+[Rosetta]
+Yes... Yes... Thank you, here ya go.
+Alright, "Claire," your room is right there waitin' fer you.
+Get a good night's sleep to be on your way home as soon as possible.
+
+[Claire]
+...
+
+[Rosetta]
+Oh, it's nothin' much. Our storytelling thing.
+Every night we all gather together to hear a story around the village hearth. Becky thought it right to ask Nana to tell our golden tale since you're here, to teach you what it is that we do.
+(winking)
+You're the quiet, "go along with it" type, but I'm sure you've been lookin' for some answers to some questions haven't you?
+
+[Claire]
+(smiling)
+Oh... um...
+
+[Rosetta]
+Well you ain't getting any of them now! The faster you snooze, the faster you wake up!
+
+[Claire]
+You know what, some rest would actually probably do me good right now.
+
+[Rosetta]
+Yes it will, hun.
+
+Claire enters her room. It's neat. Unlike the previous room, it's lit in blue instead of warm orange. Her expression becomes serious (the smile vanishes from her face).
+
+Claire walks to the bed and lays down on it for a moment. She puts her hands over her face for a moment and brushes her eyes. The pace of the scene slows down to the minimum, now that she has some time for herself.
+
+[Claire]
+...
+
+A brief pause.
+
+[Claire]
+Good night, me!
+
+#TRANS Fade to black.
+
+== The Third Awakening ==
+Where: Hearthaven/Inn
+
+Claire wakes up, not felling that well rested.
+
+#SAVE Game is saved here.
+
+As she tries to get up, she finds a dead mouse placed upon her, which she throws out of herself immediately. (That's a gift from Pierre)
+
+[Claire]
+Ghmghmm... Morning...
+(wiping her eyes)
+Daaad!
+
+Claire wakes up and walks towards the door, and peeks through it.
+
+[Claire]
+Dad... I got cramps...
+(she looks around the strange place)
+Dad?
+
+A pause of realization.
+
+[Claire]
+Oh...
+
+Erica pops up by the window, upside down.
+
+[Erica]
+Hey! I was uhhh watching you sleep...
+
+[Claire]
+(nodding sarcastically)
+A normal thing to do.
+
+[Erica]
+Oh, great! I thought I was being weird for a moment.
+Come to the roof.
+
+Erica slides up out of view. Claire follows her to the roof and, seeing the city, sits besides her. Erica points up to the sky, where glow-in-the-dark star stickers glow. The two look up for a moment.
+
+[Erica]
+How... um...
+
+Erica gets a green book from her side and reads something from it.
+
+[Erica]
+"Hello. How Has Your Day Been?"
+
+[Claire]
+Those stars...
+
+[Erica]
+Hm? What about them?
+
+[Claire]
+They look like...
+
+[Erica]
+Oh, yeah, they're stickers. The glow-in-the-dark kind.
+
+Claire laughs.
+
+[Claire]
+You know what? I think I get it. This... is a dream. Isn't it?
+
+[Erica]
+(smiling)
+A dream?
+I... I feel like that too.
+
+[Claire]
+Knew it! I mean, I... didn't... I've been so... confused...
+Chased by shadowy aliens? Zombies? Whatever—
+Then walking through a portal in the woods to...
+...another... world?
+
+[Erica]
+(smiling, awestruck)
+Woah, you came here through a portal?
+
+[Claire]
+Huh? Yeah, a tunnel...
+
+[Erica]
+Is...
+Is the physical realm... really real?
+
+[Claire]
+What?
+
+[Erica]
+Sorry, it's a weird question... but...
+I've never met someone from another realm before...
+Whenever I've heard of Earth... it's so strange...
+(she starts brushing her hair with her hands and looking away from Claire)
+Evelyn told me you have something called the "Laws of Physics" that... make your body behave in just one way...
+
+[&]
+And since our Laws of Stories don't apply there... sometimes things just... happen? With no cause or reason why? That sounds... so... alien to me.
+
+[Claire]
+...
+
+[Erica]
+I wish I could visit your side, but...
+The threshold, we can't... you know...
+
+A long pause.
+
+[Erica]
+I guess the stars in your world don't look anything like this.
+Since you called it out so quickly.
+If I could cross to your side I'd understand...
+
+[Claire]
+You wouldn't see nothing with all the light pollution.
+
+[Erica]
+Huh... well, I'd be glad to meet the locals at least. I'd make all sorts of friends.
+
+Claire reminisces for a moment.
+
+[Claire]
+Eh... I'm not sure about that.
+I had trouble fitting in and I just came from *Japan*.
+Imagine you, from a whole different world.
+
+[Erica]
+Well, t- they'd be chill after they see I'm nice.
+
+[Claire]
+Ha. If you're nice that's when they get you harder.
+I wish I'd grown up in a place like this.
+Your people are so nice...
+Y'know, your world seems cool.
+Dream world.
+
+[Erica]
+(perplexed)
+Th... thank you.
+
+A brief pause.
+
+[Erica]
+I guess it _is_ cool.
+(smiling)
+Even more cool now that you're here.
+
+She smiles at Claire. Claire is still looking into the distance and doesn't reply.
+
+[Erica]
+(flustered)
+Alright, I'm sorry I'll leave you alone.
+Get ready for the ceremony!
+It's in five minutes.
+
+[Claire]
+Oh yeah, the thing.
+
+[Erica]
+Bye.
+
+Erica yeets herself off the roof, leaving the frame (we never hear her land). Claire looks to the sky one last time, then crawls back through the window and sits on the bed for a moment, before getting up.
+
+(APD) You can go back in the bedroom.
+
+As you leave the room, Rosetta is finishing packing your stuff.
+
+[Rosetta]
+Oh, dear, did you manage to rest at all?
+
+[Claire]
+Mmm...
+
+[Rosetta]
+Here, have these for your travels.
+I hope we meet again under not so hurrying circumstances!
+
+[Claire]
+Thank you...
+
+When you leave the inn, you can talk to NPCs outside. Some people will say stuff like:
 
 "Huh? Already leaving? Okay!"
 
@@ -2586,11 +2603,18 @@ Some people will say stuff like:
 
 When you get to the catacomb doors, Evangeline will have a small conference with you.
 
+A brief pause.
+
 [The Oracle]
-Young heroine...
+Young heroine. You seek the way back home, do you not?
 
 [Claire]
-Yeah?
+Yes.
+
+[The Oracle]
+There is only one way for you to return safely.
+In the bleak catacombs... the ruins of the old city...
+Find **The Mirror**, and exit through it.
 
 A brief pause.
 
@@ -2650,19 +2674,85 @@ Claire walks into the twisted dark forest of hollow trees that encircles Heartha
 
 After walking for a short while, she runs into Pierre chilling inside an empty tram station. You can interact with him.
 
-[Claire]
-Hey!
+The Mystery Kid and Pierre are hanging out.
+
+(APD) Claire talks to the two of them.
+
+[The Mystery Kid]
+Hey there, partner! Taking a late evening stroll, are you?
 
 [Pierre]
-Hello, human. Anxious already?
+Hey, Claire... You look pretty worried...
 
 [Claire]
-A little.
+Worried? Me?
+
+[The Mystery Kid]
+Well, just to say it's not a weakness to admit you don't got it all together, you know? It would be weird if you WEREN'T scared at least sometimes.
+Speaking of which, let me share some advice.
+
+[&]
+Whenever you feel anxious... right before doing something critical for example...
+What you should do is... calm down... breathe... and touch this cat.
+
+[Claire]
+Huh?
+
+[The Mystery Kid]
+Touch. The cat. Go on, let's rehearse it now.
 
 [Pierre]
-Well, have at me!
+Oh yes! Touch me like only you know how~
 
-#SAVE The presence of _some_ infrastructure within the creepy forest feels reassuring. Your SOUL glimmers with HOPE.
+[Claire]
+I'm—
+I'm not touching THIS cat...
+
+[The Mystery Kid]
+Pierre: be normal.
+Claire: Touch the cat!
+Touch it! Touch the cat!
+Touch! The! Cat!
+
+[Claire]
+Aaaaaaaaaaaah alright!!
+
+Claire pets Pierre.
+
+#SAVE Save menu appears.
+
+// This is the first instance of the save menu appearing proper. It always appears with a nice purr sound effect. The two options are "Record" and "Not now". Pressing "Record" does a nice tape recorder sound effect. After saving, the options are "Continue" or "Leave". Pressing continue does a nice chiptune sound effect. There's a callback to this in Episode 5 believe me or not.
+
+[Claire]
+Awwww... You just wanted a little love didn't you.
+
+[Pierre]
+Don't we all?
+
+[The Mystery Kid]
+I knew you were a cat person!
+Well, don't you feel much better now?
+
+[Claire]
+Huh?
+Yeah I guess so... a little...
+
+// Talking to the Mystery Kid again
+
+[The Mystery Kid]
+This station is really spooky isn't it?
+
+[Claire]
+What really _is_ this place?
+
+[The Mystery Kid]
+It's too late for philosophy lessons.
+
+[Claire]
+Huh? What does that mean?
+
+[The Mystery Kid]
+It means "move along, bucko!"
 
 You may buy something at the vending machine with your gold.
 
@@ -2696,7 +2786,7 @@ Darling, this is a tram! It's like a bus — on rail!
 If you believe me, your world used to have them all around.
 
 [Claire]
-Oh, I think I've seen them before.
+Yeah... I think I've seen them before...
 
 The tram suddenly screeches to a halt.
 
@@ -2778,7 +2868,7 @@ Claire fights against an angry teddy bear with trust issues.
 
 During the fight, Theodor will continuously try to step on you doing pathetic damage (it is so soft).
 
-Narration reads "This bear don't care!", "Smells like dust.", "Rage fills the air", "Teddy's legs are so soft they deal 1 damage." on a loop.
+Narration reads "This bear don't care!", "Smells like dust.", "The air is filled with rage and cotton.", "Teddy's legs are so soft they deal 1 damage." on a loop.
 
 [Claire]
 Nooo! Don't attack me!
@@ -2987,9 +3077,7 @@ I found a portal to a parallel world...
 The world is going to end... and I'm some sort of guide or hero...
 (she smiles)
 This is the weirdest dream I've ever had.
-
-[Claire]
-Can't wait to wake up from it though.
+I can't wait to wake up from it though.
 
 A moment passes.
 
@@ -3014,8 +3102,8 @@ A brief pause.
 [&]
 You know what?
 (smiling determinedly)
-I won't be.
-I'm going to DREAM my own thing now.
+If this is my dream... if this is my story... I'll...
+I'll DREAM my own dream now.
 
 Narration reads "However small, you felt something begin to resonate within your command menu."
 
@@ -3028,7 +3116,7 @@ The frog kid blinks twice, feels its body and does a surprised expression.
 Holy marsh!
 
 [Claire]
-Huh?
+Huh—?
 
 [Kid Frog]
 You!!
@@ -3100,7 +3188,7 @@ You came in hopping, we thought we saw a frog!
 And that the frog was you!
 
 [Lizard Lady B]
-We don't like frogs... we forsake them!
+We don't like frogs... we renounce them!
 
 [Claire]
 I'm... um... not a frog.
@@ -3112,7 +3200,8 @@ Ssss-say, what are you? We can't tell.
 I'm uh... a human...
 
 [Lizard Lady A]
-Oh! I haven't ssss-seen a human in agessss!
+Oh! Of course!
+Pardon me, I haven't ssss-seen a human in agessss!
 
 [Lizard Lady B]
 Ssss-say, are you a boy human or a girl human, little one?
@@ -3128,12 +3217,12 @@ A girl human? How exxxxquisite!
 == Mystery Duel ==
 
 [The Mystery Kid]
-Hey, it's everybody's favourite child of indeterminate gender!!! Your one and only host!!!
+Howdy, it's me, everybody's favourite child of indeterminate gender!!! Your one and only host!!!
 Oh, may I say you look dashing today, my dear, absolutely soaked in elegance?
 
 [Claire]
 (britishly)
-Oh, nothing that a small dash of absolutely pouring rain can't do!
+Oh, nothing that a small drizzle of absolutely pouring rain can't do!
 
 [The Mystery Kid]
 Haven't pet the cat in a while, have you?
@@ -3186,11 +3275,11 @@ That's it! I'm not gonna take such ingratitude to my face! Bring it on, Claire!
 
 [Claire]
 (smiling, whispering)
-_This is a bit, right?_
+*This is a bit, right?*
 
 [The Mystery Kid]
 (smiling, whispering)
-_Yeah!_
+*Yeah!*
 
 [Claire]
 Well, uh, in this case, I will, uh... forsake you!!!
@@ -3239,17 +3328,17 @@ Alright, get ready for my next turn then.
 
 You can choose actions here.
 
-// If you choose 'Pose'
+// If you choose 'Pose':
 
 [The Mystery Kid]
 Cool! Dunno why you did that but sure!
 
-// If you choose 'Hug' you can hug them
+// If you choose 'Hug' you can hug them:
 
 [The Mystery Kid]
 Awww... are you saying goodbye since you're going to die?
 
-Next turn, they throw _two_ very slowly rotating cards at her.
+Next turn, they throw *two* very slowly rotating cards at her.
 
 [Claire]
 Huh???
@@ -3283,8 +3372,8 @@ You can then Spare them.
 
 // Some battle notes: being hit by normal bullets deal 1 damage per bullet.
 // Being hit by any of the cards deals 999 damage, and kills you instantly.
-// If you do survive after being hit, The Mystery Kid just says "I love strong women :)".
-// Not sparing them or hitting them prompts them to say "Do you need ACTing lessons?"
+// If you somehow do survive after being hit, The Mystery Kid just says "I love strong women :)".
+// Not sparing them or hitting them prompts them to say "Do you need ACTing lessons?" or "Don't hit me I'm a baby :-("
 // It's impossible to kill them no matter how much you hit them.
 
 == Tip Intro ==
@@ -3422,10 +3511,13 @@ Goood evening, folks!
 The dragon shivers horrified in the corner.
 
 [&]
-Are you in the middle of something? I mean, you _insisted_ in summoning me. Three times is not a coincidence, right?
+Are you in the middle of something? You tapped the tophat THREE whole times so you definitely intended to summon me...
 
 [&]
-Well I have a tip for ya that will ad just a DASH of excitement to your battles... Quite... literally... See that little **purple flower** of yours? Whenever you see its beautiful purple, remember of trying for (Z)!
+Well I have a tip for ya that will add just a DASH of excitement to your battles...
+Heheheh... puns...
+See that little **purple flower** of yours?
+Whenever you see its beautiful purple, remember of trying for (Z)!
 
 [&]
 Really, try it now!
@@ -3433,7 +3525,8 @@ Really, try it now!
 Claire does a dash!
 
 [Claire]
-OH, Neato!
+OH, WOAH!
+Holy macaroni...
 
 [The Mystery Kid]
 Yes! You got it! Claire's **purple** and her "Warp Dash."
@@ -3644,13 +3737,14 @@ Yes! You there!
 H... hi! I'm not a frog or a lizard!
 
 [Basket Knight]
+(narrow, disgusted eyes)
 I know what you are...
 
 [Claire]
 Huh?
 
 [Basket Knight]
-(smiling kindly)
+(social smile)
 Maybe you missed the sign, so I'll explain again:
 Humans were, yes, formally well welcome in the royal garden...
 But they're not allowed any longer!
@@ -3663,11 +3757,11 @@ The Basket Knight leaves the screen.
 
 == Into The Garden ==
 
-APD, Claire presses on to the next room, where, as she's walking through the flowers, a Flobud jumps into a battle. Claire effortlessly befriends it by making it bloom with DREAM.
+APD, Claire presses on to the next room, where, as she's walking through the flowers, a Floradora jumps into a battle. Claire effortlessly befriends it by making it bloom with DREAM.
 
 Then, to the right, there is a puzzle about pushing boulders and Rakestones to properly rake a tiny zen garden. A sign reads "Please leave the garden as tidy as you found it."
 
-After the puzzle, a battle against two Flobuds and a Honibi.
+After the puzzle, a battle against two Floradoras and a Honibi.
 
 In the next room, which is a field of flowers, the girl will be picking up lemons from a lemon tree.
 
@@ -3697,7 +3791,7 @@ Do you think I'm stupid???
 The Mirror IS in the castle, everybody knows that!
 
 [Claire]
-Look, Can't I... just stay a little bit?
+Look, can't I... just stay a little bit?
 Just so I can get on with this dream...
 
 [Basket Knight]
@@ -3707,7 +3801,7 @@ Okay, since you're so hopeless I'll show you where The Mirror is... IIIIF you pr
 Aaaand to not touch anything once we get there.
 Except for The Mirror.
 You can touch The Mirror.
-Gently.
+Once. Gently.
 
 [Claire]
 I promise.
@@ -3720,7 +3814,7 @@ She disappears to the next room.
 When walking in the next room, you have to step on a flower when walking towards B.K.
 
 [Basket Knight]
-Alright, so we literally just have to follow this brick road allllll the way to-
+Alright, so we literally just have to follow this yellow brick road allllll the way to-
 
 She turns to you.
 
@@ -3752,16 +3846,16 @@ You think just because you're pretty and nice and good-smelling you don't have t
 [&]
 Know what? I've made my mind.
 (pointing at Claire)
-I'm onto you, human!
+Human!
 I'll devise a plan to foil your evil boondogglery!!!
-Heh heh.
+Bahaha.
 
 She disappears into the next room.
 Then she comes back.
 
 [&]
 (angry, flailing her arms)
-And get out of the flowers!!!
+And step out of the flowers!!!
 
 Then she disappears again.
 
@@ -3897,18 +3991,18 @@ Since you've chosen to continue to invade this site...
 I have no option but to put an end to your tyranny...
 Bahahaha!
 
-She throws, from her basket, a single Flobud and throws it on the ground (gently).
+She throws, from her basket, a single Floradora and throws it on the ground (gently).
 
 [Basket Knight]
 Behold! My troop!
 
-[Flobud]
+[Floradora]
 *flower noises*
 
 [Basket Knight]
 I'm sorry for this, human, but, like I said, no other choice.
 
-The Flobud charges in. You can defeat it easily. Like, it's not any harder than a normal Flobud encounter.
+The Floradora charges in. You can defeat it easily. Like, it's not any harder than a normal Floradora encounter.
 
 [Basket Knight]
 What??? How'd you???
@@ -3925,23 +4019,23 @@ APD Claire may follow her.
 
 [Basket Knight]
 Greetings! It is I! Et cetera!
-So yeah, you can defeat ONE Flobud!
+So yeah, you can defeat ONE Floradora!
 But... can you—
 
 [Claire]
 Let me guess... You're gonna throw TWO flower buds at me?
 
 [Basket Knight]
-What? Two measly Flobuds? Do you take me for an idiot?
+What? Two measly Floradoras? Do you take me for an idiot?
 
 [Claire]
-Oh. Oh no sorry It was just—
+Oh. Oh no sorry, it was just—
 Alright, what will you do then?
 
 [Basket Knight]
 Bahahah! You're about to find out! Have at ya!
 
-She throws three Flobuds at you.
+She throws three Floradoras at you.
 
 After you defeat (befriend) them she's gonna be surprised.
 
@@ -4205,7 +4299,7 @@ She lowers herself into the bush.
 
 == The Maze ==
 
-There's a short maze made of prickly rose hedges here containing items, but also a few encounters against Honibis, Bundlebees, Flobuds, and Prickle, all lost in the maze. Pierre is also lost in the maze. You can't save with him because he's too anxious himself.
+There's a short maze made of prickly rose hedges here containing items, but also a few encounters against Honibis, Bundlebees, Floradoras, and Prickle, all lost in the maze. Pierre is also lost in the maze. You can't save with him because he's too anxious himself.
 
 Basket Knight sits atop a wall on the side of the maze.
 
@@ -4298,7 +4392,7 @@ They're not aware of their actions...
 Before they turned gray they were very...
 
 [&]
-Well, they were very annoying... But they sure id looove humans.
+Well, they were very annoying... But they sure did looove humans.
 
 Then it starts to rain.
 
@@ -4375,7 +4469,7 @@ That's my refrigerator. It's where you put things to— you know what a bloody r
 [Basket Knight]
 Put it back, you thief!
 
-"Lost 1x Lemon Pie Slice. For now..."
+"Lost 1x Lemon Pie Slice."
 
 // If you interact with the hammock:
 
@@ -4446,11 +4540,19 @@ Wait, doesn't that mean that one day you'll run out of winding and die?
 So what? You'll get old and die too!
 
 [Claire]
-Oh. Oh yeah that's true hehehe...
-Mortality...
+Oh. Oh yeah.
 
 [Basket Knight]
-Plus, if someone rewinds my escapement I could live indefinitely... until I rusted I guess...
+Plus, if someone rewinds my escapement I could live indefinitely...
+
+[Claire]
+Until you rust...
+
+[Basket Knight]
+Stop reminding me of my mortality!!!
+
+[Claire]
+He he... death...
 
 For a moment, they stop talking, and nothing can be heard but the rain.
 
@@ -4499,9 +4601,18 @@ The rain ceases, BK stands up and walks away while mumbling.
 [Basket Knight]
 Rain's gone. Let's get those bees before it freaking starts again. I swear to heavens, it's every five minutes...
 
+[Claire]
+This place would be less depressing with some merrier weather...
+
+// This is a callback to the future. To Juniper Merryweather, a character that will be met in [[Episode 05]].
+
+[Basket Knight]
+Tell me about it.
+
 // If you interact with the fridge now:
 
-"Got 1x Lemon Pie. You have won the long game."
+"Through unwielding will, you have successfully won the long game."
+"Got 1x Lemon Slice Pie."
 
 // When you can go outside.
 
@@ -4510,13 +4621,13 @@ Rain's gone. Let's get those bees before it freaking starts again. I swear to he
 [Basket Knight]
 Alright.
 
-She tries to pull one bee that's very interested in a flower, but it doesn't budge.
+She tries to pull one bee that's very interested in a flower, but it doesn't budge. Her pulling animation has two frames it alternates between choppily.
 
 [&]
 What are you standing there for?
 Help me put them back in their pen!
 
-Little minigame. You can grab bees by pressing Z and throw them in their pen. Some of them trigger a little bullet board microgame when you touch them, so be careful! When you win, BK will suplex her bee into the pen.
+Little minigame. You can grab bees by pressing Z and throw them in their pen. Some of them trigger a little bullet board microgame when you touch them, so be careful! When you win, BK will suplex her own bee into the pen.
 
 [Basket Knight]
 Alright, let's see...
@@ -4548,7 +4659,7 @@ There, there... What's gotten into you...
 // If you talk to BK...
 
 [Basket Knight]
-Something's startled it... If it is one of the knights again I'll have strong word with them... But... I don't know...
+Something's startled it... If it is one of the guards again I'll have a strong word with them... But... I don't know...
 
 Walking more to the right... from the leaves, a corrupted figure jumps. As they turn their head to you, you can make it out. It's [[Professor Whynott]].
 
@@ -4623,30 +4734,28 @@ A slight pause.
 [&]
 They never did...
 The people who did come made a mockery of this world.
-Stepped in the grass. Plucked petals out of Flobuds...
-Threw rubbish in the lake and kicked the signs...
+Stepped in the grass. Plucked petals out of Floradoras...
+Took several candies from the "take one" tray... then threw the wrappers in the lake...
 
 [Claire]
+(empathy smile)
 I'm sorry that these jerks came but...
 
 [Basket Knight]
+(smiling)
 No...
 Ha ha.
 They weren't jerks...
 Humans aren't evil... I sometimes like to pretend they are, but...
 (smiling sad)
 Maybe all they needed was the fun of not caring for a little while.
-But all of them were nice people.
 
 [&]
-Yet nice people do horrible things all the time.
-We asked them to stop; they just didn't.
-Maybe they thought that because they were so cute and adorable, they couldn't possibly be wrong.
+Nice people do horrible things all the time.
+We asked them to stop; and they just...
 And we couldn't bring ourselves to yell at them...
-We were desperate for visits anyway...
-
-[&]
-Humans think that a polite smile and a "positive" attitude will make everything okay.
+We were desperate for their visits, weren't we?
+Humans think that a polite smile and a positive attitude will make everything okay.
 
 She looks at you.
 
@@ -4669,12 +4778,12 @@ Or are you really suddenly THAT cheerful while being soaking wet, stranded in an
 [Basket Knight]
 I don't know what you want to do in our castle.
 And I don't care about how you'll justify to yourself that you're in the right.
-And there's barely anything left in this place from back then...
-
-[&]
+(tearing up)
+And there's barely anything left in this place from back then to protect...
+(serious)
 But as the captain of the crown's guard...
 I won't let a human take any more from me...
-(smiling)
+(smiling daringly)
 Step forward.
 If you dare.
 
@@ -4683,8 +4792,8 @@ If you dare.
 [Basket Knight]
 En garde.
 
-// TODO: Write the fight here. Or rather, BK's monologuing...
-// This is the first serious battle. And, as a twist to the area so far, it can not be won through being nice and positive. To befriend Basket Knight, you have to be open with your negative feelings, and allow her to be negative, too.
+// This is the first serious battle.
+// And it's the first battle that can not be won through being nice and positive. To befriend Basket Knight, you have to be open with your negative feelings, and allow her to be negative, too.
 
 #BGM Overgrown
 
@@ -4693,8 +4802,6 @@ En garde.
 You really are genuinely that nice...
 Why?
 Are you stupid?
-
-[&]
 You're gonna be eaten alive out there.
 Not everything can be solved by giving out hugs, you know...
 It doesn't matter how nice you are, you're bound to find a fight you can't win by befriending the enemy.
@@ -4707,24 +4814,25 @@ I can punch jerks when it comes to it.
 [Basket Knight]
 Fighting jerks is easy.
 Fighting people you like, though...
-I couldn't bring myself to use my full power on you, and look what happened.
-But I'm glad you're not dead on the ground.
+I couldn't bring myself to use my full power on you, and look what happened, I lost.
+(smiling)
+But I'm glad you're not dead on the ground, I guess.
 
 [Claire]
 ...
 
 [Basket Knight]
-The castle is... just across from the entrance, really.
+The castle is... well, just across from the entrance, really.
 I'm... sorry, I'm so tired... you can go to the shrine on your own...
 
 Basket Knight walks past you, looking despondent.
 
 [Claire]
-Are you going back to gardening?
+Are you... going back to gardening?
 
 [Basket Knight]
 Maybe I'll take that break you told me to.
-Taking care of this garden... where nobody comes... ha ha...
+Taking care of this garden... that nobody visits... ha ha...
 
 She walks until she's just out of frame, then stops.
 
@@ -4736,7 +4844,7 @@ Then leaves.
 [Claire]
 ...
 
-// If you return to the tunnel, the one that leads to this area, you'll find an item on the ground. A winding key.
+// If you return to the tunnel, the one that leads to this area, you'll find an item on the ground. "It's a winding key."
 
 (APD) Claire exits the garden through the main entrance.
 
@@ -4799,437 +4907,37 @@ Narration remarks "The Aracnisse crawls out of your way."
 
 // Be nice to the nisser throughout the game, and they'll leave you extra items in cobwebs.
 
-Claire goes into the castle.
-
-// Okay, so, in this part of the castle there are just enemies and flavour text. There are three kinds of enemies, all much stronger than the ones outside, though all weaker than Basket Knight.
-// 1. Dust Bunny — "An ephemeral fella, it's dirty, but loves to be pet Just Right."
-// 1.1. You have to pet them "just right," which means hitting the "yellow" in the minigame.
-// 2. Bookwyrm — "This dragon hoards the richest treasure of all — knowledge!"
-// 2.1. You can use 'Listen' several times to defeat them...
-// 2.2. 'Nitpick' will make a Bookwyrm angry at you... If you've Listen'd to them before, you'll gain a lot of SPARE points the first time you nitpick. Nitpicking too much will make them sad though. "Listen + Nitpick + Listen" is the ideal strategy.
-// 2.3. Using 'DREAM' after 'Listen' will make a science Bookwyrm offended at you, but will make a story Bookwyrm happy.
-// 3. Aracnisse — A polite little spider. It respectfully borrows items forgotten by humans, and leaves then coins or dead insects in return.
-// 3.2. You can offer them tea or trinkets to win immediately.
-// 3.3. You can ACT "Not Step On" and they'll appreciate your politeness if you manage to not step on them, while also dodging the bullet patterns of the other characters lol.
-// 4. Tometu — A dirty little thief! These naughty nisse love to prank humans, then steal their books!
-// 4.1. Using 'Nitpick' will make them nitpick back at you, diminishing your DP.
-// 4.2. You can ACT "Step On" after they prank you, and they will learn their lesson. Doing it too early won't work!!!
-
-At some point in the castle, you run into Erica.
-
-// ...
-
-== Not A Dream ==
-
-Claire opens her eyes and begins breathing hard. Andy rushes to her and crouches. She begins looking at her own hands.
-
-[Andy]
-Calm down... relax...
-
-[Claire]
-Ugh...
-
-[Bruno]
-Do you remember your name?
-
-[Claire]
-It's Claire...
-
-[Bruno]
-How many fingers am I holding up?
-
-She gets up.
-
-[Claire]
-Three. Why are you...
-
-[Andy]
-Dude... We got the key and then the bell rang and then you ran away!
-
-[Claire]
-Huh...
-
-[Andy]
-When I found you in the bathroom, you were in the ground shaking...
-
-[Claire]
-Shaking... I...
-
-Suddenly, her head starts to hurt.
-
-#CAM In my mind, there would be an "extremely disorienting" dolly zoom effect here like in Severance, but if this is not possible in 2D, a suitable replacement.
-
-All the lights in and outside the room, and the computers on the desk glow intensely, then start to flicker as they go back to normal.
-
-[Claire]
-I... remember...
-
-[Bruno]
-(preoccupied)
-Hey, are you alright? What the hell was this?
-
-Andy looks to the ceiling.
-
-[Andy]
-Was that you?
-
-[Claire]
-(surprised)
-I... remember! I remember something!
-We... we came here on purpose... the four of us...
-We had backpacks and...
-
-A slight pause.
-
-[Claire]
-Wait, we need to go out there—
-
-[Bruno]
-Wait, wait, wait! You wanna go out there AGAIN????
-
-[Andy]
-Look, uh, I know it was my idea and all the first time, but...
-I'm with Bruno on this one...
-
-[Claire]
-I just need to get to my locker.
-
-[Andy]
-Claire...
-
-[Claire]
-I'll get out there by myself then.
-
-She turns to leave.
-
-[Andy]
-Wait!
-(smiling)
-I'll go with you then.
-
-Andy and Claire go outside. (APD) They walk to Claire's old locker and she looks at it for a moment. It's the only locker that isn't tinted blue. Light sparkles come out of it.
-
-// Only Claire, a key bearer, can see that.
-
-[Andy]
-(smiling)
-It hasn't been your locker for a while, you know that, right?
-
-[Claire]
-Doesn't it look different from the others?
-
-[Andy]
-Hmm...
-It's uh... scribbled all over...
-Whatever kid inherited it is having a tough time with bullying...
-After we get out of here we can talk with the principal about it.
-How do you plan on opening it?
-
-Claire pulls the door of the locker.
-
-[Claire]
-It's open.
-
-[Andy]
-Great.
-Now we get to see all of some kid's celebrity crushes and unfinished homework?
-
-[Claire]
-There's... just a tape here.
-
-[Andy]
-A cassette tape?
-
-[Claire]
-Yeah...
-
-[Andy]
-(surprised)
-Woah...
-You what it means?
-
-[Claire]
-What?
-
-[Andy]
-(smiling)
-We get to watch a movie after all!!!
-
-[Claire]
-(smiling)
-Something tells me this isn't a movie.
-But I wanna go watch it anyways.
-
-(APD) Claire and Andy go back to the principal's office. There, you can use the tape on the trolley to put it in and watch.
-
-Narration remarks "You put the tape into the cassette player."
-
-#TRANS Slow fade
-
-#BGM (Silence)
-
-A wooden cabin. The curtains are closed. Claire, Bruno, Andy and Rodrick are standing near a TV trolley. They all look younger.
-
-Valentino sits in the middle, cross-legged, atop a pillow. In the corner, a boy with an oversized striped shirt is sitting on a drawer.
-
-In the middle of the room, in front of Valentino, there's a small tear. Also connected to the machine, are electrodes, which Bruno is placing on Valentino's temples.
-
-[Bruno]
-Alright. Tell me what you see...
-
-Bruno takes a step back.
-
-[Valentino]
-(smiling)
-I see... the city...
-
-[Andy]
-Woah...
-
-[Claire]
-Anything else...?
-
-[Valentino]
-(smiling)
-Lots of buildings here... lots of buildings there...
-Some cars... And—
-
-Valentino stops smiling.
-
-[Claire]
-What was it?
-
-Valentino stops in silence for a few seconds with his mouth open.
-
-[Claire]
-What is it?
-What did you see?
-
-[Valentino]
-**The thing...**
-It's... in the sky...
-It's... coming to us... to Earth...
-
-[Bruno]
-In the sky?
-
-[Valentino]
-It's far...
-
-[Claire]
-How do you know?
-
-[Valentino]
-It looks blue like how mountains look when far away...
-
-[Bruno]
-Hm... we could use that to estimate the distance...
-
-[Claire]
-What would that mean interpretatively, though?
-
-[Bruno]
-I dunno, that's YOUR job.
-(turning to Valentino)
-How blue is it?
-
-[Valentino]
-It's so big...
-
-Valentino starts to cry.
-
-[&]
-It's bigger than the moon...
-(crying, shaking)
-It's... it's bigger than everything...
-It's coming...
-
-[Rodrick]
-Didn't you say it was far?
-
-Valentino starts to breathe harder and hyperventilate.
-
-[Valentino]
-(crying, shaking)
-It'll consume everything...
-Everything...
-
-Valentino drops and starts having a seizure. The electrodes in his head detach as he falls.
-Valentino's friend rushes to him from the other side of the room, turns him on his side and starts comforting him. The others stare in shock.
-
-Claire looks at Valentino preoccupied for a moment, then turns to Bruno.
-
-[Claire]
-(serious)
-Did you capture all that?
-
-[Bruno]
-Only glimpses. We need to learn more.
-
-Claire turns back to Valentino.
-
-[Claire]
-Do you think with something more powerful we could go deeper?
-
-[Bruno]
-Like... your dad's stuff? We could try again with some—
-
-The boy puts a pillow below Valentino's face, then, still head down, looking at Valentino speaks with a firm yet soft tone.
-
-[Milo]
-Leave.
-
-[Claire]
-Huh?
-
-[Milo]
-(head still down)
-You're done here.
-
-Claire and Bruno stand awkwardly for a moment.
-
-[Bruno]
-Just close the tear, Claire...
-
-Claire turns around and effortlessly closes the small tear in the floor of the cabin with her key.
-
-An awkward pause.
-
-[Claire]
-Will he be okay...
-
-Milo raises his arm slowly. Then, with a subtle movement of his hand, the door opens, letting sunlight in.
-
-Rodrick and Andy take the hint and start to leave. Claire looks at Valentino for a moment.
-Bruno gets up and, as he pulls the plug, the recording ends.
-
-#TRANS Slow fade in
-
-We're back with present Claire. She is looking at the TV, her face lit with its glow.
-
-[Andy]
-Huh... I remember that day...
-
-[Claire]
-What?
-
-[Andy]
-We went for ice cream after...
-I didn't have any...
-Since Val did all the work we just bought him some...
-
-[Claire]
-It's...
-It's real...
-
-[Andy]
-What?
-
-[Claire]
-The thing... the terror... from another...
-
-Claire puts her hands on her face and pushes it up, brushing her hair.
+Claire goes up the stairs. The music picks up. Up there Erica seems to be waiting for her.
+
+[Erica]
+Hi!!!
+Oh... you look... despondent...
 
 [Claire]
 I...
-I know what to do.
-I think.
+I don't know why but...
 
-[Andy]
-...
+Claire looks down into the castle, then up at the ceiling.
+Then she looks down and brushes her left hand with her right hands thumb, feeling its texture.
 
-(APD) Claire and Andy go downstairs.
-Claire looks at the hole in the ground.
-She walks up to it and sits down.
+[&]
+I know this is a dream but... it all feels so real.
 
-[Claire]
-Will you watch over me?
-
-[Andy]
-(confused)
-...
-
-Claire looks into the hole and closes her eyes.
-
-#TRANS Fade out to black, then sudden cut.
-
-Claire is sleeping, back in the bed in the castle. Erica watches over her.
-
-[Erica]
-Hey!
-
-Claire stands up in the bed and gets up.
+A brief pause...
 
 [Claire]
-This... is...
+This...
+This isn't a dream, is it?
 
 [Erica]
-Welcome back, friend!
-
-She looks to her hands.
+Whaaaat?
+Oh, oh no.
+Ha ha... I've heard about that happening.
+No, yeah, this place is just weird.
 
 [Claire]
-I feel hazy again. Like I'm dreaming... but...
-This is...
-Is this... real... or is it a dream...
-
-[Erica]
-Yes... and yes...
-
-Claire looks to Erica.
-
-[Claire]
-Huh?
-
-[Erica]
-You're really out of it, aren't you?
-
-[Claire]
-I need to get back there... To find a way out...
-
-[Erica]
-Sure, let's get to The Mirror.
-
-[Claire]
-NO! I need to get back!
-Do you have any more of that tea...?
-
-[Erica]
-You can get more of it where The Mirror is.
-That's where I got it.
-
-[Claire]
-I remembered something while I was out there.
-
-[Erica]
-Yeah, that was probably the tea, too.
-
-[Claire]
-Really?
-
-[Erica]
-Yeah, The Mirror Of Truth, it's like, that's what it does to you.
-It's why Nana told you to come, I imagine.
-
-[Claire]
-Why did no one tell me about that?
-
-[Erica]
-Girl, we been told you that!
-
-[Claire]
-Huh... Oh... yeah... right...
-
-[Erica]
-I'll be waiting for you outside...
-
-Erica walks outside.
-
-== Into The Shrine ==
-
-#BGM Castle of Dawn
-
-(APD) Claire follows her out.
+(looks at her worried and confused)
+What...
 
 Erica is facing away from Claire, shaking her hands in excitement.
 
@@ -5237,7 +4945,7 @@ Erica is facing away from Claire, shaking her hands in excitement.
 (realising)
 OH... OH MY HEAVENS!
 (happy)
-I get to mentor a Hero!
+I get to mentor a HERO!
 
 She turns to Claire.
 
@@ -5254,16 +4962,20 @@ Uh... sure.
 [Erica]
 Okay, let's go!
 
-Erica walks up the stairs.
+Erica walks into the castle.
 
-(APD) Claire walks up the stairs.
+== Into The Shrine ==
+
+(APD) Claire into the castle, too.
 
 #BGM Shrine of Reflection
 
-The stairs continue to a new level.
-There are several mirrors plastered along the walls.
+Claire sees a mirror.
 
-// If you interacting with any of them:
+[Claire]
+Is... this the mirror?
+
+// If you interact with it:
 
 [Claire]
 Why... do I look young in the reflection...
@@ -5272,10 +4984,7 @@ I'm wearing my old dress in it...
 [Erica]
 I... don't know what to tell you...
 
-[Claire]
-I guess mirrors work weird in dreams...
-
-// As you go along the stairs
+// As you go along the corridor
 
 [Claire]
 So...
@@ -5288,7 +4997,8 @@ This is the royal castle...
 No, I mean... this whole...
 
 [Erica]
-Oh. Well, you see.
+Oh. Right.
+Well, you see...
 There's *your side*... and then there's the other side...
 Which is here.
 
@@ -5296,7 +5006,7 @@ Which is here.
 The... dream world...?
 
 [Erica]
-I've never heard anyone call it that ha ha.
+I've never heard anyone call it that haha.
 We call it "The Other Side."
 
 [Claire]
@@ -5307,9 +5017,9 @@ You... call your own side "The Other Side"?
 It literally never occurred to me that this is weird.
 
 [Claire]
-Haha...
+Heh...
 
-A bit ahead, on the next floor.
+A bit ahead, on the next room.
 
 [Claire]
 What is—
@@ -5324,8 +5034,10 @@ Alright. Shoot it.
 [Erica]
 What is school?
 
+Claire blinks twice, being taken aback by the strange question.
+
 [Claire]
-It's a place you go to learn stuff and also get bullied a lot apparently.
+It's a place you go to learn stuff... and also get bullied a lot apparently.
 
 [Erica]
 Huh! Why would you keep going?
@@ -5341,7 +5053,7 @@ Hmm...
 
 [Claire]
 What are you guys?
-Are you... like... aliens and stuff?
+Are you... like... aliens?
 
 [Erica]
 What are aliens?
@@ -5350,18 +5062,11 @@ What are aliens?
 Creatures that aren't from Earth...
 
 [Erica]
-I guess I'm not from earth, so, sure!
-Humans have called us many things before... but never that...
-
-[Claire]
-Hm?
-
-[Erica]
-Spirits... faeries... demons... add that to the list, I guess.
+I guess I'm not from EARTH, so, sure!
 What is grass?
 
 [Claire]
-You have that here?
+You HAVE that here???
 
 [Erica]
 Huh?
@@ -5394,25 +5099,126 @@ I know what money is!
 Do many people get jobs?
 
 [Claire]
-Everybody gotta.
+(smiling)
+Everybody has to.
 My dad works as a researcher... he's ALWAYS busy...
-My other dad works as a therapist... he's always busy but at home.
+Spends the whole day... researching...
+My other dad works as a therapist... he's always busy, but at home.
 So I get to hear some gossip through the door.
-But I don't.
+(serious)
+I could, but I don't.
 That would be unethical.
+He spends the whole day listening to people's stuff...
 
 [Erica]
-Doesn't that get tiring?
+(preoccupied)
+Doesn't that get tiring eventually?
 
 [Claire]
 Oh yeah.
 
 [Erica]
+(confused)
 So why do they do it?
 
 [Claire]
 Well, we need to eat somehow...
-Hey, this is MY turn.
+Hey, this is MY turn!
 
 [Erica]
+(pensive)
 Okay...
+
+[Claire]
+Hm...
+Wait... if I'm not on EARTH... does it mean I'm in space???
+
+[Erica]
+Ooo what's space?
+
+[Claire]
+Uhhh....
+
+[Erica]
+This is another realm, a distinct tridimensional continuum from EARTH's.
+We don't have atoms or molecules... even our space-time fabric is different, I've heard!
+Yours is all stretchy and weird... it's woven differently...
+
+The two of them come to a new room of the castle.
+There are tapestries hung on the walls with awe-inspiring images.
+
+[Erica]
+Look! It's EARTH!
+
+[Claire]
+Hm?
+
+[Erica]
+It's so blue...
+Oh, and here! It's our golden tale!
+
+Erica dashes out of frame, looking at the next window.
+(APD) Claire follows her.
+
+// Interacting which each tapestry, a passage of the golden tale will be remarked.
+
+// "EARTH."
+// "HOPE."
+// "DREAM."
+// "PAIN."
+// "PORTAL."
+
+[Erica]
+This one is my favourite.
+"We hear their story... we hear their pain..."
+"We make a **portal**"—
+(proudly)
+That's where I come in!
+Or... will come in...
+Nana's training me to be a seamstress like her...
+
+[Claire]
+You'll be the head of "kidnapping children for character development"...
+
+[Erica]
+Yes! Isn't it cool?
+
+[Claire]
+(awestruck)
+This... really is another world...
+I'm—
+I'm sorry I'm having a hard time wrapping my head around...
+(smiling)
+Ha ha... This... all of this was here the whole time???
+(serious)
+Just... somewhere in the woods?
+
+[Erica]
+Oh! No, no. We open portals on a case by case basis...
+Each portal is made for a human.
+And then when the human's journey is over it closes itself shut.
+Speaking of that...
+
+Erica runs out of frame again.
+
+(APD) You follow her to the next.
+
+[Claire]
+Huh?
+Aaaand she's gone.
+
+When you walk there there's a big part of the castle and many enemies to fight.
+
+// Okay, so, in this part of the castle there's lots of enemies and flavour text. There are three kinds of enemies, all much stronger than the ones outside, though all weaker than Basket Knight.
+// 1. Dust Bunny — "An ephemeral fella, it's dirty, but loves to be pet Just Right."
+// 1.1. You have to pet them "just right," which means hitting the "yellow" in the minigame and not red or green.
+// 2. Bookwyrm — "This dragon hoards the richest treasure of all — knowledge!"
+// 2.1. You can use 'Listen' several times to defeat them...
+// 2.2. 'Nitpick' will make a Bookwyrm angry at you if you haven't Listen'd to them in a previous turn... If you've Listen'd to them before, you'll gain a lot of SPARE points the first time you nitpick. Nitpicking too much will make them sad though. "Listen + Nitpick + Listen" is the ideal strategy.
+// 2.3. Using 'DREAM' after 'Listen' will make a science Bookwyrm offended at you, but will make a story Bookwyrm happy.
+// 3. Aracnisse — A polite little spider. It respectfully borrows items forgotten by humans, and leaves then coins or dead insects in return.
+// 3.2. You can offer them tea or trinkets to win immediately.
+// 3.3. You can ACT "Not Step On" and they'll appreciate your politeness if you manage to not step on them, while also dodging the bullet patterns of the other characters lol.
+// 4. Tometu — A dirty little thief! These naughty nisse love to prank humans, then steal their books!
+// 4.1. Using 'Nitpick' will make them nitpick back at you, diminishing your DP.
+// 4.2. You can ACT "Step On" after they prank you, and they will learn their lesson. Doing it too early won't work!!!
