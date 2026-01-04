@@ -1,7 +1,7 @@
 T: INNER VOICES PILOT
 S: by Pedro Braga
 
-== Setting The Tone ==
+== That One Rainy Night ==
 Where: Zenith Forest
 When: 21-06-2029
 
@@ -43,7 +43,7 @@ Wake up...
 
 #TRANS Cut to black.
 
-== Waking up from dream ==
+== First Day of School ==
 
 A black screen lingers for a few dramatic seconds. Then, slowly, calmly, deliberately, a voice is heard uttering a single command.
 
@@ -89,9 +89,6 @@ Uh huh!
 Jim hands her now packed bag and deploys a single toast in her mouth, anime-style.
 Then, he sends her off.
 
-== Happy Stroll to School ==
-Where: Nightmare New Horizon
-
 Little Claire steps outside, only to just witness the bus going off without her.
 
 [Claire]
@@ -105,9 +102,6 @@ When she arrives at [[the school]], she stops for a moment to observe the buildi
 
 #CAM Pan upwards showing the imposing building, stopping to frame the waving canadian flag.
 #TRANS Dry cut
-
-== Freak ==
-Where: Nightmare School
 
 #BGM Dangerous Place
 
@@ -157,8 +151,8 @@ I'm NOT—
 
 #TRANS Smash cut
 
-== The second awakening ==
-Where: School Classroom C
+== The Jumpcut (1) ==
+Where: New Horizon/School/Classroom C
 
 It's raining. Nothing but the sound of thick droplets hitting the roof and the window.
 
@@ -170,27 +164,25 @@ He turns around to walk away. Claire grunts softly, Bruno jumping at the noise.
 You're awake.
 
 [Claire]
-My head hurts...
+Ugh... ow... my head...
 
 [Bruno]
-It's okay, take your time.
+It's okay, it's okay, take your time.
 
 Bruno walks towards the computer on the teacher's desk and starts pressing buttons on it anxiously.
 
 [&]
 (shaking his leg)
-I'm trying to contact anyone but I'm not getting any signal in here... Dang it.
+This is weird... I should be getting signal here but...
+I'm trying to contact anyone but I'm not getting any... Dang it!
 
-At the player's discretion, Claire gets up and might check out Bruno.
-
-== Why are we at school ==
-Where: School Classroom C
+At the player's discretion (APD), Claire gets up and might check out Bruno.
 
 [Bruno]
 Uh... hey there...
 
 [Claire]
-Why are we at school at night.
+Why are we at... a school at night?
 
 [Bruno]
 Beats me.
@@ -213,10 +205,10 @@ Claire pauses for a moment.
 Wh- Huh???
 
 [Bruno]
-Look I just woke up here. You were on the floor tossing about. I saw a guy outside so I brought you here into the classroom.
+Look I just woke up here. You were on the floor tossing about. I saw a *strange figure* outside so I brought you here into the classroom.
 
 [Claire]
-A guy? What do you MEAN "A GUY"?
+A strange figure—?
 
 [Bruno]
 (annoyed)
@@ -224,10 +216,7 @@ I don't know! It was some— I'm as lost as you are, k?
 
 Claire looks around and calms down.
 
-== Taking a peek ==
-Where: School Classroom C
-
-At player discretion she walks toward the door.
+(APD) she walks toward the door.
 
 [Claire]
 Huh... Did you hear that?
@@ -250,6 +239,8 @@ Bruno gets off the computer and gets behind Claire.
 [Claire]
 Woaaaah...
 
+// What Claire is seeing through the door here is one of the glowing cracks of the tear.
+
 [Bruno]
 What? What did you see?
 
@@ -268,16 +259,13 @@ SUDDENLY! The room's window shoots open, letting in a burst of rain. Bruno and C
 
 #TRANS Cut.
 
-== Running Hi-jinks ==
-Where: School Hallways
-
 #CAM The camera shows the classroom door from the outside.
 
 A brief pause to let the new environment sink in (and for comedic timing)...
 
 ...then the door SHOOTS open! Bruno and Claire come out dashing out of the room.
 
-#BGM Z-z-zoombies???!!!
+#BGM Shadows and Horrors
 
 Claire stops in shock at the ghoulish sights of people shrouded in darkness, facing upwards, arms stretched out and floating half a meter off the ground.
 
@@ -285,12 +273,13 @@ Bruno runs into her, startling her into running again.
 
 They run and run trying to avoid the people, ending up in the computer lab, quickly closing the door behind them.
 
-== Computer Lab ==
+== The Jumpcut (2) ==
 
 The two of them catch their breaths.
 
 [Claire]
-Ahhh so that's what you meant with g—
+*huff puff*
+I—
 
 [Bruno]
 **WHAT THE HELL WAS THAT??? DID YOU SEE THAT???**
@@ -300,6 +289,8 @@ You're yelling...
 
 [Bruno]
 **H- YELLING??? NO SHIT!!!**
+
+An awkward pause.
 
 [Claire]
 So... are we gonna stay in this dark room now?
@@ -334,19 +325,13 @@ Bruno starts pacing back and forth.
 [&]
 Oh dear... Oh crap... Are my sisters alright?
 They weren't in their classroom... I'm supposed to pick them up...
-
-[Claire]
-(preoccupied)
-Um... It's "Bruno," right?
-
-[Bruno]
 What IS going on? Are we...
 (stops walking)
 Are we on a zombie apocalypse?
 
 [Claire]
 (preoccupied)
-I'm sure we're all—
+Hey try to calm—
 (confused, chuckling)
 W... what?
 
@@ -363,7 +348,7 @@ Sorry. What if you sat down for a moment.
 Oh, yeah, cm'ere, man.
 
 [Bruno]
-Sit down? Wh- how are both of you so calm???
+Sit down? SIT DOWN???
 
 [Andy]
 Are you getting anything out of walking back and forth like a lunatic?
@@ -382,8 +367,10 @@ Did you use to do that in high-school???
 
 [Andy]
 No. But now I kinda wish I had the idea...
+I can imagine the posters...
 
-Bruno annoyedly mumbles under his breath and frustratedly pulls out a random chair to sit on. Claire stares at the two boys in disbelief.
+Bruno annoyedly mumbles under his breath and frustratedly pulls out a random chair to sit on.
+Claire looks down to the ground, sweat still dripping from her cheek.
 
 [&]
 Hey, Claire, sit down, too.
@@ -403,18 +390,24 @@ You know where they keep those TV-trolley thingies the substitute teachers use?
 We could probably watch a mov— oh, you mean to ask what we're gonna do?
 
 [Claire]
-Mmhmm.
+Yeah.
 
 [Andy]
 Well, between you and me, I think we can just go for it.
-Like, tha main entrance.
-Just... run really fast.
+Like, the main entrance.
+Just... run reeeeally fast.
 
 [Bruno]
 (voice crack)
 You want to GO BACK OUT THERE????
 
 [Andy]
+Oh, I've been in and out there a few times.
+A man's gotta pee!
+
+He turns to Claire.
+
+[&]
 Oh, yeah, if any of those weirdos gets too close I can just bonk them with this:
 (he pulls out an umbrella seemingly out of nowhere)
 
@@ -424,22 +417,27 @@ Bruno stares in disbelief.
 So, what do you think?
 
 [Claire]
-Mmmm... I dunno...
+(scared)
+I... I don't think that's a good idea...
 
 [Andy]
-I think there's a  vending machine on the way, too... I think I saw some Nacho Chips in it...
+I think there's a  vending machine on the way, too...
+
+Claire's stomach rumbles.
 
 [Claire]
-Oh. Maybe if we go really quietly then...
+M— maybe if we go really quietly?
 
 [Bruno]
 (mumbling)
-What? That worked?
+What? Are you serious?
 
 [Claire]
+(scared, shrugging)
 I can't say no to chips...
 
 [Bruno]
+(incredulous)
 You two are idiots.
 
 Andy stands up and walks with Claire to the computer lab's door.
@@ -483,24 +481,22 @@ Good thinking.
 
 (APD) Claire and Andy walk together back into the school.
 
-== The Tear ==
+== The Jumpcut (3) ==
 
 (APD) Claire checks out the vending machine.
 
-[Claire]
-It's empty.
+[Andy]
+Okay, I have one singular dollar.
+Do youuu want the [[Nacho Chips]] or the [[Luna Cola]]?
 
-Claire thinks for a moment.
+%PROMPT "Nacho Chips", "Luna Cola"
 
-[&]
-What are the odds that...
-
-She puts her hand in the dispenser. Oh ho ho! She lucks out and finds that there is a bag of chips there!
+Andy pays for whatever you picked and gives it to you.
 
 [Andy]
-Woah... nice pull...
+There, m'lady.
 
-(APD) The two of them continue to walk until they run into a patio, where all the previously floating entities seem to have gathered on the floor. They are standing still, staring at their feet, unmoving. Claire looks at them intensely.
+(APD) The two of them continue to walk until they run into a patio, where all the previously floating entities seem to have gathered on the floor. They are standing still, staring at their feet, unmoving.
 
 At the middle of the patio, there's a deep, long hole, like something with a claw tore a wound into the plane of the floor.
 
@@ -508,7 +504,9 @@ At the middle of the patio, there's a deep, long hole, like something with a cla
 Told you they were sleeping.
 
 [Claire]
-Sleeping zombies...
+What is this hole...
+
+Claire looks at them intensely.
 
 Andy chuckles.
 
@@ -519,22 +517,45 @@ You think it's a zombie apocalypse too?
 Huh? I don't know what to think, man...
 
 [Andy]
+Check this out.
+
+Andy gets a crumbled paper from his pocket.
+
+[Andy]
+Paper.
+
+He throws it at one of the people's heads, to Claire's exhasperation.
+
+[Claire]
+!!!
+
+The person continues imobile.
+Andy looks at Claire and shrugs.
+
+[Andy]
 I think it's aliens.
-Aliens sprouted from the Earth's core and replaced all the students with clones.
+Aliens sprouted from the Earth's core and replaced all the students with doppelgangers.
 Either that or it's theater club rehearsal.
 
 [Claire]
-Let's just keep walking.
+Let's keep walking, please.
 
-They take a step.
+%IF (APD) Taking a step towards the people.
+
+[Claire]
+They look like they're hypnotized...
+
+[Andy]
+(worried)
+Hey, don't get too close, though.
+
+%FINALLY (APD) They take a step.
 
 [Claire]
 Wait, if they've come from Earth they're not aliens then.
 
 [Andy]
 Let's just keep walking.
-
-== What Could Go Wrong ==
 
 (APD) Claire and Andy head upstairs, where the Principal's office is.
 
@@ -589,7 +610,7 @@ If you just found some cool tapes, we could watch a movie instead of escaping.
 
 [Claire]
 (smiling)
-Ha ha.
+Har har.
 
 // When interacting with the drawers.
 
@@ -612,8 +633,7 @@ Claire pockets the key. Narration reads "'Principal's Keys' was added to your KE
 [Andy]
 Hmm... Yes... Yes... Looks like keys alright.
 
-[Claire]
-Haha...
+Claire begrudgingly lets out a chuckle. Andy seems somewhat relieved about that.
 
 [Andy]
 (phew)
@@ -631,6 +651,13 @@ Is that how you approach women? Not really a smooth talker...
 
 [Andy]
 No, you're shaking.
+
+[Claire]
+Yeah this is...
+This is really freaking me out...
+If this IS a prank, I'll—
+
+[Andy]
 Can I Check you?
 
 [Claire]
@@ -644,7 +671,7 @@ The bullet board appears around Claire, showing her SOUL and an x-ray of Claire 
 // You'll be able to move as the dialogue goes on.
 
 [Andy]
-Oh my God... what happened to you?
+Oh my god... what happened to you?
 Even your SOUL looks weary.
 
 [Claire]
@@ -654,9 +681,6 @@ Even your SOUL looks weary.
 I'm feeling tired for some reason, so it'll take a minute.
 
 A moment of silence, as Andy slowly heals Claire up.
-
-[Claire]
-If this really is a prank, I'll—
 
 [Andy]
 Yeah...
@@ -685,7 +709,22 @@ And then, suddenly, like... like a jump cut, there I am in the patio...
 ...
 
 [Andy]
+Claire, I...
+I don't think this is a prank...
+(smiling)
+To be fair, I don't think it's any of that stuff I was joking about either, haha.
+
+[Claire]
+Maybe... it's a...
+An explosion— Like, a gas leak?
+That big hole in the ground...
+
+[Andy]
+That would explain a lot... I think...
+
+[Andy]
 (preoccupied)
+Actually...
 What did you call me for, anyways?
 
 [Claire]
@@ -695,13 +734,10 @@ I... huh? I don't remember calling you?
 What do you remember— what's the LAST thing you remember?
 
 [Claire]
-I think I remember... my house... my bedroom...
-I went downstairs to the living room...
-My dad was there... then... I missed the bus...
+I think I remember...
+Uhhhhhhh............
 
 [Andy]
-(confused)
-Your apartment doesn't have two—
 (confused, smiling)
 Hey... um... what's... your name?
 
@@ -712,22 +748,12 @@ I DO remember my name.
 What's MY name?
 
 [Claire]
-Um... "Andy."
-Right?
+It's Mr. Milkshakerrr—
 
 [Andy]
-(looking at her worried)
-...
-
-[Claire]
-That's what the other guy called you, right?
-Did I get it wrong?
-I'm sorry, I'm not good with names...
-
-[Andy]
-No, but...
 (smiling)
-Nevermind, let's get out of here.
+I'm not living that one down am I?
+Okay, let's get the HELL outta here.
 
 The two of them get out of the room, feeling a bit more relieved.
 
@@ -747,17 +773,26 @@ Perfect plan, what could go wr—
 Don't say that, though!
 
 [Andy]
-Don't way what?
+Don't say what?
 "What could go wrong?"
 
 Claire looks at him silent. He looks at her with a smug expression while wiggling his eyebrows.
 
 [&]
-Hey, relax. It's all fine.
+Hey, relax. It's fine.
 (smiling reassuringly)
-Hey...
+Hey... it's fine.
 
-[&]
+[Andy]
+(remembers something)
+Huh... the lab... you know that nuclear research lab in town?
+
+[Claire]
+Hm?
+
+[Andy]
+N... nevermind.
+(smiling)
 Boy, I can't wait to find out what's happening for real.
 Once we get outta here.
 So let's go.
@@ -772,30 +807,34 @@ After Claire takes a single step forward, the bell goes off with a loud, echoing
 (smacks lips)
 okay
 
-The strange creatures start to phase through the floor from below, the lights faltering as they do so. They approach the bell eerily, getting closer to Andy and Claire.
+The strange creatures start to PHASE THROUGH THE FLOOR from below, the lights faltering as they do so. They approach the bell eerily, getting closer to Andy and Claire.
+
+[Claire]
+(absolutely exhasperated)
+AAAAAARH!!!
+
+// Make sure to sell the surprise and horror of seeing a person phase through the floor.
 
 #BGM Panic
 
 [Andy]
 (suddenly serious)
-What the— Hey, that's— not that funny, guys!
+What the— Hey, that's— stay away!
 
 // When perceiving real danger, Andy locks in, being protective of Claire.
 
 Claire looks petrified at the faceless humanoid creatures approaching her. She starts to sweat and breathe funny.
 
-She takes a step back. Flashes of the nightmare school (from the beginning of the episode) show on screen. Children's faces overlayed atop the monsters'.
-
 [&]
 (keeping Claire behind him, holding his umbrella out)
 Claire? Are you alright?
-Snap out of it! Let's go!
+Snap out of it! Come on, we can handle this!
 This is not time for freezing!
 
 Claire stares blankly past Andy...
 
 [Claire]
-Sorry... I'm sorry... I just wanted to...
+I'm...
 
 A figure approaches Andy and he swings the umbrella, dealing a blow on it from a distance (5 damage).
 
@@ -805,14 +844,28 @@ LEAVE US ALONE!!!
 (turns to Claire)
 Claire? Claire!
 
-The flashes become more intense. Trippy graphics replace the overworld background. The music swells anxiously and Andy turns fully to Claire holding her shoulders, looking desperately into her eyes and shaking her as she continues to look into the distance.
+Claire takes a step back and looks at her feet.
 
-#TRANS Fade to black
+[Claire]
+I'm... I'm sorry!
 
-[Andy]
-Claire!!!
+Claire bolts away, running away from the fight as fast as she can. When she reaches the lower floor, she runs into the edge of the tear and stops to not fall into, not before getting a glimpse of its depth. She freezes, as if in a trance, seemingly mesmerised by it.
 
-== Dimensional Tear ==
+Flashes of the nightmare school (the same location from the dream at [[Nightmare]]) show on screen. Children's faces overlayed atop the monsters' around the tear.
+
+[Claire]
+This... no...
+
+The strange hum emanates from the tear.
+Claire's eyes are filled with the glow from the tear.
+
+The flashes become more intense. Trippy graphics replace the overworld background.
+Claire hyperventilates.
+The music crescendoes and suddenly cuts.
+
+#TRANS Cut to black.
+
+== Within The Cracks ==
 
 We stay a moment in darkness.
 
@@ -826,7 +879,9 @@ Claire is laying down on the floor. A small black cat with big yellow eyes softl
 
 She wakes up and looks at the cat. It stares back for a moment, then hops away.
 
-(APD) Claire gets up slowly and looks around. Anxious music comes in as she starts to powerwalk exasperatedly. As she walks, the distorted school winds and bends. The previously faceless humanoids now look human, familiar.
+(APD) Claire gets up slowly and looks around. Anxious music comes in as she starts to powerwalk exasperatedly. As she walks, she sees distorted school hallways which wind and bend in unnatural ways. The previously faceless humanoids now look human, familiar.
+
+From within the corridor, an ominous yet comforting voice hums and calls Claire's name.
 
 // Actually, these are all people that play a role in the story later! Lily, Guilherme, Rodrick, Tim, Nadia, etc.
 
@@ -839,18 +894,71 @@ Bullets swirl around you, not exactly aiming at you, but you can be hit and rece
 At the end of the corridors Claire sees a bathroom door, from below which a turquoise light glows and a comforting tune plays, and enters it. The room is chaotic and trippy, safe for a single mirror on the left. She's breathing funny.
 
 [Claire]
-I'm not made for all this running.
+Aaaaah!!!
 
-Claire looks at herself in the mirror.
+Claire lets out a sigh of desperation. She looks at herself in the mirror.
 
 [&]
 What the hell is going on...
 
-She sees the small cat in the reflection and turns to it. It walks up to her, then walks in between her legs.
+Claire does effort to remember. Two memories flash on screen, one of the blue beam emerging from the top of the school.
+
+Claire starts breathing more calmly. She sits at the cold bathroom floor. As she calms down, the background fades back into focus, revealing the current room is the school bathroom.
+
+[&]
+(thinking)
+Try to remember...
+
+Claire closes her eyes. In her mind's eye, though poorly, she manages to recall a memory.
+
+#TRANS Slowly fade out, then in.
+
+Claire, Andy, Bruno and Rodrick are standing in front of the school.
+
+// I wonder if anyone will recognise Rodrick from the bullet hell section.
+
+[Andy]
+Whose do you think this one is?
+
+[Claire]
+(thinking)
+It doesn't matter— Well, I guess it's nobody's.
+The seamstress says she can't close it, so...
+
+[Bruno]
+There's an insane amount of psychic energy oozing from there.
+It might be dangerous.
+
+Claire scoffs.
+
+[Claire]
+(smiling confidently)
+Eh. Someone probably tripped on a loose thread or something.
+I'll mend it and then we'll have some fries.
+
+[Rodrick]
+No burger today?
+
+[Andy]
+She's trying to lose weight.
+
+[Rodrick]
+Ha, is it cuz Lauren Kelly is in town???
+
+[Claire]
+(smiling)
+Let's get this over with, guys!!!
+
+Claire runs, excitedly and pushes on the door of the school with force.
+
+[Claire]
+Hiya!!!!
+
+#TRANS Match cut to present (school door and stall door)
+
+From one of the stalls the cat emerges and brushes against her, mildly startling Claire.
 
 #SAVE The game is saved here.
-
-Claire starts breathing more calmly. She sits down and the cat jumps on her lap. As she calms down, the background fades back into focus, revealing the current room is the school bathroom.
 
 [Claire]
 (with a soft voice)
@@ -872,13 +980,35 @@ You wouldn't happen to know the way out, would you?
 The cat jumps off her lap and then jumps through the bathroom window.
 
 [&]
-Oh, If only I were the size of a cat.
+Oh, If only I were the size of a small cat.
 
-Claire gets up and close to the window. She stands on her toes trying to look through it. When she touches the wall, everything fades into black and she falls through the wall onto a pitch black floor.
+Claire gets up and close to the window. She stands on her toes trying to look through it.
 
-== The Encounter ==
+(APD) Claire can move around the bathroom. You can pick up a bucket (one of those cleaning ones) and put it by the window to try and climb out.
 
-// This encounter is really important. TMK is behind it all, know this!
+Looking out of the window, Claire hesitates...
+
+[Claire]
+Oh, that's high up...
+
+%PROMPT "Jump", "Step Down"
+
+You can choose to jump or step down. If you do choose to jump:
+
+Claire looks at the floor from up there for a moment.
+
+[Claire]
+Yeah, it's not happening.
+
+Claire steps down from the bucket and into the bathroom.
+Suddenly, something starts to knock at the door very intensely.
+
+Claire enters one of the stalls and closes the door. She closes her eyes and everything but the stall goes dark.
+Then she opens her eyes again. The noise is gone.
+
+(APD) She opens the stall door but now everything looks completely dark outside.
+
+== Mystery Encounter ==
 
 As she looks around, there is nothing: no ceilings, no walls, no sky. Claire takes a few steps forward, each of them echoing into the emptiness.
 
@@ -905,8 +1035,6 @@ Farewell.
 The flames inch closer and closer to her petrified self, nearly hitting her.
 
 Then, suddenly, the lights turn on, revealing [[The Mystery Kid]] and [[Pierre]] (the cat) sitting at the host's desk of the set for a late night show!!!
-
-== Pilot ==
 
 An audience out of frame laughs for a whole six seconds.
 
@@ -1011,28 +1139,37 @@ Clawed a tear in the sacred fabric.
 Got the students all... floaty... drifty... T-posing...
 
 [&]
-It IS your job to mend all of this of course.
+It IS your job to put that all back together, of course.
 
 [Claire]
 Huh??? Me???
+I'm not going back in there!
 
 [The Mystery Kid]
 Well, I'd do it, but...
-battling horrible monsters, solving deadly puzzles, all for the fate of the world?
+battling horrible monsters, solving deadly puzzles, saving your friends, and determining the fate of the world?
 I'm just a little kid — that's grown up business, innit?
-(audience laughs softly)
+
+Audience laughs softly.
+
+[The Mystery Kid]
 Plus, you did do a quite good job up to here, didn't ya?
 You didn't even die once.
 
 [Claire]
 I... I don't know what's happening. 
 I feel if anything we oughta be calling the police for...
-(Claire stops to think for a moment)
-Though I'm not sure the police even would know what to make of this...
 
-Claire looks again at the audience.
+Claire stops to think for a moment.
 
 [&]
+Though I'm not sure the police even would know what to make of this...
+Maybe... the firefighters???
+
+The audience laughs.
+Claire looks again at the audience.
+
+[Claire]
 (mumbling)
 wheres that laughter coming from theres no one there
 
@@ -1058,6 +1195,7 @@ Claire looks forlorn.
 
 [&]
 Hmm. Just what I feared. You really do seem to have no recollection of the previous events that led to the current situation.
+This school place isn't doing you much good either.
 (they snap their fingers)
 Hey, you're looking for a safe place to rest, devoid of mortal danger, I imagine?
 
@@ -1172,7 +1310,7 @@ Break a leeeeeg!
 
 #TRANS Smash cut
 
-== The Forest ==
+== The Portal ==
 Where: Zenith Forest
 
 Claire stands around in the moonlit forest, just outside of the school.
@@ -1181,8 +1319,6 @@ Pierre stands near her.
 
 [Claire]
 Oh man. That was something.
-
-[&]
 Huh? How did I...
 Oh...
 (thinking)
@@ -1191,11 +1327,14 @@ Did any of that right now really happen?
 She turns at the cat beside her, which stares back at her in silence.
 After a moment to readjust, she begins walking forward.
 
-Moving away from behind the school, Claire sees, from the cliff, the city at dusk. Home is within reach, but not quite.
+[Claire]
+Alright... I should... get into the city and then...
+I should probably notify CONTROL and the psychic containment team...
 
-// To the right the are barricades and police lines. You can also barely see police sirens flashing.
+Claire makes an expression of annoyance. Then she looks at Pierre.
 
-(APD) If Claire gets close to the police lines narration reads: "You approached the threshold with the intentional... but for some reason something about doing that felt really, really wrong."
+[Claire]
+You know, for one moment I could swear I'd seen you talk...
 
 Pierre walks into the forest.
 
@@ -1206,7 +1345,7 @@ As Claire walks, a peaceful atmosphere accompanies her, a silence that isn't qui
 #BGM Zenith
 
 [Claire]
-More walking. Got my fair share of steps in today, huh...
+More walking. Radical.
 
 Claire continues walking forward. The forest isn't exactly a maze, but there is some to explore.
 
@@ -1216,9 +1355,6 @@ Claire continues walking forward. The forest isn't exactly a maze, but there is 
 Where are we going?
 
 Pierre lets out a soft meow and bolts in between the trees. Claire picks up her pace and soon she finds a curious path. Very tensely, she walks over a big trunk laid down as a bridge over the creek. And then she finds herself in a clearing in the forest.
-
-== The Portal ==
-Where: The Treehouse
 
 // Wonder if people will recognise the treehouse from the [[#Setting_The_Tone|first scene]].
 
@@ -1239,7 +1375,9 @@ Claire takes her head out. Birds chirping return. Claire puts her head back in. 
 #CAM The camera does follow her point of view as she puts her head in and out, in comedically jarring fades.
 
 [Claire]
-Portal...
+Huh... This looks like a portal to another world...
+(thinking)
+What is this...
 
 Claire crawls into the corridor, leaving the door open. She walks a few feet: the door closes. She looks behind her, but does not bother to comment. Claire walks further towards the end of the narrow corridor. In contrast to the corridor of [[#I'm_NOT_GAY!!!|the initial nightmare]], this one widens as she gets further.
 
@@ -1272,7 +1410,7 @@ Music starts to swell with a magic orchestral sound.
 
 #CHYRON Into The Other Side
 
-== Marvelous Sight ==
+== In Hearth A Haven ==
 Where: Hearthaven
 
 Claire remains looking at the city for a moment. She stands still, finally allowing herself to calm down. Pierre jumps onto the handrail and she pets him without moving her gaze.
@@ -1314,9 +1452,6 @@ If that's what you make of that.
 Pierre jumps from the handrail onto the ground and down the stairs that lead to the city.
 
 (APD) Claire jumps onto a floating biscuit in the milk river and drifts down the stream towards the city.
-
-== Foreigner ==
-Where: Hearthaven
 
 #BGM Hearthaven
 
@@ -1372,7 +1507,7 @@ What is so shocking about me???
 A... a foreigner...?
 
 [Evelyn]
-A foreigner? They're not just any foreigner! Look closer.
+A foreigner? Not just any foreigner! I can feel she's special...
 
 The three children gather close to her.
 
@@ -1723,12 +1858,9 @@ Your grandpa and your dad, they weren't mayors?
 [McMayor]
 Nope.
 
-== Direction Gag ==
-Where: Hearthaven
+(APD) Claire steps out of the office, finding that the kids were eavesdropping through the door.
 
 #BGM Hearthaven
-
-(APD) Claire steps out of the office, finding that the kids were eavesdropping through the door.
 
 [Evelyn]
 Heyyyy foreigner! Can you play now?
@@ -1780,9 +1912,6 @@ They'll say things like:
 "Woah... you look REALLY lost. Don't worry, you're safe here now, alright?"
 
 "Our homes have been destroyed, too, but we've made this place our own. We hope it can be your home, too."
-
-== The Professor ==
-Where: Hearthaven/Atelier
 
 (APD) Claire arrives at the Professor's door. She knocks on the door softly. No response.
 
@@ -1871,14 +2000,14 @@ Aahhh! Let's go, come on!
 
 Whynott rushes Claire into the house.
 
+== Steamy Battle ==
+Where: Hearthaven/Atelier
+
 #TRANS Fade out and in
 
 (APD) Claire enters the room, seeing a weird flaming single-wheeled automaton running back and forth. The house is completely thrashed, as if a struggle (and an explosion) has just taken place. The robot sees Claire and runs into her.
 
 #TRANS Battle flicker
-
-== First Battle ==
-Where: Hearthaven/Atelier
 
 #BGM Battle Against A Prototype
 
@@ -1907,9 +2036,6 @@ Erica will pull the cord and you get a draw.
 
 // If you win by Sparing, people congratulate you for it!
 // If you win by FIGHTING, Prof. Whynott displays sadness, but, ultimately concedes "Ahh, who cares. It's just a machine, anyways."
-
-== The Ancient Memory Card ==
-Where: Hearthaven/Atelier
 
 The automaton's eyes lose their light.
 
@@ -2010,7 +2136,7 @@ No, not really.
 
 (APD) You can leave.
 
-== Deliver Scroll ==
+== The Golden Tale (1) ==
 Where: Hearthaven
 
 [Erica]
@@ -2144,7 +2270,7 @@ Oh, neat-o!
 What are you waiting for, a kiss on the forehead?
 Get outta here!
 
-== Storytelling ==
+== The Golden Tale (2) ==
 Where: Hearthaven
 
 Getting outside, everybody is gathered in the village centre. The yarn golems hold ceremonial torches (lit matches) and [[Evangeline]], the oracle, holds her needle staff in the middle, awaiting Claire's arrival.
@@ -2327,7 +2453,7 @@ After getting some rest, I suppose.
 
 The kids slowly go their ways.
 
-== Dream Within A Dream ==
+== A Dream Come True ==
 
 // She's like, big to contrast with the mayor's small size. She's, like, an old actress type, with lots of quirky pink clothing, a hat, a glimmering dress and some good ol' (American) southern hospitality.
 
@@ -2410,9 +2536,6 @@ A brief pause.
 Good night, me!
 
 #TRANS Fade to black.
-
-== The Third Awakening ==
-Where: Hearthaven/Inn
 
 Claire wakes up, not felling that well rested.
 
@@ -2558,21 +2681,24 @@ A brief pause.
 [Erica]
 I guess it _is_ cool.
 (smiling)
-Even more cool now that you're here.
+I always... dreamed... of having a friend my age...
+Hey, Evelyn and Enzo are nice, but...
+(flustered)
+I'm... really glad you came.
 
 She smiles at Claire. Claire is still looking into the distance and doesn't reply.
 
 [Erica]
-(flustered)
-Alright, I'm sorry I'll leave you alone.
-Get ready for the ceremony!
-It's in five minutes.
+Maybe I can talk to Nana about you staying...
 
 [Claire]
-Oh yeah, the thing.
+I don't think that'll happen.
 
 [Erica]
-Bye.
+I see.
+(awkward)
+Well, uh... um...
+Gotta go!
 
 Erica yeets herself off the roof, leaving the frame (we never hear her land). Claire looks to the sky one last time, then crawls back through the window and sits on the bed for a moment, before getting up.
 
@@ -2645,7 +2771,10 @@ Evangeline looks at her for a moment.
 Bye, human...
 
 [Enzo]
-Huh... where's Erica when we're saying goodbye, now...
+Huh... where's Erica?
+
+[Evelyn]
+GASP! How rude of her, she didn't even care to say goodbye!
 
 [Rosetta]
 Take care out there, will ya?
@@ -2667,7 +2796,7 @@ Finally, Claire leaves the city.
 // You can come back in, everyone will be gone.
 // There are some secrets to be hidden here later.
 
-== Nadir Forest ==
+== The Journey Starts ==
 Where: Nadir Forest
 
 Claire walks into the twisted dark forest of hollow trees that encircles Hearthaven. As she walks, the trees creep dark and tall above her. The ground is filled with snowy soot. It's really dark, with a lof of pure black. The only light that illuminates anything are some long yellow light poles.
@@ -2806,9 +2935,6 @@ Yes, sir!
 
 (APD) Claire steps off the tram and enters the station.
 
-== First Real Battle ==
-Where: Nadir Forest
-
 #BGM Liminal
 
 (APD) Claire enters the decrepit station, accidentally stepping on a teddy bear laying on the ground. She grabs a lever fixed into the panel and, with effort (and a minigame), activates it.
@@ -2878,8 +3004,6 @@ Wahahaha! Feel my furaay!!!
 
 // You can defeat Teddy by giving him money or talking to him and letting him vent about uhh... his boss that "fired him" by telling him he "works too much and deserves a nice vacation" and his wife that scheduled a nice night out but didn't show up... hours before the great evacuation... You can also defeat him by punching him or setting him on fire.
 
-== That Was Weird ==
-
 (APD) Claire comes back from the station to the tram cabin.
 
 [Whynott]
@@ -2897,6 +3021,8 @@ Let's keep going.
 The tram continues forward.
 
 #TRANS Corny 80's clock wipe transition.
+
+== A Hesitation ==
 
 The tram continues to Aurora, the vegetation getting promptly duller as the sky appears. It's sunrise. The golden sun adds some colour to the grey sky. You can see, in the distance, the clouds taking over the sky as the tram makes progress into the catacombs, the rain hitting the top of the tram weirdly soothing. Nearing a cliff, the tram converts into a suspended tram and gently drifts in-between the stems of giant flowers.
 
@@ -2957,7 +3083,7 @@ What's the collective noun for bee?
 [Whynott]
 "Swarm" — are you alright back there?
 
-Claire freezes while looking at the bees approaching. A frame of a flashback flashes on screen, like how it happened in [[#What_Could_Go_Wrong|the school earlier]]. Seeing Claire take too long, Prof. Whynott concocts a plan.
+Claire freezes while looking at the bees approaching. Seeing Claire take too long, Prof. Whynott concocts a plan.
 
 [Whynott]
 You're... Uh... Athletic, right? You're pretty young, got some nice legs for jumping?
@@ -2982,15 +3108,17 @@ Find something that will break your fall and go for it!
 
 [Claire]
 J... jump???
+We're a hundred feet in the air!!!
 
 [Whynott]
-You heard me!
+No we are not!
+You'll be fine!
 
 [Claire]
 W- what about you? You have a plan?
 
 [Whynott]
-The plan is to get you to safety.
+The plan — ugh — is to get you to safety.
 
 [Claire]
 You can't fight all of these things by yourself...
@@ -2999,7 +3127,7 @@ Maybe if we try together...
 [Whynott]
 I'm jump after you.
 
-// Here, the player will be prompted to press Z to jump... But it will fail.
+The player will be prompted to choose "Jump"... But Claire will not do it.
 
 [Whynott]
 (preoccupied)
@@ -3008,7 +3136,7 @@ Claire, please, jump! NOW!!
 [Claire]
 I... can't! It's too high! I can't jump!
 
-[Claire]
+[Whynott]
 You can't stay there frozen either!
 
 [Claire]
@@ -3025,7 +3153,7 @@ Claire closes her eyes and lets herself go.
 
 And in black we stay for a moment.
 
-== The Catacombs ==
+== The Ruined City (1) ==
 Where: Aurora/Outskirts
 
 #BGM (silence + ambience)
@@ -3172,9 +3300,6 @@ Will do! Will do!
 
 He hops away.
 
-== Lizard Ladies ==
-Where: Aurora Ruins
-
 Going forth into the alley, Claire runs into two lizard ladies you can use DREAM on and ends up fighting them. Upon defeat (by ACTing) they will say:
 
 [Lizard Lady A]
@@ -3213,8 +3338,6 @@ I'm a girl!
 A girl human? How exxxxquisite!
 
 (APD) You walk through an alley. In there, The Mystery Kid and Pierre stand suspiciously.
-
-== Mystery Duel ==
 
 [The Mystery Kid]
 Howdy, it's me, everybody's favourite child of indeterminate gender!!! Your one and only host!!!
@@ -3376,8 +3499,6 @@ You can then Spare them.
 // Not sparing them or hitting them prompts them to say "Do you need ACTing lessons?" or "Don't hit me I'm a baby :-("
 // It's impossible to kill them no matter how much you hit them.
 
-== Tip Intro ==
-
 [The Mystery Kid]
 Huff... Puff... Oh boy, what a workout!
 Well, I hope you've learn your lesson!
@@ -3442,7 +3563,7 @@ If you save now, narration reads.
 
 #SAVE Knowing that this strange child has your back... Your SOUL glimmers with HOPE.
 
-== Drapery Drake ==
+== The Ruined City (2) ==
 
 On the other side of the alley, in the marketplace, amphibians and reptiles of all kinds are having beef with each other.
 
@@ -3549,8 +3670,6 @@ The shope is did close!
 
 D.D. slides off screen.
 
-== Frog-Lizard Feud ==
-
 Throughout the city, there will be many frogs and lizards fighting each other. Talking to them offer a bunch of different dialogue.
 
 [City Toad]
@@ -3565,7 +3684,7 @@ Just one of the things to keep in mind while walking around.
 
 //TODO: Write the battles here and the funny conflicts between the frogs and the lizard factions. Frogs like coffee, lizards like tea, etc.
 
-== The Garden Gate ==
+== The Ruined City (3) ==
 
 (APD) Stepping away from the busy parts of the city, Claire smiles at the colourful sight she's leaving behind. She arrives at the garden gate.
 
@@ -3755,9 +3874,7 @@ H... hey wait!
 
 The Basket Knight leaves the screen.
 
-== Into The Garden ==
-
-APD, Claire presses on to the next room, where, as she's walking through the flowers, a Floradora jumps into a battle. Claire effortlessly befriends it by making it bloom with DREAM.
+(APD) Claire presses on to the next room, where, as she's walking through the flowers, a Floradora jumps into a battle. Claire effortlessly befriends it by making it bloom with DREAM.
 
 Then, to the right, there is a puzzle about pushing boulders and Rakestones to properly rake a tiny zen garden. A sign reads "Please leave the garden as tidy as you found it."
 
@@ -3869,7 +3986,7 @@ Tell me about it!
 // You can save in this room.
 // Save dialog reads: "The air's saturated with the sour-sweet scent of citrus. Your SOUL shimmers with HOPE."
 
-== Checkmate, Human ==
+== The Garden (Chess Encounter) ==
 
 In the next room, there are three guards mid-argument. They are standing on a checkerboard flooring.
 
@@ -3979,7 +4096,7 @@ Ah, what an elegant sight graces my eyes.
 
 APD Claire presses on.
 
-== BK Feud 1 ==
+== The Basket Knight (1) ==
 
 .[[Basket Knight]] stands atop a wall and looks at you from up there.
 
@@ -4015,7 +4132,7 @@ She marches out of frame.
 
 APD Claire may follow her.
 
-== BK Feud 2 ==
+== The Basket Knight (1) ==
 
 [Basket Knight]
 Greetings! It is I! Et cetera!
@@ -4062,7 +4179,8 @@ Bu-bye~!
 
 She leaves the room.
 
-== The Teashop ==
+== Tea Party ==
+Where: Aurora/Royal Garden
 
 In this room, there is a small tea stand, and, to its side, an ornate table, with several bleaked characters drinking tea:
 
@@ -4145,7 +4263,7 @@ Walking to the right, there will be two knight statues ([[Shovel Knight]] and [[
 
 // You can see the odd folks continuing to have their tea party while you're being impaled to death <3. During battle, narration will remark The Mystery Kid cheering for you and offering no help.
 
-== BK Feud 3 ==
+== The Basket Knight (3) ==
 
 The Basket Knight is at it again!
 
@@ -4242,7 +4360,7 @@ I... Just go on... I need a moment...
 
 (APD) Claire moves on.
 
-== Cheese trap ==
+== The Basket Knight (4) ==
 
 You reach a place with denser vegetation and, in the middle of it, a single table with a slice of lemon pie on it.
 
@@ -4297,7 +4415,7 @@ S... sorry...
 
 She lowers herself into the bush.
 
-== The Maze ==
+== The Basket Knight (5) ==
 
 There's a short maze made of prickly rose hedges here containing items, but also a few encounters against Honibis, Bundlebees, Floradoras, and Prickle, all lost in the maze. Pierre is also lost in the maze. You can't save with him because he's too anxious himself.
 
@@ -4382,7 +4500,7 @@ During the maze, you'll be attacked by Scissor Knight. It'll be complaining that
 // This unassuming, throwaway detail is a hint to what's happening in the real world, for the mystery that will be properly established in Episode 02.
 // That is, it's the Scissor Knight's Seamstress Scissors that FK and MK use to open tears.
 
-== Bonding with BK ==
+== The Basket Knight (6) ==
 
 On the next room, Claire will fight [[Rake Knight]] and [[Can Knight]]. BK will be backseat-gaming during the battle criticising your actions.
 
@@ -4647,7 +4765,7 @@ Basket Knight runs to the right. Since it's no longer raining, Pierre is here.
 
 Claire goes to the right.
 
-== Consequences ==
+== The Price Paid ==
 
 #BGM (silence)
 
@@ -4708,7 +4826,7 @@ It's over.
 
 She walks right out of frame.
 
-== Versus Basket Knight ==
+== Versus The Basket Knight ==
 
 Claire gets closer to the garden's front entrance. There's a stone path that cuts through a lake. A sign reads "Welcome, humans! Please take as much as you need from the garden!" At the path's center, a gazebo.
 
@@ -4862,11 +4980,11 @@ Up ahead, the Castle of Dawn.
 
 #TRANS Fade To White
 
-== Abandoned Castle ==
+== It Was Once Beautiful ==
 Where: Castle Of Dawn
 
 #TRANS Dry cut
-#BGM Castle of Dawn
+#BGM Overgrown
 
 The pompous fanfare is stopped, jarringly, with the vision of the inner castle, overgrown with vines and flowers.
 Everywhere, there's dust, debris, mold...
@@ -4964,13 +5082,9 @@ Okay, let's go!
 
 Erica walks into the castle.
 
-== Into The Shrine ==
-
 (APD) Claire into the castle, too.
 
-#BGM Shrine of Reflection
-
-Claire sees a mirror.
+Right by the entrance there's a mirror.
 
 [Claire]
 Is... this the mirror?
@@ -5141,8 +5255,9 @@ Uhhh....
 
 [Erica]
 This is another realm, a distinct tridimensional continuum from EARTH's.
-We don't have atoms or molecules... even our space-time fabric is different, I've heard!
+Our space-time fabric is different.
 Yours is all stretchy and weird... it's woven differently...
+I've been learning some sewing patterns that—
 
 The two of them come to a new room of the castle.
 There are tapestries hung on the walls with awe-inspiring images.
@@ -5157,7 +5272,7 @@ Hm?
 It's so blue...
 Oh, and here! It's our golden tale!
 
-Erica dashes out of frame, looking at the next window.
+Erica dashes out of frame, looking at the next tapestry.
 (APD) Claire follows her.
 
 // Interacting which each tapestry, a passage of the golden tale will be remarked.
@@ -5181,7 +5296,7 @@ Nana's training me to be a seamstress like her...
 You'll be the head of "kidnapping children for character development"...
 
 [Erica]
-Yes! Isn't it cool?
+Yes!!!  Isn't it cool?
 
 [Claire]
 (awestruck)
@@ -5208,6 +5323,8 @@ Huh?
 Aaaand she's gone.
 
 When you walk there there's a big part of the castle and many enemies to fight.
+
+#BGM Castle of Dawn (the song picks up)
 
 // Okay, so, in this part of the castle there's lots of enemies and flavour text. There are three kinds of enemies, all much stronger than the ones outside, though all weaker than Basket Knight.
 // 1. Dust Bunny — "An ephemeral fella, it's dirty, but loves to be pet Just Right."
