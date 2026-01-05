@@ -481,7 +481,7 @@ Good thinking.
 
 (APD) Claire and Andy walk together back into the school.
 
-== The Jumpcut (3) ==
+== The Aftermath ==
 
 (APD) Claire checks out the vending machine.
 
@@ -680,10 +680,83 @@ Even your SOUL looks weary.
 [Andy]
 I'm feeling tired for some reason, so it'll take a minute.
 
-A moment of silence, as Andy slowly heals Claire up.
+Andy holds Claire's hand and starts healing her.
+
+[Claire]
+Ugh...
 
 [Andy]
-Yeah...
+Am I hurting you?
+
+[Claire]
+No, ugh... my head hurts...
+
+[Andy]
+Let me see...
+Just close your eyes for a moment, will ya?
+
+Andy starts to heal her head. Suddenly...
+
+Claire closes her eyes. In her mind's eye, though poorly, she manages to recall a memory.
+
+#TRANS Slowly fade out, then in.
+
+In the memory, Claire, Andy, Bruno and Rodrick are standing in front of the school.
+
+// I wonder if anyone will recognise Rodrick from the bullet hell section.
+
+[Andy]
+Whose do you think this one is?
+
+[Claire]
+(thinking)
+It doesn't matter— Well, I guess it's nobody's.
+The seamstress says she can't close it, so...
+
+[Bruno]
+There's an insane amount of psychic energy oozing from there.
+It might be dangerous.
+
+Claire scoffs.
+
+[Claire]
+(smiling confidently)
+Eh. Someone probably tripped on a loose thread or something.
+I'll mend it and then we'll have some fries.
+
+[Rodrick]
+No burger today?
+
+[Andy]
+She's trying to lose weight.
+
+[Rodrick]
+Ha, is it cuz Lauren Kelly is in town???
+
+[Claire]
+(smiling)
+Let's get this over with, guys!!!
+
+Claire runs, excitedly and pushes on the door of the school with force.
+
+[Claire]
+Hiya!!!!
+
+#TRANS Match cut to present — when the doors are opened, Claire gasps.
+
+Claire gasps for air.
+
+[Andy]
+(worried)
+What?
+
+[Claire]
+I... remembered something...
+We... came here...
+We were looking for something...
+
+[Andy]
+...
 You know, uh...
 Bruno's neurotic ass isn't here...
 So I should probably acknowledge it now...
@@ -709,10 +782,8 @@ And then, suddenly, like... like a jump cut, there I am in the patio...
 ...
 
 [Andy]
-Claire, I...
-I don't think this is a prank...
-(smiling)
-To be fair, I don't think it's any of that stuff I was joking about either, haha.
+I guess...
+We fucked around and found out, huh?
 
 [Claire]
 Maybe... it's a...
@@ -785,7 +856,7 @@ Hey... it's fine.
 
 [Andy]
 (remembers something)
-Huh... the lab... you know that nuclear research lab in town?
+Huh... the lab... you know that psychic research lab in town?
 
 [Claire]
 Hm?
@@ -865,7 +936,7 @@ The music crescendoes and suddenly cuts.
 
 #TRANS Cut to black.
 
-== Within The Cracks ==
+== Shallow Wound ==
 
 We stay a moment in darkness.
 
@@ -900,61 +971,15 @@ Claire lets out a sigh of desperation. She looks at herself in the mirror.
 
 [&]
 What the hell is going on...
-
-Claire does effort to remember. Two memories flash on screen, one of the blue beam emerging from the top of the school.
-
-Claire starts breathing more calmly. She sits at the cold bathroom floor. As she calms down, the background fades back into focus, revealing the current room is the school bathroom.
-
-[&]
 (thinking)
 Try to remember...
 
-Claire closes her eyes. In her mind's eye, though poorly, she manages to recall a memory.
+Claire does effort to remember. Two memories flash on screen, one of the blue beam emerging from the top of the school.
 
-#TRANS Slowly fade out, then in.
+[&]
+Ugh!!!
 
-Claire, Andy, Bruno and Rodrick are standing in front of the school.
-
-// I wonder if anyone will recognise Rodrick from the bullet hell section.
-
-[Andy]
-Whose do you think this one is?
-
-[Claire]
-(thinking)
-It doesn't matter— Well, I guess it's nobody's.
-The seamstress says she can't close it, so...
-
-[Bruno]
-There's an insane amount of psychic energy oozing from there.
-It might be dangerous.
-
-Claire scoffs.
-
-[Claire]
-(smiling confidently)
-Eh. Someone probably tripped on a loose thread or something.
-I'll mend it and then we'll have some fries.
-
-[Rodrick]
-No burger today?
-
-[Andy]
-She's trying to lose weight.
-
-[Rodrick]
-Ha, is it cuz Lauren Kelly is in town???
-
-[Claire]
-(smiling)
-Let's get this over with, guys!!!
-
-Claire runs, excitedly and pushes on the door of the school with force.
-
-[Claire]
-Hiya!!!!
-
-#TRANS Match cut to present (school door and stall door)
+With time, Claire starts breathing more calmly. She sits at the cold bathroom floor. As she calms down, the background fades back into focus, revealing the current room is the school bathroom.
 
 From one of the stalls the cat emerges and brushes against her, mildly startling Claire.
 
@@ -1099,7 +1124,7 @@ It... uh... stands for "Hanako"... but wh—
 [The Mystery Kid]
 Say, Claire, what's it like to be you?
 
-Here the player can choose between "Scary" or "Confusing".
+%PROMPT "Scary", "Confusing"
 
 [The Mystery Kid]
 Oh, the teen age — confusing times... your body is changing... hormones are raging...
@@ -1122,13 +1147,13 @@ Let's say, different. Gnarly, even!
 It's all a horrendous shade of dark blue, for one, who signed off on THAT renovation?
 
 [Claire]
-I've... noticed that...
+I've... uh... noticed that...
 
 [The Mystery Kid]
 I dig the glow-in-the-dark plants but the ominous floating twisted teenagers are a bit of a stylistic clash, aren't they... Not really into that, no.
 
 [Claire]
-Teenagers—?
+Teenagers...?
 
 [The Mystery Kid]
 (interrupting Claire loudly)
@@ -1238,7 +1263,7 @@ Your hand's on fire.
 [The Mystery Kid]
 It's. It's. It's magic fire. It's fine.
 
-> Here the player is prompted with two choices: 'Deal' or 'Deal'.
+%PROMPT 'Deal', 'Deal'.
 
 [Claire]
 Okay.
@@ -4997,6 +5022,10 @@ Claire takes a few moments to look around.
 
 There is a saving point here, its narration reads: "Somewhere inside the castle lies 'The Mirror,' your way home. With the thought of your bed... your SOUL glimmers with HOPE."
 
+On the lower side of the staircase there's a mirror. Interacting with it, narration reads:
+
+"It's a mirror!"
+
 (APD) Claire goes up the left staircase. She takes a few steps, then an aracnisse will be startled.
 
 [Castle Nisse]
@@ -5087,7 +5116,7 @@ Erica walks into the castle.
 Right by the entrance there's a mirror.
 
 [Claire]
-Is... this the mirror?
+I'm looking for a mirror, right?
 
 // If you interact with it:
 
@@ -5322,6 +5351,8 @@ Erica runs out of frame again.
 Huh?
 Aaaand she's gone.
 
+== The Ruined Castle ==
+
 When you walk there there's a big part of the castle and many enemies to fight.
 
 #BGM Castle of Dawn (the song picks up)
@@ -5339,3 +5370,16 @@ When you walk there there's a big part of the castle and many enemies to fight.
 // 4. Tometu — A dirty little thief! These naughty nisse love to prank humans, then steal their books!
 // 4.1. Using 'Nitpick' will make them nitpick back at you, diminishing your DP.
 // 4.2. You can ACT "Step On" after they prank you, and they will learn their lesson. Doing it too early won't work!!!
+
+== The Shrine Of Reflection ==
+Where: Aurora/Castle Of Dawn/Mirror Shrine
+
+== Let's Run Away Together ==
+
+== The Aventure Starts ==
+
+== Credits ==
+
+== Post Credits (1) ==
+
+Stuff.
