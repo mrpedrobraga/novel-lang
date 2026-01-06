@@ -15,6 +15,19 @@ pub enum Value {
     List(Vec<Value>),
 }
 
+impl Value {
+    pub fn as_string(&self) -> String {
+        match self {
+            Value::RichText(rich_text) => rich_text.as_string(),
+            Value::List(values) => values
+                .iter()
+                .map(|value| value.as_string())
+                .reduce(|a, b| format!("{a}{b}"))
+                .unwrap_or(String::new()),
+        }
+    }
+}
+
 #[derive(Debug, PartialEq, Clone)]
 pub struct Scene {
     pub name: Option<String>,
@@ -50,13 +63,32 @@ impl RichText {
     }
 
     pub fn is_parenthetical(&self) -> bool {
-        if let Some(RichTextPart::Text(text)) = self.0.first() {
-            if text.starts_with("(") {
-                return true;
-            }
+        if let Some(RichTextPart::Text(text)) = self.0.first()
+            && text.starts_with("(")
+        {
+            return true;
         }
 
         false
+    }
+
+    pub fn as_string(&self) -> String {
+        let mut result: String = String::new();
+        for part in self.0.iter() {
+            match part {
+                RichTextPart::Text(text) => result.push_str(text.as_str()),
+                RichTextPart::Reference(reference) => result.push_str(
+                    &reference
+                        .alias
+                        .clone()
+                        .unwrap_or_else(|| reference.referent.clone()),
+                ),
+                RichTextPart::FormattedSection(_, rich_text) => {
+                    result.push_str(rich_text.as_string().as_str());
+                }
+            }
+        }
+        result
     }
 }
 

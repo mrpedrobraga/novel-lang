@@ -20,3 +20,6 @@ tower-lsp = {version = "0.20.0", optional = true}
 default = ["parser", "server"]
 parser = ["dep:nom"]
 server = ["dep:tower-lsp"]
+
+[dev-dependencies]
+indexmap = "2.12.1"
