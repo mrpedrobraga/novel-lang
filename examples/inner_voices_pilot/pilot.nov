@@ -4,7 +4,7 @@ S: by Pedro Braga
 == That Rainy Night ==
 Where: Zenith Forest
 When: 2029-06-21
-Summary: Cold open. A faint memory plays. It was a friday. It was raining. And you didn't yet know how much everything was going to change. In that one cold friday night.
+Summary: Cold open. A faint memory plays. It was a friday. It was raining. And you didn't yet know how much everything was going to change. In that one cold friday night. Intro chyron.
 
 The game opens by showing the logos of the "publishers," against a black screen (like a movie) interspersed with scenes from an important memory. Ominous synthwave music plays.
 
@@ -46,7 +46,7 @@ Wake up...
 
 == First Day of School ==
 Where: Claire's Mind
-Summary: Claire is excited to move to a new school and make all sorts of new friends... but things from now on might not go as well as expected.
+Summary: We cut to a new scene. Claire is excited to move to a new school and make all sorts of new friends... but things from now on might not go as well as expected.
 
 A black screen lingers for a few dramatic seconds. Then, slowly, calmly, deliberately, a voice is heard uttering a single command.
 
@@ -55,13 +55,11 @@ WAKE.
 
 // The Angel always speaks in one-word sentences. This is the single word it utters in the entire first episode.
 
-For about a second, an image flashes on screen with a distant loud sound — the school seen from below, and a fountain of blue light pouring from it.
-
 #TRANS Cut.
 
 We see [[Claire]], wearing her signature plain red dress laying on her bed. The early morning sun projects onto her creating a lazy scene. See stays laying down for a second...
 
-...then her alarm sets off, she shoots awake. Annoyed, she slowly raises her hand and slams the clock off the table. It hits the ground with a dry thud. She lets out a sigh of defeat, begrudgingly stands up, brushes off dust from her red dress and is good to go.
+...then her alarm sets off, she shoots awake. Annoyed, she slowly raises her hand and slams the clock off the table. It hits the ground with a dry thud. She stays there for a moment then— oh! Claire jumps up, brushes off dust from her red dress, grabs her bag and is good to go.
 
 #BGM Good Morning!
 
@@ -76,18 +74,55 @@ One of these days you're going to fall flat on your face.
 Claire recomposes herself.
 
 [&]
-Here, your stuff — hey! You're quite energetic today, huh?
+You'd think if you're so excited you would've gotten up earlier?
+Do you wanna be late for your first day of school?
 
 [Claire]
-(nods in one sharp, excited motion)
+I'm sleeping as much as I can so I can be well-rested.
+
+[Jim]
+(fatherly)
+Ahhh I see, and then you're gonna get ready in five minutes?
+
+[Claire]
+Yeah!
+
+Jim kneels with her packed bag.
+
+[Jim]
+Hey, I know it's... it's difficult being in a new place but...
+It can be a new start...
+
+[Claire]
+(smiling kindly)
+Daddy it's okeyyy—
+(nodding emphatically)
 Yep! I'm gonna make loads of friends and I'll show them all my cards!
 
 [Jim]
-Hey, don't get TOO excited, eh, cross the streets with caution.
+Oh, yeah?
 
 [Claire]
-(not listening)
-Uh huh!
+I got the rare riranossaurus.
+
+[Jim]
+You mean "tyranossaurus"?
+
+[Claire]
+No, "riranossaurus" it's what's written in it.
+
+[Jim]
+Also you don't have to make all your friends in one day, eh?
+You can stagger 'em a litt—
+
+Claire "shoves" the cards in his face. /silly
+
+[Jim]
+Hey— what did we talk about— oh wait that IS what's written there.
+Huh.
+
+[Claire]
+Eheheheh...
 
 Jim hands her now packed bag and deploys a single toast in her mouth, anime-style.
 Then, he sends her off.
@@ -710,7 +745,7 @@ Claire closes her eyes. In her mind's eye, though poorly, she manages to recall 
 
 #TRANS Slowly fade out, then in.
 
-In the memory, Claire, Andy, Bruno and Rodrick are standing in front of the school.
+In the blurry memory, Claire, Andy, Bruno and Rodrick are standing in front of the school.
 
 // I wonder if anyone will recognise Rodrick from the bullet hell section.
 
@@ -1151,7 +1186,10 @@ Is this on television???
 
 [The Mystery Kid]
 HAHAHA! Claire, you're killing me!
-(they take off their hat and clean it with the edge of their sleeve)
+
+They take off their hat and clean it with the edge of their sleeve.
+
+[&]
 Look...
 
 The Mystery Kid puts their hat back on and pauses for a moment.
@@ -1495,8 +1533,6 @@ Pierre jumps from the handrail onto the ground and down the stairs that lead to 
 
 (APD) Claire jumps onto a floating biscuit in the milk river and drifts down the stream towards the city.
 
-#BGM Hearthaven
-
 As the walks into the city, the people look at her with intrigue. She feels a bit uncomfortable with the sudden attention.
 
 When she reaches the main street, a [[Evelyn|small child]] walks into frame following a ball she dropped. She grabs the ball and looks up to the stranger before her, then she drops the ball (and drops her jaw).
@@ -1511,21 +1547,23 @@ And then she runs out of frame.
 
 (APD) Claire walks more. Talking to the locals will have them be murmuring at your sight. "It can't be..." "Is that really a..." etc.
 
-The mayor's assistant, Becky, standing in front of the mayor's office takes sight of her.
+The mayor's assistant, Becky, steps out of the mayor's office holding a tea kettle.
+She gazes up at Claire, and drops her jaw (and the kettle) with a jarring CRASH!
 
-[Becky]
-Oh, my! My eyes must deceive me!
+Then she slowly retreats into her building.
 
-And retreats into her building.
+[Claire]
+(weirded out)
+...
 
 (APD) Claire continues walking until she reaches the village fountain bridge.
 
-There, she sees Evelyn shaking her arms in heightened emotion, telling two other kids ([[Erica]] and [[Enzo]]) about something.
+She takes the initiative of sitting down. She's cold.
 
-When Claire gets closer, she can just about make it out.
+There, she sees Evelyn shaking her arms in heightened emotion, telling two other kids ([[Erica]] and [[Enzo]]) about something. Claire can just about make it out.
 
 [Evelyn]
-You gotta come! You gotta *see* it!!!
+You gotta come! You GOTTA *see* it!!!
 
 [Enzo]
 Hey, hey, lay it out already!
@@ -1545,76 +1583,92 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!
 (thinking)
 What is so shocking about me???
 
+Erica leaves to the left.
+
 [Enzo]
 A... a foreigner...?
 
 [Evelyn]
-A foreigner? Not just any foreigner! I can feel she's special...
+A foreigner? Not just any foreigner! I can feel they're special...
 
-The three children gather close to her.
+Erica returns and gives Claire a blanket, which she accepts silently.
 
 [Enzo]
 (too close)
 They do look good for a foreigner.
 
 [Claire]
-Uh. Oh. Hi...
-
-[Evelyn]
-They SOUND good!
+What's that supposed to mean...
 
 [Erica]
-(sniffs her hair)
-She smells good, too!
+Her voice is nice...
 
 [Claire]
-(thinking)
-What is this place...
+(smiling)
+Hmm...
 
 [Evelyn]
-There's... something about them I can't quite put my finger on.
+(sniffs her hair)
+They smell good, too!
 
 [Claire]
-Alright, alright, back off.
+(serious)
+Hmm...
 
-The three kids give her some space.
+[Evelyn]
+I swear there's something about them that's special.
+
+[Enzo]
+Oh, uh, Evelyn, did you get the ball?
 
 [Evelyn]
 Oh. My ball. I oughta retrieeeeeve it!
 
-Evelyn leaves the frame for one moment. Enzo and Erica keep looking at her.
+Enzo and Evelyn leave the frame for a moment.
 
-[Enzo]
-So.
+[Erica]
+So...
 (trying to sound cool)
 Come here often?
 
 [Claire]
-Huh. No this is literally my first time.
-What is this place...
+Huh. No this is literally my first time in this... uh...
 
-[Enzo]
-Oh. Eh... ya... got a name, foreigner?
+[Erica]
+Oh.
+Eh...
+Ya... got a name, foreigner?
 
 [Claire]
 Claire.
 
-[Enzo]
+[Erica]
 (surprised)
 A girl...
 (playing it cool)
-Name's Enzo.
+My name's Erica, by the way.
 
 [Claire]
 (looking around)
 Uh... Okay.
+
+[Erica]
+So...
+Uh...
+(finger guns)
+Atoms, right?
+
+[Claire]
+Huh?
 
 Evelyn comes back.
 
 [Evelyn]
 You know how to play ontoball?
 
-[Erica]
+Enzo comes back.
+
+[Enzo]
 (monotonely)
 It's a game where you free the ball of metaphysical constraints and try to guess what it settles into.
 
@@ -1622,31 +1676,55 @@ It's a game where you free the ball of metaphysical constraints and try to guess
 what
 
 [Erica]
-I don't think they have ontoball on her side... Let's play a game the (sic) Claire knows.
+I don't think they have "ontoball" on her side.
 
-Becky comes into the bridge, out of breath from running. She pants for a bit, fixes her hair and glasses, then addresses Claire.
+Becky comes into the bridge, walking awkwardly. She crouches and pants for a bit, fixes her hair and glasses, then addresses them.
 
 [Becky]
-Human, excuse me, the town's mayor requests your attendance to his office.
+Apologies for earlier, young hero, I... huff puff...
+
+[Evelyn]
+Hero?
+
+Evelyn turns around. Then she beams in recollection.
+
+[Erica]
+(surprised recollection)
+The murals...
+
+[Enzo]
+Oh, wowzers! I can't believe it!
+
+[Evelyn]
+(speaking fast)
+Oh my god, how many people have you guided?
+Wait no— how's it like to have a key? Do you have powers?
+Is your hair always wet? Are those your powers?
+
+[Erica]
+(perplexed)
+A hero...
+
+[Becky]
+Hey there kids, don't harrass the human with questions, alright?
+Excuse me young one, the town's mayor requests your attendance to his office.
 
 [Enzo]
 (surprised)
 "H"... "Human"?
 
 [Becky]
-Sorry kids. I'm afraid this meeting is of utmost urgency. Will you accompany me, young human?
+I'm afraid this meeting is of utmost urgency. Will you accompany me?
 
 [Claire]
-I guess so.
-(thinking)
-Why are they calling me that...
+I guess so...?
 
-The kids wave her goodbye, feeling all a bit disappointed.
+The kids say "awww" in unison. Claire and Becky leave to the right.
 
 #CAM The camera lingers on Erica for a moment.
 
-[Erica]
-...
+Evelyn and Enzo leave to the left with their heads down.
+Erica stays looking at Claire with dreamy eyes.
 
 #TRANS Campy 80s lateral wipe.
 
@@ -1768,7 +1846,7 @@ Is it money that you want? I can pay you a fee for your service! Here's a sack o
 [Claire]
 I...
 
-// Here the player gets a choice to go "Okay! I'll do it!" or "More."
+%PROMPT "Okay, I'll do it.", "More."
 
 [&]
 (thinks for a moment)
@@ -1776,11 +1854,15 @@ More.
 
 The mayor pulls another sack of gold. This isn't animated, the sacks of gold just appear piling up in front of Claire with jump-cuts.
 
+%PROMPT "Okay, I'll do it.", "More."
+
 [&]
 (with a straight face)
 More.
 
 The mayor pulls two more sacks of gold.
+
+%PROMPT "Okay, I'll do it.", "More."
 
 [&]
 (smiling childishly, her arms out)
@@ -1816,10 +1898,23 @@ The mayor returns to his seat and rearranges his tie.
 Alright, what do you want me to do?
 
 [McMayor]
-Why does it seem like you have no idea what your job is...
+Well, close that disgusting tear, of course!
+
+[Claire]
+I— I...
+
+.[[The Elder]], [[Rosetta]] and [[Rim]] enter the room. They look at Claire, very surprised. The Elder walks up to her, gives one look, then walks on.
+
+[The Elder]
+The Hero has been affected by powerful sorcery...
+Her identity has been taken away...
+
+Becky turns to the mayor.
 
 [Becky]
 Sir, if the hero needs a refresher, perhaps we can provide it with **The Ancient Scroll**, no?
+
+The Elder looks out of the window, while Rim and Rosetta talk about something.
 
 [McMayor]
 Excellent idea, Becky. Hand me the scroll and we will remind the hero of her duty.
@@ -1838,7 +1933,7 @@ Uhh....
 Becky— you're fired!
 
 [Becky]
-H- huh?
+H— huh?
 
 [McMayor]
 Have you lost the most important document in our land?
@@ -1853,11 +1948,11 @@ I didn't lose it! I simply handed it to _the Professor_ for preservation!
 [McMayor]
 The Professor Wacko?
 
-Becky turns to Claire.
+Becky pulls Claire aside.
 
 [Becky]
 (exhasperated)
-I have uhhh a meeting to go over with the mayor, heh, can you do me a huge favour and go to Professor Whynott's house, and retrieve **The Ancient Scroll** for me, would you, kid?
+Uhhh... Human, can you do me a huge favour and go to Professor Whynott's house, and retrieve **The Ancient Scroll** for me, would you, kid?
 
 [&]
 His house is just at beginning of town, ya can't miss it.
@@ -1915,7 +2010,7 @@ Sorry... I have to find some professor about a scroll.
 Oh, the weird scientist guy? He's funny.
 His house is just SOUTH of here.
 
-// If Claire walks down in the frame
+%IF Claire walks DOWN in the frame
 
 [Enzo]
 What? Where are you going?
@@ -1939,10 +2034,10 @@ You could've asked.
 
 Claire slow blinks.
 
-// Either way, they decide to come with you.
+%FINALLY
 
 [Erica]
-Hey. Let's help the human get there safely.
+Hey. We'll help you get there.
 
 (APD) Claire and the kids walk to the professor's house. Talking to the residents now, they are much more comfortable with her presence.
 
@@ -2034,12 +2129,25 @@ I can pull off its plug from the wall, rendering it harmless!
 What do you think?
 
 [Claire]
-I... um... oh...
+I... um... uhh...
 
-// The player will be give a choice of "yes" or "no" here for a split second, but it'll be interrupted.
+Claire takes a step back.
+
+[Erica]
+It's... just a battle...
+You've been in lots of those haven't you?
+
+[Evelyn]
+Awww the hero is modest...
+
+%PROMPT "Let's go", "Let's not"
+
+//The prompt above is interrupted.
+
+Claire barely has any time to think before she's pulled along by the excited Professor.
 
 [Whynott]
-Aahhh! Let's go, come on!
+We have no time to waste! Come on!
 
 Whynott rushes Claire into the house.
 
@@ -2079,8 +2187,8 @@ Erica will pull the cord and you get a draw.
 
 // Dying here brings you back to just outside the professor's atelier, even though the game hasn't been saved. It's very difficult to die, though.
 
-// If you win by Sparing, people congratulate you for it!
-// If you win by FIGHTING, Prof. Whynott displays sadness, but, ultimately concedes "Ahh, who cares. It's just a machine, anyways."
+%IF you win by Sparing, people congratulate you for it!
+%IF you win by FIGHTING, Prof. Whynott displays sadness, but, ultimately concedes "Ahh, who cares. It's just a machine, anyways."
 
 The automaton's eyes lose their light.
 
@@ -2183,7 +2291,7 @@ No, not really.
 
 == The Story ==
 Where: Hearthaven
-Summary: Claire brings the stories back to the mayor hall. Claire participates in the town's evening communal storytelling event and learns about her own role as The Hero of Spirit! This is a warm little village, she could stay here forever. Not really, though, and the elder urges her to leave to [[The Mirror]] to recover from the incident.
+Summary: Claire brings the stories back to the mayor hall. Claire participates in the town's evening communal storytelling event and learns about her own role as The Hero of Spirit! This is a warm little village, she could stay here forever. Not really, though, and [[Evangeline|the Elder]] urges her to leave to [[The Mirror]] to recover from the incident.
 
 [Erica]
 I can feel an aura of importance around that item.
@@ -2197,12 +2305,35 @@ Or not, I won't judge, I'm not your mum.
 
 (APD) You can walk back to the mayor's office. You can talk to people again but you can't go inside any other buildings.
 
+#BGM (silence)
+
+When you arrive in the office, Claire stops at the door, seeing the adults seem to be talking about something serious around the office.
+
+[Rim]
+...we've never seen one this big...
+
+[Rosetta]
+...there's only one thing this could be...
+
 [McMayor]
-Hello there, hero! Did you retrieve the item? Put it on the table.
+...we don't know yet what this is...
+
+[Rosetta]
+...Manuel, it's a tear like one of ours...
+...And we didn't open it so it could've only been the...
+
+Becky catches eye of Claire and announces her presence loudly.
+
+[Becky]
+Oh, seems like the human has returned!
+
+[McMayor]
+(surprised)
+Oh, ha ha— Hello there, hero! Did you retrieve the item? Put it on the table.
 
 // You'll have to, once again, use the item on the table from the inventory.
 
-Claire will slam the memory card on the table with a loud thud, startling the poor mayor and his assistant.
+Claire will slam the memory card on the table with a loud thud, startling everybody (except The Elder).
 
 [Claire]
 It's DELIVERED!!!!!!
@@ -2221,6 +2352,14 @@ No memory hm... Good thing the Professor invented these handy devices. They do t
 Becky, analysis.
 
 Becky pulls out a device to plug in the memory card and starts scrolling through files for a while.
+
+[Rosetta]
+I'll get a room ready for our guest.
+
+[Rim]
+I'll gather some supplies.
+
+Rosetta and Rim leave the room.
 
 [McMayor]
 What's taking so goddamn long?
@@ -2264,10 +2403,11 @@ Well, every so often a human child will be exploring unsupervised and end up her
 
 [Becky]
 Don't listen to him— it is an *honour* to serve these young humans for as long as they stay.
-Some of them just need some temporary escapism so they can explore themselves safely. Nothing like a journey though an other realm to provide that, right?
+Sometimes when the world fails to provide a... safe space for children to explore themselves,
+we offer them a little bit of escapism, so they can rest and adventure and grow into themselves...
 
 [Mayor]
-Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which — your passport's ready.
+Meanwhile I have to issue all the paperwork for the passports, the visa, ID, and arrange a travel plan to get them home. Speaking of which — here's your passport.
 
 (APD) You can pick it up. "'Dream Passport' was added to your SPECIAL items."
 
@@ -2289,25 +2429,21 @@ You'll see.
 Aha—!
 When the angel who's seen the surface blah blah the underground— oh wait no, it's not this one either.
 
-[McMayor]
-You think you'll find it in time for the story time ceremony?
+[Becky]
+Nana, you think we can tell this one during Storytime for the human?
 
 [Claire]
-The what now?
+During what now?
 
 [Becky]
-Every night we all gather together to hear a story around the village hearth. I thought it right to ask the Elder to tell our golden tale since you're here, to teach you what it is that we do.
-And yes, I'll be sure to find it by then.
-
-[McMayor]
-(sighs)
-Listen, hero, how about you check in at the inn while Becky here finds what we're looking for, hm? Maybe go for a long walk?
+Every night we all gather together to hear a story around the village hearth.
+It's just a silly thing we do.
 
 [Claire]
-Well I—
+I... see...
 
 [Becky]
-Nope! I found it!
+Yes! I found it!
 
 Becky runs out of the door with the file.
 
@@ -4177,7 +4313,7 @@ Ah, what an elegant sight graces my eyes.
 APD Claire presses on.
 
 == The Basket Knight ==
-Summary: And then comes Basket Knight who hates your guts and vows to kill you, all throughout resulting in mild inconvenience. Claire oozes positivity and politeness, making BK absolutely livid.
+Summary: And then comes Basket Knight who hates your guts and vows to kill you, all throughout resulting in mild inconvenience. Claire responds with positivity and politeness, making BK absolutely livid.
 
 .[[Basket Knight]] stands atop a wall and looks at you from up there.
 
@@ -5440,10 +5576,67 @@ Where: Aurora/Castle Of Dawn/Mirror Shrine
 Summary: Erica stands in Claire's way, dissuading her from leaving. From Erica's perspective, every human that has ever left has never come back, even their prince. In The Mirror room she sees herself reflected in Erica's fear of struggle and change, both now and in her own past. Seeing her own worries come from outside, coming from the mouth of a little girl, Claire understands what she must do. She must acknowldge her problems and choose to face them. Not deny them, not give in to hopelessness, but choose HOPE and choose to fight. Claire tells Erica of all that's _good_ about the world. Her friends, her family, all the things that make life worth living. She comforts Erica and tells her she'll do a good job. Erica cries, she doesn't want her to leave... but... she has to go, hasn't she? Erica lets go. Claire promises to return.
 
 #VS Erica
+#BGM Escapism
+
+You fight Erica. And then you win hooray.
+
+#BGM The Water's Fine
 
 == The Aventure Starts ==
 Where: Aurora/Castle Of Dawn/Mirror Shrine
 Summary: Claire looks at the memories of her past she'll be diving back into, a period of her life she has since locked behind her. But she must do it, no, she wants to do it — to become herself again, to remember why she fights, to remember her power, to figure it out and save the world.
+
+Erica walks towards the door. She hesitates, then turns around with her head down.
+
+[Erica]
+I'm... sorry for right now...
+I know we're not really friends, we... just barely met...
+I just...
+
+%PROMPT "We're friends.", "Take care."
+
+%IF you say "We're friends."
+
+[Erica]
+Oh...
+(a kind and bittersweet smile)
+...
+(down)
+I guess this is goodbye then.
+
+[Claire]
+There's a portal in the forest, right?
+I'll come back. Promise.
+
+[Erica]
+(down)
+...
+
+Erica breathes in as if summoning all her strength.
+
+[Erica]
+You really are the Hero, huh...
+
+[Claire]
+(surprised)
+...
+
+Erica walks away.
+
+Claire turns around and looks down. Vague images are reflected in The Mirror of a past Claire has long compartmentalised away. Claire kneels.
+
+Narration remarks: "Beyond The Mirror lies your way home. But you feel as if your adventure is just about to begin. In your heart, a familiar feeling flares..."
+
+Pressing Z to open the command menu shows "DREAM" glowing in rainbow colours, and confirming it unleashes Claire's will.
+
+Summoning all her courage, Claire accepts her adventure ahead. The room starts to shake, and the flames of the candles are blown out. The Mirror glows brighter and its lights are reflected in Claire's eyes. This is it.
+
+[Claire]
+Let's do it.
+
+The music swells and The Mirror's glow fills the room.
+
+#CHYRON Inner Voices.
 
 == Credits ==
 
