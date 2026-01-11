@@ -1,4 +1,4 @@
-T: INNER VOICES PILOT
+eadT: INNER VOICES PILOT
 S: by Pedro Braga
 
 == That Rainy Night ==
@@ -136,6 +136,8 @@ Bognaddit. Oh well...
 
 She skips and hums happily on her way to the school, greeting everyone in the way.
 
+On the way there, while you're walking, there will be a one second cutaway where Claire is walking with Andy, Bruno and Rodrick in a dark hallway in the school, all holding flashlights. Before you can process what happened, the game cuts back to little Claire walking and the music resumes.
+
 When she arrives at [[the school]], she stops for a moment to observe the building, awestruck.
 
 #CAM Pan upwards showing the imposing building, stopping to frame the waving canadian flag.
@@ -192,15 +194,25 @@ I'm NOT—
 
 #TRANS Smash cut
 
+A few images of different events flash on screen. The flash against Valentino, them going into the school, and a giant pillar of blue light.
+
+#TRANS Smash to black, then fade in slowly.
+
 == The Jumpcut ==
 Where: New Horizon/School/Classroom C
 Summary: Claire, Andy and Bruno wake up in the aftermath of... something. Their memories are spliced and jumbled, and they're surrounded by bizarre figures. After a few moments in hiding, Andy and Claire decide to step out and try to leave.
 
-It's raining. Nothing but the sound of thick droplets hitting the roof and the window.
+Claire slowly opens her eyes, feeling disoriented. An "eee" sound fills her ears. The camera is blurry. There's a lot of dust in the air.
 
-(Adult) Claire lays down near wall, while [[Bruno]] touches her forehead, feeling for a fever.
+You can barely make out the school patio, its torn ceiling and a hole in the ground. The exposed concrete and torn rebar makes it look like an apocalyptic site.
 
-He turns around to walk away. Claire grunts softly, Bruno jumping at the noise.
+She sees someone walk toward her, before passing out again.
+
+#TRANS Slow fade out, then smash in.
+
+Claire is in a different room. [[Bruno Brooks|Bruno]] is here hectically trying to dial on his phone, but it doesn't seem to be working.
+
+He turns around to walk away. Claire grunts softly, Bruno jumps at the noise.
 
 [Bruno]
 You're awake.
@@ -215,8 +227,8 @@ Bruno walks towards the computer on the teacher's desk and starts pressing butto
 
 [&]
 (shaking his leg)
-This is weird... I should be getting signal here but...
-I'm trying to contact anyone but I'm not getting any... Dang it!
+This is weird... I'm not getting any signal here...
+I'm trying to contact anyone but it doesn't go through... Dang it!
 
 At the player's discretion (APD), Claire gets up and might check out Bruno.
 
@@ -224,37 +236,25 @@ At the player's discretion (APD), Claire gets up and might check out Bruno.
 Uh... hey there...
 
 [Claire]
-Why are we at... a school at night?
+Are you okay?
 
 [Bruno]
-Beats me.
+Could be better.
+Are YOU okay?
+
+[Claire]
+I don't know, man...
 
 Bruno walks over to the far side of the classroom to close the window.
 
 [&]
 This thing just won't stay shut, will it...?
 
-[Claire]
-You.... What do you mean you don't know?
-
-[Bruno]
-You're one to say, you don't know why we're here either!
-
 Claire pauses for a moment.
 
 [Claire]
 (double take)
 Wh- Huh???
-
-[Bruno]
-Look I just woke up here. You were on the floor tossing about. I saw a *strange figure* outside so I brought you here into the classroom.
-
-[Claire]
-A strange figure—?
-
-[Bruno]
-(annoyed)
-I don't know! It was some— I'm as lost as you are, k?
 
 Claire looks around and calms down.
 
@@ -265,7 +265,15 @@ Huh... Did you hear that?
 
 [Bruno]
 Hear what?
-H... hey! What do you think you're doing?
+Oh hey— I  wouldn't do that if I were you.
+When I got up I saw a *strange figure* outside so I brought you here into the classroom.
+
+[Claire]
+A strange figure—?
+
+[Bruno]
+(annoyed)
+I don't know! It was some— I'm as lost as you are, k?
 
 [Claire]
 Just taking a little peek.
@@ -279,7 +287,8 @@ What? Don't "take a peek"!
 Bruno gets off the computer and gets behind Claire.
 
 [Claire]
-Woaaaah...
+(curious)
+Huh.
 
 // What Claire is seeing through the door here is one of the glowing cracks of the tear.
 
@@ -461,7 +470,7 @@ So, what do you think?
 I... I don't think that's a good idea...
 
 [Andy]
-I think there's a  vending machine on the way, too...
+I think there's a vending machine on the way, too...
 
 Claire's stomach rumbles.
 
@@ -509,7 +518,10 @@ Maybe they went away to take a nap?
 
 Claire does not respond.
 
-#BGM Very Necessary Tension
+== The Aftermath ==
+Summary: While walking around, Claire and Andy find a strange, glowing hole in the ground. The school patio shows signs of a struggle. Something happened in this place. Something really wrong. After getting the key, they are ready to leave, but they get cornered by the Twisted and Claire runs away, accidentally falling into the tear.
+
+#BGM The Aftermath
 
 (At player's discretion) The two of them walk towards the exit, still apprehensive of any surprises. Claire pulls on the entrance door. It's locked.
 
@@ -522,10 +534,7 @@ I'd assume they keep a spare key in the Principal's office.
 [Andy]
 Good thinking.
 
-(APD) Claire and Andy walk together back into the school.
-
-== The Aftermath ==
-Summary: While walking around, Claire and Andy find a strange, glowing hole in the ground. The school patio shows signs of a struggle. Something happened in this place. Something really wrong. After getting the key, they are ready to leave, but they get cornered by the Twisted and Claire runs away, accidentally falling into the tear.
+(APD) Claire and Andy walk together back into the hallways.
 
 (APD) Claire checks out the vending machine.
 
@@ -550,15 +559,24 @@ Told you they were sleeping.
 [Claire]
 What is this hole...
 
-Claire looks at them intensely.
+[Andy]
+Eh, it's just a hole.
 
-Andy chuckles.
+Claire looks at hole in the ground intensely.
 
 [Andy]
+(serious)
+I just want to get out of there before this whole building collapses or something.
+
+Claire continues looking at the hole. Andy chuckles.
+
+[Andy]
+(smiling)
 You think it's a zombie apocalypse too?
 
 [Claire]
-Huh? I don't know what to think, man...
+Huh?
+Oh, I don't know what to think, man...
 
 [Andy]
 Check this out.
@@ -580,9 +598,10 @@ Andy looks at Claire and shrugs.
 I think it's aliens.
 Aliens sprouted from the Earth's core and replaced all the students with doppelgangers.
 Either that or it's theater club rehearsal.
+Or like a prank or something.
 
 [Claire]
-Let's keep walking, please.
+Something tells me it's not a PRANK.
 
 %IF (APD) Taking a step towards the people.
 
@@ -699,7 +718,6 @@ No, you're shaking.
 [Claire]
 Yeah this is...
 This is really freaking me out...
-If this IS a prank, I'll—
 
 [Andy]
 Can I Check you?
@@ -745,60 +763,6 @@ Claire closes her eyes. In her mind's eye, though poorly, she manages to recall 
 
 #TRANS Slowly fade out, then in.
 
-In the blurry memory, Claire, Andy, Bruno and Rodrick are standing in front of the school.
-
-// I wonder if anyone will recognise Rodrick from the bullet hell section.
-
-[Andy]
-Whose do you think this one is?
-
-[Claire]
-(thinking)
-It doesn't matter— Well, I guess it's nobody's.
-The seamstress says she can't close it, so...
-
-[Bruno]
-There's an insane amount of psychic energy oozing from there.
-It might be dangerous.
-
-Claire scoffs.
-
-[Claire]
-(smiling confidently)
-Eh. Someone probably tripped on a loose thread or something.
-I'll mend it and then we'll have some fries.
-
-[Rodrick]
-No burger today?
-
-[Andy]
-She's trying to lose weight.
-
-[Rodrick]
-Ha, is it cuz Lauren Kelly is in town???
-
-[Claire]
-(smiling)
-Let's get this over with, guys!!!
-
-Claire runs, excitedly and pushes on the door of the school with force.
-
-[Claire]
-Hiya!!!!
-
-#TRANS Match cut to present — when the doors are opened, Claire gasps.
-
-Claire gasps for air.
-
-[Andy]
-(worried)
-What?
-
-[Claire]
-I... remembered something...
-We... came here...
-We were looking for something...
-
 [Andy]
 ...
 You know, uh...
@@ -817,27 +781,16 @@ Huh?
 [Andy]
 (exasperated, but quietly)
 I'm playing it cool, but...
+Do you... remember... like...
+Getting here?
+
+[&]
 It's like— at some point I was riding a bike, looking for something, you called me on the phone...
 And then, suddenly, like... like a jump cut, there I am in the patio...
 
 // The last thing he remembers is being called by Claire during an event that's revealed in [[Episode 04]].
 
-[Claire]
-...
-
-[Andy]
-I guess...
-We fucked around and found out, huh?
-
-[Claire]
-Maybe... it's a...
-An explosion— Like, a gas leak?
-That big hole in the ground...
-
-[Andy]
-That would explain a lot... I think...
-
-[Andy]
+[&]
 (preoccupied)
 Actually...
 What did you call me for, anyways?
@@ -868,9 +821,35 @@ It's Mr. Milkshakerrr—
 [Andy]
 (smiling)
 I'm not living that one down am I?
-Okay, let's get the HELL outta here.
 
-The two of them get out of the room, feeling a bit more relieved.
+[Claire]
+Wait!
+
+Claire brings her hands to her chin, trying to make sense of her memories.
+
+[&]
+I vaguely remember... we coming to the school...
+We were looking for something...
+
+[Andy]
+I guess...
+We fucked around and found out, huh?
+
+[Claire]
+Maybe... it's a...
+An explosion— Like, a gas leak?
+You know, with that big hole in the ground...
+
+[Andy]
+Like... spontaneous?
+Well... it would explain the disorientation...
+
+[Claire]
+(smirking)
+Hehe...
+Are we detectives or what?
+
+The two of them get out of the room, feeling a bit more relaxed.
 
 [&]
 (smiling)
@@ -995,7 +974,7 @@ She wakes up and looks at the cat. It stares back for a moment, then hops away.
 
 From within the corridor, an ominous yet comforting voice hums and calls Claire's name.
 
-// Actually, these are all people that play a role in the story later! Lily, Guilherme, Rodrick, Tim, Nadia, etc.
+// Actually, these are all people that play a role in the story later! [[Lily]], [[Guilherme]], [[Rodrick]], [[Tim]], [[Nadia]], etc.
 
 // As Claire walks by, the HP meter pops up. No DP meter yet.
 
@@ -1041,7 +1020,7 @@ Claire looks around.
 
 [&]
 (jokingly)
-You wouldn't happen to know the way out, would you?
+You wouldn't happen to know a way out, would you?
 
 The cat jumps off her lap and then jumps through the bathroom window.
 
@@ -1183,8 +1162,10 @@ Oh, the teen age — confusing times... your body is changing... hormones are ra
 Huh? I'm twenty years old... I mean... Is...
 (looks around)
 Is this on television???
+IS— IS THIS A FREAKING PRANK SHOW?????
 
 [The Mystery Kid]
+(cackling)
 HAHAHA! Claire, you're killing me!
 
 They take off their hat and clean it with the edge of their sleeve.
@@ -1290,7 +1271,8 @@ I know a place... a place away from all the mess of the world.
 I can get you there, you take five and then we talk more about it all.
 
 [Claire]
-That sounds good. I think.
+A safe place, huh...
+I'd like that.
 
 [The Mystery Kid]
 (winking)
@@ -1360,7 +1342,7 @@ Are all those people really... what happened to them...?
 
 [The Mystery Kid]
 Claire, love, don't be getting stage fright right now.
-You're my casting call — if I believe in you, that means you should believe in yourself too.
+You're my casting choice — if I believe in you, that means you should believe in yourself too.
 
 [&]
 Also, the talking cat here, Pierre, will be assisting you throughout this journey.
@@ -1392,7 +1374,7 @@ Break a leeeeeg!
 Where: Zenith Forest
 Summary: Claire walks through the sombre forest, trying to find her way out. She follows a small black cat into the woods and down the creeks until she sees an abandoned treehouse. When she opens its door she's surprised by a portal to another world.
 
-Claire stands around in the moonlit forest, just outside of the school.
+Claire stands around in the moonlit forest, just outside of the school. You can still see some of the rubble around.
 
 Pierre stands near her.
 
@@ -1408,7 +1390,8 @@ After a moment to readjust, she begins walking forward.
 
 [Claire]
 Alright... I should... get into the city and then...
-I should probably notify CONTROL and the psychic containment team...
+I should probably notify the people at MIND...
+I guess they'll be useful for something after all...
 
 Claire makes an expression of annoyance. Then she looks at Pierre.
 
@@ -1591,7 +1574,7 @@ A... a foreigner...?
 [Evelyn]
 A foreigner? Not just any foreigner! I can feel they're special...
 
-Erica returns and gives Claire a blanket, which she accepts silently.
+Erica returns and gives Claire a blanket, then a cup of tea.
 
 [Enzo]
 (too close)
@@ -1876,8 +1859,6 @@ Please, hero! This is all I have!
 [Claire]
 (smiling)
 Okay yeah I'll do it.
-(thinking)
-Wait, what did I just agree to...?
 
 [McMayor]
 (recomposing himself)
@@ -1886,6 +1867,23 @@ Excellent.
 [Becky]
 (with complete sincerity)
 Masterful play, sir.
+
+[Claire]
+Wait, what did I just agree to...?
+
+[Becky]
+Well, we want to help you save your world.
+Your family, your friends, they're in danger, aren't they?
+
+[Claire]
+(down)
+...
+
+[Becky]
+When it happened, we felt it from here.
+The shockwave shook the earth.
+I can't imagine what you must've gone through being so close to the epicentre.
+No wonder you're so disoriented.
 
 The mayor returns to his seat and rearranges his tie.
 
@@ -1903,15 +1901,25 @@ Well, close that disgusting tear, of course!
 [Claire]
 I— I...
 
+[Becky]
+(mumbling)
+Oh yeah it does look quite unsightly, doesn't it...
+
 .[[The Elder]], [[Rosetta]] and [[Rim]] enter the room. They look at Claire, very surprised. The Elder walks up to her, gives one look, then walks on.
 
 [The Elder]
 The Hero has been affected by powerful sorcery...
 Her identity has been taken away...
 
+The Elder turns to Becky.
+
+[&]
+Becky, we have something to discuss.
+
 Becky turns to the mayor.
 
 [Becky]
+Oh... uh... um...
 Sir, if the hero needs a refresher, perhaps we can provide it with **The Ancient Scroll**, no?
 
 The Elder looks out of the window, while Rim and Rosetta talk about something.
@@ -1927,7 +1935,7 @@ What?
 You don't have it?
 
 [Becky]
-Uhh....
+Well, you see....
 
 [McMayor]
 Becky— you're fired!
@@ -1953,8 +1961,6 @@ Becky pulls Claire aside.
 [Becky]
 (exhasperated)
 Uhhh... Human, can you do me a huge favour and go to Professor Whynott's house, and retrieve **The Ancient Scroll** for me, would you, kid?
-
-[&]
 His house is just at beginning of town, ya can't miss it.
 
 [Claire]
@@ -2036,8 +2042,17 @@ Claire slow blinks.
 
 %FINALLY
 
+(APD) Claire can walk away. When she gets a few hundred feet away, Erica comes by running.
+
 [Erica]
-Hey. We'll help you get there.
+(worried)
+Uh, wait!!!
+(smiling)
+Actually, we'll help you get there.
+
+[Claire]
+(confused, but glad)
+Oh, sure, okay.
 
 (APD) Claire and the kids walk to the professor's house. Talking to the residents now, they are much more comfortable with her presence.
 
@@ -2294,7 +2309,23 @@ Where: Hearthaven
 Summary: Claire brings the stories back to the mayor hall. Claire participates in the town's evening communal storytelling event and learns about her own role as The Hero of Spirit! This is a warm little village, she could stay here forever. Not really, though, and [[Evangeline|the Elder]] urges her to leave to [[The Mirror]] to recover from the incident.
 
 [Erica]
-I can feel an aura of importance around that item.
+(worried)
+Hey, uh... can we talk about something...
+
+[Claire]
+What is it?
+
+[Evelyn]
+Yeah, what is it Erica?
+
+[Erica]
+Um... nevermind... it's nothing.
+
+[Claire]
+Are... you sure?
+
+[Erica]
+Oh, wow. I can feel an aura of importance around that item.
 You should go to the Mayor's office immediately before you lose it.
 
 [Claire]
@@ -2575,18 +2606,32 @@ with *anihilation*.
 
 #TRANS Smash to black with a lightning sound.
 
+[&]
+We thought it but a legend...
+But, today...
+
 #TRANS Fade in
+
+Another image from the real world, this time it's the school tear.
+
+[&]
+A sinistrous force has awakened in your side.
+And the threads of fate begin to unravel...
+
+#TRANS Slow fade out and then fade in.
 
 Everybody is silent, solemnly.
 
 Claire stands up.
 
 [The Elder]
-Hero, you must leave this instant to pursue your destiny.
+Hero, you must leave this instant and pursue your destiny.
+
+Rosetta gets alarmed.
 
 [Rosetta]
-Elder, can we at least pack her some items for her travels?
-Please allow her to rest if just for a short while.
+Elder, please allow her to rest if just for a short while.
+While we pack her some items for her travels.
 
 [The Elder]
 Hm...
@@ -2608,25 +2653,7 @@ But, Claire, you're safe here with us for as long as you stay, okay?
 
 then continues leaving.
 
-[McMayor]
-Even if your realm does end up being destroyed you will be able to stay here.
-
 The crowd begins to disperse.
-
-[Claire]
-I'm... sorry... you've all been so nice and hospitable, but...
-
-Another pause.
-
-[&]
-My dad's gotta be worried sick. And there's those two guys stuck at school, too...
-I should probably call someone about it...
-
-[McMayor]
-Didn't you hear it? Your realm is going to be destroyed! There will be nothing to return to.
-
-[The Elder]
-The human must go to her otherworld.
 
 [Evelyn]
 Nana... Can the human not stay with us? We wanted to play—
@@ -2655,7 +2682,7 @@ More like _lost_ myself here...
 
 [Rosetta]
 Ah ha ha ha ha! "lost mys-" ha ha ha!
-Ohhh darling, Manuel told me that your mind is all scrambled, isn't it right, hun?
+Ohhh darling, Nana told me that your mind is all scrambled, isn't it right, hun?
 Oh, don't worry — it happens!
 See, I'll be preparing your room: once you get a good night's sleep, your memories will come flowing back to you in no time! Unless they don't, in which case, that's unfortunate.
 
@@ -2728,7 +2755,7 @@ Ghmghmm... Morning...
 (wiping her eyes)
 Daaad!
 
-Claire wakes up and walks towards the door, and peeks through it.
+Claire wakes up and walks towards the door, and peeks through it. Rosetta is nowhere to be seen.
 
 [Claire]
 Dad... I got cramps...
@@ -2780,6 +2807,11 @@ Oh, yeah, they're stickers. The glow-in-the-dark kind.
 Claire laughs.
 
 [Claire]
+I think I understand...
+
+A brief pause.
+
+[&]
 This... this is a dream...
 Isn't it...
 
@@ -2817,7 +2849,7 @@ Sorry, it's a weird question... but...
 I've never met someone from another realm before...
 Whenever I've heard of Earth... it's so strange...
 (she starts brushing her hair with her hands and looking away from Claire)
-Evelyn told me you have something called the "Laws of Physics" that... make your body behave in just one way...
+Nana told me you have something called the "Laws of Physics" that... make your body behave in just one way...
 
 [&]
 And since our Laws of Stories don't apply there... sometimes things just... happen? With no cause or reason why? That sounds... so... alien to me.
@@ -2828,7 +2860,10 @@ And since our Laws of Stories don't apply there... sometimes things just... happ
 [Erica]
 I wish I could visit your side, but...
 The threshold, we can't... you know...
+Nana's training me to be a seamstress like her...
+So maybe one day I'll get to...
 
+Erica trails off.
 A long pause.
 
 [Erica]
@@ -2856,9 +2891,11 @@ Well, t- they'd be chill after they see I'm nice.
 [Claire]
 Ha. If you're nice that's when they get you harder.
 I wish I'd grown up in a place like this.
+Small village, tight-knit community...
 Your people are so nice...
 Y'know, your world seems cool.
 Dream world.
+Beats... uhh... rubbles and monsters, I think...
 
 [Erica]
 (perplexed)
@@ -3437,7 +3474,7 @@ You know what?
 If this is my dream... if this is my story... I'll...
 I'll DREAM my own dream now.
 
-Narration reads "However small, you felt something begin to resonate within your command menu."
+Narration reads "However small, a strange feeling resonates within you."
 
 When the player chooses the pulsating rainbow option, Claire will close her eyes, smile and open her arms. She stays there for a moment, feeling the rain. Then, suddenly, the clouds open partly, letting a growing pillar of sunlight in. The statue rumbles and then in a flash, the town area flashes into partial colour tile by tile (like in a GBC game).
 
@@ -5262,7 +5299,29 @@ Claire goes up the stairs. The music picks up. Up there Erica seems to be waitin
 
 [Erica]
 Hi!!!
-Oh... you look... despondent...
+
+[Claire]
+Hm???
+Oh, hi.
+I thought you weren't allowed here?
+
+[Erica]
+Oh, yeah, haha... could you, uh, keep this between us?
+
+[Claire]
+Oh, okay.
+
+A brief pause, Erica looking Claire's face.
+
+[Erica]
+What's wrong?
+
+[Claire]
+Wrong?
+
+[Erica]
+You look... despondent...
+I think that's what this face means...
 
 [Claire]
 I...
@@ -5283,8 +5342,8 @@ This isn't a dream, is it?
 [Erica]
 Whaaaat?
 Oh, oh no.
-Ha ha... I've heard about that happening.
-No, yeah, no, things are just different here.
+Ha ha... why do humans always...
+No, things are just fuzzy and weird here.
 
 [Claire]
 (looks at her worried and confused)
@@ -5304,8 +5363,8 @@ She turns to Claire.
 Ahem.
 Hey, uh...
 I'll answer ALL your questions...
-IF!
-For every question I answer you answer one of MINE back!
+IF!!!
+For every question I answer, you answer one of MINE back!
 
 [Claire]
 Uh... sure.
@@ -5409,7 +5468,7 @@ It's the green stuff that grows from the ground.
 [Erica]
 Oh, yeah! Wait... that didn't count!
 Hmm...
-What... uh... happens when you gra... dubate...
+What... uh... happens when you gra... du... grad...
 
 [Claire]
 Graduate?
@@ -5459,7 +5518,7 @@ Hey, this is MY turn!
 
 [Erica]
 (pensive)
-Okay...
+Go on ahead, me fair lady arghhh—
 
 [Claire]
 Hm...
@@ -5472,9 +5531,8 @@ Ooo what's space?
 Uhhh....
 
 [Erica]
-This is another realm, a distinct tridimensional continuum from EARTH's.
-Our space-time fabric is different.
-Yours is all stretchy and weird... it's woven differently...
+This is another realm, a distinct tridimensional continuum and spacetime fabric from EARTH's.
+Yours is all stretchy and weird... it's woven all wonky donky...
 I've been learning some sewing patterns that—
 
 The two of them come to a new room of the castle.
@@ -5508,13 +5566,13 @@ This one is my favourite.
 (proudly)
 That's where I come in!
 Or... will come in...
-Nana's training me to be a seamstress like her...
 
 [Claire]
+Oh right, you're training to be a...
 You'll be the head of "kidnapping children for character development"...
 
 [Erica]
-Yes!!!  Isn't it cool?
+Yes!!! Isn't it cool?
 
 [Claire]
 (awestruck)
@@ -5530,15 +5588,25 @@ Just... somewhere in the woods?
 Oh! No, no. We open portals on a case by case basis...
 Each portal is made for a human.
 And then when the human's journey is over it closes itself shut.
-Speaking of that...
+
+[Claire]
+Speaking of, can you show me where the mirror is?
+
+[Erica]
+Oh, I'm not allowed in the shrine.
+They say it's for grownups only.
+Oh. Aaaahh I just remembered my room is a mess!
+I'll go clean it!!
+
+[Claire]
+Wait how do I get to the—
 
 Erica runs out of frame again.
 
-(APD) You follow her to the next.
-
-[Claire]
-Huh?
+[&]
 Aaaand she's gone.
+
+(APD) You follow her to the next room.
 
 == The Ruined Castle ==
 Summary: Claire explores the castle on her own, running into scary dragons and dinky nisser. As she navigates the perilous rooms, she wonders what this kingdom could've been in its glory days.
@@ -5563,13 +5631,284 @@ When you walk there there's a big part of the castle and many enemies to fight.
 // 4.1. Using 'Nitpick' will make them nitpick back at you, diminishing your DP.
 // 4.2. You can ACT "Step On" after they prank you, and they will learn their lesson. Doing it too early won't work!!!
 
+== Erica ==
+Where: Aurora/Castle Of Dawn/Sleeping Quarters
+Summary: Claire gets closer to the shrine, but her attention is grabbed by Erica, who wants to show Claire her room. She shows Claire all her human trinkets, souvenirs she kept from all the humans she has met in the past, as well as new items she acquired through Aracnisse, including a TV in which they watch a live broadcast of helicopters and personnel trying to rescue Andy and Bruno. Claire feels more like she has to go back. Erica runs out of the room suspisciously.
+
+By walking around the winding staircases and corridors, you can find your way to the living quarters.
+
+When you get there, Erica will come out of the room and (!) at your sight.
+
+[Erica]
+Oh, there you are.
+I was gonna fetch you...
+Did you have fun with the dragons?
+
+Claire, looking all dirty and beat up replies:
+
+[Claire]
+Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh sure!
+
+[Erica]
+Wicked. Come in!
+
+Claire comes into the room. It has a bed, some shelves and windows, and lots and lots of items and trinkets.
+
+Erica is jumping at the bed.
+
+[Erica]
+Welcome to me room!!!
+
+She stops jumping by letting herself fall on her back.
+She stays laid down for a moment, then sits at the edge of the bed.
+
+[Claire]
+Woah... there's a lot of uh... stuff...
+
+[Erica]
+I know, right! Isn't it awesome?
+
+[Claire]
+I thought you were going to clean it?
+
+[Erica]
+I did!
+Okay so do you want a tour?
+We can do it museum style... you see what catches your attention and then I give additional context.
+
+[Claire]
+Additional context.
+
+[Erica]
+Oh, yeah, you'll probably know more about everything since you're the human expert.
+
+You can interact with the many items around.
+
+%IF interacting with the shelves...
+
+[Erica]
+You want thingamabobs? I got twenty or so.
+I don't know what they're for but I can't have enough of 'em!
+
+%IF interacting with the bed.
+
+[Erica]
+Don't get too comfy, this bed is for jumping only!
+I'm not allowed to jump on my bed back home so I comandeered this one.
+
+"There's some kind of travel backpack under the bed. You recall going hiking in the park as a kid."
+
+%IF interacting with the wall.
+
+[Erica]
+(excited)
+Ooh! So. My job used to be—
+Uh, before *The Bleakness* made everything dead...
+Whenever humans would come they would come all anxious.
+That's what *the prince* told me...
+So I would hang out with them and we'd play games for hours...
+We'd tell jokes and laugh.
+(proud)
+And it'd make them better. I think.
+At the end they always...
+(sad)
+Left...
+(smiling)
+Now all I have of that time is, yeah, that random pile of clothing acessories.
+I didn't steal them, they just forgot them, okay?
+
+"A pile of human items. Amongst them there is a sandal, an eraser and an asthma inhaler."
+
+%IF interacting with the TV.
+
+[Erica]
+This is my TV!
+Bought it from a nisse. Cost me a whole year of allowance...
+T'was worth it, though, I love watching human shows.
+
+[Claire]
+Oh, you have some cassette tapes and stuff?
+
+[Erica]
+Huh?
+
+[Claire]
+Y'know, VHS? Uhh... Betamax?
+
+[Erica]
+I just watch the TV I guess.
+Look, I'll show you.
+
+Erica turns on the TV with a controller. The light of the tube fills the room with a serious glow.
+
+[Erica]
+Cool! Action movie!
+
+[Claire]
+Is that... the news???
+Turn the volume up.
+
+[Erica]
+Wait!!! You can do that???
+
+Claire takes the remote from her hand and sits on the bed.
+Erica puts her head on Claire's shoulder. Claire readjusts and scooches a little to the right. Erica nearly falls, gets flustered and sits up straight.
+
+From the TV you can hear helicopters and the wind.
+
+[News Anchor]
+...and so the search continues for the missing teenagers in the school...
+
+[Erica]
+Woah! That's so much better.
+
+Claire stares at the TV, the seriety of the situation coming back to her.
+
+[Claire]
+That's... right now???
+
+[Erica]
+OH THATS THE NEWS?? I THOUGHT THAT—
+
+Erica sees Claire being quiet and also gets quiet.
+
+[News Anchor]
+...rescue team is still trying to enter the building, with no success so far...
+...CSIS agents and the federal police are setting up a perimeter, so we can't... (noise) ...more information at this moment, but we'll keep you updated...
+
+Claire puts her forehead on her wrists.
+She sighs.
+
+[Claire]
+They're not... gonna get in...
+I've been there there's some kind of psychic... Ugh...
+
+Erica gets up of the bed and scoots around. She gets a backpack filled with things, and some more items and discreetly leaves the room, without Claire noticing.
+
+[Claire]
+This... this sucks so much...
+If all of this is true, I should be able to help them, right?
+I got in and then out...
+I guess with a portal I could...
+
+Claire starts to breathe heavily.
+
+[Claire]
+And the Mirror can help me be less disoriented...
+
+Then Erica leaves.
+
+At player discretion, you can leave, too.
+There are other rooms to explore, like the former prince's and a few more.
+
+// In Prof. Whynott's room you can find some old inventions and a key to the basement of the castle.
+
 == The Shrine Of Reflection ==
 Where: Aurora/Castle Of Dawn/Mirror Shrine
 Summary: Claire finds Erica again, but something about her humour has shifted. Erica reveals the true danger of Claire's situation and empathises with Claire's aprehension. As much as she wants to be the next seamstress Erica herself is scared of taking that role. She's scared of growing up. She's scared that everything will change. She had never known why kids fall into The Other Side and why they help them, but now she knows... EARTH must be a horrible place.
 
+(APD) Claire goes up the stairs to the shrine. The music goes from silent to mysterious and ominous.
+
 #BGM Shrine of Reflection
 
-Claire walks. Good for her.
+As she walks, several mirrors decorate the walls.
+
+%IF you interact with any of them:
+
+[Claire]
+Is this the mirror?
+...
+I don't get it.
+
+%FINALLY
+
+
+[Erica]
+(echoing)
+You know... I always wondered why they came... and why they left...
+What kind of place they've returned to...
+
+The music gets louder and louder the deeper you go into the shrine. A voice echoes through the winding tower as if reflected by the mirrors.
+
+[Erica]
+(echoing)
+When he told me we had to make them feel safe...
+It gave me the impression.
+EARTH... it's not a very kind place, is it?
+
+Claire continues. The light becomes darker and more somber. Yet louder the music sounds.
+
+[Erica]
+There's so much the grownups don't tell you.
+About your future. About the story. About **The Angel**.
+
+Claire continues further, seeing a large door from which an eerie glow comes from. The music gets tenser.
+
+[Erica]
+(echoing)
+Human. No... Hero of Spirit...
+Right before you lies The Mirror.
+And on the other side... your future...
+Crossing this threshold, venturing deeper within yourself...
+Solving the mystery behind that tear... Risking your life for it...
+This is your destiny, isn't it?
+And yet...
+
+Walking a little more, Claire gets into [[The Mirror]]'s room. What looks like an enlarged hand mirror floats in the center of a hollow tower which walls are covered by shelves and shelves of books.
+
+At the middle of [[The Mirror]], Erica is kneeling.
+
+[Claire]
+Erica?
+
+With your back turned to you.
+
+[Erica]
+Do you want to go back there...
+
+[Claire]
+I...
+Well, I'm not really looking forward to it, huh...
+
+A brief pause.
+
+[Claire]
+B—
+
+[Erica]
+That's okay.
+(smile)
+I've worked something out.
+You... me...
+(excited)
+Let's run away together!
+To some place far far away!
+
+Claire stops.
+
+[Erica]
+I know, there's some kinks to work out, but,
+I've been thinking about this for a while...
+We CAN get human food in here, and it doesn't spoil... and wherever you go the monsters can't find us...
+There will be no bullies... and no grumpy adults telling us what to do...
+
+[Claire]
+Huh...?
+
+[Erica]
+You know how I'm training to be a Seamstress like Nana...
+I really want to be one, but... thinking about how their lives are in my hand...
+It makes me sick to my stomach.
+So... I get you. I see that in you.
+You don't really wanna do this, do you?
+But you'll do it because you "have to."
+Well...
+
+Erica turns to you and smiles, brandishing a needle.
+
+[Erica]
+I won't let you do it.
+I won't let you die.
 
 == Let's Run Away Together ==
 Where: Aurora/Castle Of Dawn/Mirror Shrine
@@ -5578,20 +5917,226 @@ Summary: Erica stands in Claire's way, dissuading her from leaving. From Erica's
 #VS Erica
 #BGM Escapism
 
-You fight Erica. And then you win hooray.
+Battle.
 
-#BGM The Water's Fine
+[Erica]
+They've been lying to you, you know...
+This Mirror won't bring you home...
+
+Erica throws needles at you.
+
+[Erica]
+They want you to go on an adventure.
+The same kind we give the kids, that's what The Mirror does.
+Then, you'll have your memories back... and you'll remember how to fix everything...
+
+Erica attacks you. Claire dodges.
+
+[Erica]
+It all makes sense now.
+They come hiding and we try to give them any warmth we can...
+But it isn't enough... it never was...
+
+[Claire]
+WHY ARE YOU ATTACKING ME????
+
+[Erica]
+I'm proving a point!
+You think you can face any of that?
+This should be nothing in comparison!
+
+Erica does ballet moves, throwing needles at you (she throws two bunches, and you dodge by occupying the negative space).
+
+[Erica]
+And then they leave... they always do..
+Even our prince, who I thought would stay... even he left.
+And then they have never come back.
+
+[Erica]
+Claire, they reason why they hired you as a guide is...
+If you go there alone...
+You'll die.
+
+Same move, slightly faster.
+
+[Erica]
+I shouldn't have but... I was curious and then I peeked.
+Your life... your memories... your life isn't the happiest either, is it?
+
+Same move, faster.
+
+[Erica]
+Do you understand?
+Not remembering any of that... it's your second chance.
+Or would you rather go home to the bullies... to the monsters...
+That is, if you even get that far.
+With so much sadness... so much pain...
+If you go out through the mirror you could die.
+
+Same move, much faster.
+
+[Erica]
+Why aren't you saying anything! Are you coming or not? Are you gonna stand there frozen? Mirror… Run away… There's only two options…
+
+[Claire]
+I... I don't know what to do...
+
+%IF you haven't attacked so far:
+
+[Erica]
+Fight back!
+
+[Claire]
+What? No!
+
+Same move, yet faster.
+
+[Erica]
+Is that what you plan to do out there?
+
+[Claire]
+I'm not gonna hit you???
+You're just a girl!
+
+[Erica]
+So are you!
+
+Same move, much faster.
+
+[Erica]
+You can't avoid this— you have to choose.
+
+[Claire]
+I... I...
+
+Same move, the fastest and longest.
+
+[Claire]
+Erica, your family... your—
+You shouldn't leave them behind...
+
+[Erica]
+Dodging the question, are we?
+Try dodging *THIS*.
+
+Erica charges a stack of needles. It ominously takes longer then usual, until another stack popus up leaving no room to avoid them in the bullet board. Then, suddenly, all of them turn purple and travel slowly toward her SOUL.
+
+%IF You get hit by the "seemingly undodgeable" attack.
+
+[Erica]
+Answer me!
+Sooner or later, you'll have to *face this problem head on*.
+
+// The highlighted phrase is coloured in purple, Claire's SOUL's colour, hinting that you should dash through the bullets. If Claire dashes at any time while the bullets are purple, the bullets become semi-transparent by the duration of the dash.
+
+%FINALLY
+
+Here, the player must press Z to dash _through_ the bullets.
+
+[Claire]
+The story and... the tapestries... you showed them to me, right?
+Don't they say I have to—
+
+[Erica]
+Some... flippin'... story they've told you???
+Claire, I believe we can make our own story!
+What story do *YOU* want to tell?
+
+// The following attacks consist of patterns that require you to not passively avoid danger, but actively seek bullets to dash through.
+
+Next turn, DREAM will be resonating (glowing rainbow) in your battle menu. Clicking it now diplays several different things to DREAM about.
+
+Bullies.   Ice Cream.   Dad.
+Dancing.   Rubble.      Hiking.
+
+// Winning this battle, you must first dream of the bad things, then of the good things that make your life worth returning to. Only then, you stand firm in front of Erica as a hero.
+
+Claire DREAMs of the bullies and all the pain she felt. Then, she dreams of going home to dad... of being hugged and held. She dreams of going for ice cream later... The DREAM menu stops resonating.
+
+[Erica]
+Why... would you want to return to a world that's hurt you so much...
+
+[Claire]
+There's... a lot of scary things down there...
+But... there's a lot of good things, too...
+
+[Erica]
+...
+
+Erica attacks you with little falling stars. Claire stands firm (ACT).
+
+[Claire]
+Erica.
+
+Erica falters. Claire stands firm again (ACT).
+
+[Claire]
+Erica. Stop.
+
+Erica shakes and cries. Claire stands firm once more (ACT).
+
+[Claire]
+Erica. It's okay. I'm gonna be fine.
+
+Erica replies with a shaky voice.
+
+[Erica]
+I... don't want you to go...
+I don't want this to change...
+I thought you... understood me...
+
+Erica stops attacking. Claire kneels and hugs her (ACT).
+
+[Claire]
+Hey... hey...
+It's okay...
+
+With the hug, the battle UI leaves, and the music goes silent.
+Erica cries. The clouds outside dissipate, and sunlight peeks in.
+
+Claire holds Erica in her arms as her knees weaken and she falls to the ground.
+
+[Claire]
+It's okay...
+I'm gonna be okay...
+
+[Erica]
+W... what if I...
+What if I can't do it...
+What if I'm not strong like you are...
+
+[Claire]
+Erica.
+You're a talented kid.
+You nearly kicked my ass.
+
+Erica laughs, then sniffles.
+
+[Erica]
+I'm...
+Oh. Oh what am I doing.
+
+Erica swallows her tears and dries her face with her sleeves.
+
+[Erica]
+Don't worry I will now Get Out Of Your Freaking Way...
+Welp. This was silly.
+
+Claire smiles kindly at her and touches her shoulder. Erica walks away from Claire, toward the door.
 
 == The Aventure Starts ==
 Where: Aurora/Castle Of Dawn/Mirror Shrine
 Summary: Claire looks at the memories of her past she'll be diving back into, a period of her life she has since locked behind her. But she must do it, no, she wants to do it — to become herself again, to remember why she fights, to remember her power, to figure it out and save the world.
 
+#BGM The Water's Fine
+
 Erica walks towards the door. She hesitates, then turns around with her head down.
 
 [Erica]
-I'm... sorry for right now...
-I know we're not really friends, we... just barely met...
-I just...
+I'm... so sorry for right now...
+We're not even really friends, we... just barely met...
+I just thought...
+Well, now you know I'm an idiot, haha...
 
 %PROMPT "We're friends.", "Take care."
 
@@ -5599,8 +6144,13 @@ I just...
 
 [Erica]
 Oh...
-(a kind and bittersweet smile)
-...
+
+She smiles to you, though she feels sad you're leaving.
+
+[Erica]
+Y'know, I don't know what half those things are...
+EARTH.
+Whatever you see in it... must be so beautiful if it makes up for all of this mess...
 (down)
 I guess this is goodbye then.
 
@@ -5612,27 +6162,41 @@ I'll come back. Promise.
 (down)
 ...
 
-Erica breathes in as if summoning all her strength.
+Erica breathes in as if summoning all her strength. Then she smiles.
 
 [Erica]
-You really are the Hero, huh...
+(smiling)
+I'm sorry for kicking you in the face.
 
 [Claire]
-(surprised)
 ...
+
+%FINALLY
 
 Erica walks away.
 
 Claire turns around and looks down. Vague images are reflected in The Mirror of a past Claire has long compartmentalised away. Claire kneels.
 
-Narration remarks: "Beyond The Mirror lies your way home. But you feel as if your adventure is just about to begin. In your heart, a familiar feeling flares..."
+Narration remarks: "Beyond this threshold lies your way home. But you feel as if your adventure is just about to begin. In your heart, a slightly more familiar feeling resonates."
 
 Pressing Z to open the command menu shows "DREAM" glowing in rainbow colours, and confirming it unleashes Claire's will.
 
-Summoning all her courage, Claire accepts her adventure ahead. The room starts to shake, and the flames of the candles are blown out. The Mirror glows brighter and its lights are reflected in Claire's eyes. This is it.
+Summoning all her courage, Claire accepts her adventure ahead. Storm clouds gather around the tower, bursting the windows open. The room shakes, and the flames of the candles go out one by one. Wind blows Claire's hair.
+
+The Mirror glows brighter and its lights are reflected in Claire's eyes. This is it.
 
 [Claire]
-Let's do it.
+I... I understand now...
+Somehow... I stumbled upon this... world...
+Or did I?
+Either way...
+This is something really important, isn't it?
+
+[&]
+(chuckling)
+Heh. What the hell.
+Whatever it is I have to do… Whatever it is I have to see…
+Please… Open my eyes…
 
 The music swells and The Mirror's glow fills the room.
 
@@ -5663,7 +6227,7 @@ Bad news. Security footage from across the street — O'Connor, Brooks, Miller A
 Well, we were planing to send them in there anyways, so...
 
 [Agent Taylor]
-They must've had the initiative to investigate the event...
+They must've had the initiative to investigate the event before it appeared in our radar...
 
 [Agent Weaver]
 That or got caught in it. Or they caused it. Just as likely for those kids.
@@ -5678,7 +6242,7 @@ Agent Taylor's call comes through.
 Hello? Oh yes, Dr. Fay, this is Agent Taylor from the Memetics Insight and Neutralisation Division...
 
 [&]
-...it appears to be a class four memetic incident, with a high structured psycho-electric shield preventing the extraction of any samples.
+...it appears to be a class four memetic incident, with a highly structured psycho-electric shield preventing the extraction of any samples.
 
 [Agent Weaver]
 (whispering)
