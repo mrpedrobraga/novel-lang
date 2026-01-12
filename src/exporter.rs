@@ -7,11 +7,11 @@ pub fn export_html(file: &File) -> String {
             main {
                 @if let Some(frontmatter) = &file.frontmatter {
                     div class="header" {
-                        @if let Some(title) = frontmatter.get("T") {
+                        @if let Some(title) = frontmatter.get("Title") {
                             div class="header-title" {(r_value(title))}
                         }
 
-                        @if let Some(subtitle) = frontmatter.get("S") {
+                        @if let Some(subtitle) = frontmatter.get("Subtitle") {
                             div class="header-subtitle" {(r_value(subtitle))}
                         }
                     }
@@ -117,7 +117,7 @@ fn r_item(scene_item: &SceneItem) -> impl Renderable {
                     (r_rich_text(rich_text))
                 }
                 SceneItem::DialogueBlock { speaker, block } => {
-                    a class="scene-item-new-current-speaker" href="#" {(format_contd(&speaker.referent))}
+                    a class="scene-item-new-current-speaker" href="#" {(format_contd(speaker.alias.as_ref().unwrap_or(&speaker.referent)))}
                     @for rich_text in block {
                         div class={
                             "scene-item-dialogue"

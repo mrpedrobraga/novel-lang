@@ -1,70 +1,71 @@
-Title: INNER VOICES PILOT
-Subtitle: by Pedro Braga
-Pitch: The Pilot to the entire series. Establishes the main themes: "Connecting with, understanding others different from you" with the battles full of personality, charming characters, the otherworlds and win-condition being you Spare your enemies; "The power of intentionality" with the different routes, and the happymost route requiring the player go out of their way unprompted to achieve it; "Connection with your Self as a source of powerful magic" in the slowly developed DREAM mechanic, and the character-specific gameplay. I'll be glad if people can connect with the aesthetics, the vibe, the humour and the emotional core of the game.
-Summary: Claire and her friends wake up, disoriented, in the aftermath of... something. In one moment, they were just going about their days... in the next, they were covered in dust and debris. Worse, the school is filled with these humanoid monsters, looming eerily above them. What the hell happened here? Claire is scared and alone. She just wants to be safe, she just wants to go home. Claire cries for help, and somebody listens; the nature of her rescuers she could've never anticipated: faeries from an other world who help kids in need. After resting for a short while, she's told the weirdest thing yet: she's worked with them before, as a guide of lost souls... and it's her destiny to return to EARTH and save it from... a mysterious entity who the elders refuse to reveal. Throughout her adventure back home, Claire is prompted about who she is and who she wants to be. She brings life, if temporary, to a ruined city, makes unlikely friends and foes, yet her most powerful obstacles are her own mindsets. Whether it's fatalism or toxic positivity, Claire avoids her problems and refuge to engage with unpalatable truths. But, through connecting with people, and seeing the "other side," Claire has a chance to grow into the hero she once thought she already was.
+T: INNER VOICES PILOT
+S: by Pedro Braga
 
 == That Rainy Night ==
 Where: Zenith Forest
 When: 2029-06-21
-Summary: Cold open with a faint memory. It was a friday. It was raining. And you didn't yet know how much everything was going to change.
+Summary: Cold open. A faint memory plays. It was a friday. It was raining. And you didn't yet know how much everything was going to change. In that one cold friday night. Intro chyron.
 
-// This memory is of the event that kickstarted this entire plot. Chekov's cold open.
+The game opens by showing the logos of the "publishers," against a black screen (like a movie) interspersed with scenes from an important memory. Ominous synthwave music plays.
+
+// This memory is of the event that kickstarted this entire plot. Right now, it's a Chekov's gun to be fired later.
 
 #BGM Overture
+#SFX An ambient sound of rain and sirens.
 
 #CHYRON a PEDRO BRAGA production
-#CAM Pan right to left.
+#CAM Panning right to left.
 
-Twilight shines through the misty rain that ominously dressed [[Zenith Forest]]... The leaves gently sway in the wind.
+The twilight shines through the drizzle mist ominously dressing Zenith forest.
 
-[Valentino|Boy (O.C.)]
+[Boy]
 It's okay... you're gonna be okay...
 
-#CHYRON Made with Godot Engine.
-#CAM Pan top to bottom.
+#CHYRON made with Godot Engine
+#CAM Panning top to bottom.
 
-[Valentino|Boy (O.C.)]
+[&]
 No no no no... Look at me...
 
 #CHYRON In partnership with Top Hat Studios
 #CAM Panning right to left.
 
-In the forest, a lone [[Treehouse|tree-house]], surrounded by a perturbing red-blue glow of police cars and an ambulance. A young man cradles a fallen friend, trying to soothe them in between his own tears. His voice is shaky and fragile.
+Here we can but make up the [[Treehouse]], at night, through the thick rain fog and the red-blue sirens.
 
-[Valentino|Boy]
+[&]
 Please... please...
 
-#BGM (silence)
-#TRANS Smash to black
+The audio cuts to silence, and the game cuts to a black screen, with the lone title in a sans-serif font.
+
 #CHYRON "INNER VOICES"
 
-[Valentino|Boy (V.O.)]
+[&]
 Wake up...
 
 #TRANS Cut to black.
 
 == First Day of School ==
 Where: Claire's Mind
-Summary: We cut to a new scene. Claire has just moved to a new town, and is getting ready for her first day of school. She's so excited! What kind of friends will she get to make? Unfortunately, things don't go as well as expected.
+Summary: We cut to a new scene. Claire is excited to move to a new school and make all sorts of new friends... but things from now on might not go as well as expected.
 
-#CAM We stay in darkness, for a few seconds.
+A black screen lingers for a few dramatic seconds. Then, slowly, calmly, deliberately, a voice is heard uttering a single command.
 
-From the back of our mind, we are urged forward into the newly beggining story with the assertion of a single command.
-
-[The Angel|???]
+[The Angel]
 WAKE.
 
 // The Angel always speaks in one-word sentences. This is the single word it utters in the entire first episode.
 
 #TRANS Cut.
 
-It's early morning. We see young [[Claire]] lazily splatted on her bed. The early morning casts onto her, framing her in golden light. For a moment, everything is calm.
+We see [[Claire]], wearing her signature plain red dress laying on her bed. The early morning sun projects onto her creating a lazy scene. See stays laying down for a second...
 
-Callously, the alarm goes off, ringing its inescapable tune. Claire slowly raises her hand, and the alarm clock follows from afar, suspended in mid-air, until she SLAMS the clock off the table. It hits the ground with a dry thud. Claire stays there for a moment then— oh! She jumps up, brushes off dust from her red dress, grabs her bag and rushes out of the door.
+...then her alarm sets off, she shoots awake. Annoyed, she slowly raises her hand and slams the clock off the table. It hits the ground with a dry thud. She stays there for a moment then— oh! Claire jumps up, brushes off dust from her red dress, grabs her bag and is good to go.
 
 #BGM Good Morning!
 
-Claire puts her shoes on, brushes her teeth and hair (using different utensils). She picks her cutest eraser and attaches it to her pencil. She's killing it. The young girl slides the handrail downstairs where [[Jim|her father]] is packing her school bag.
+Claire puts her shoes on, brushes her teeth and hair (using different utensils).
+
+She slides down the handrail and finds her father [[Jim]] packing her bag.
 
 [Jim]
 (continuing to pack her bag)
@@ -73,8 +74,8 @@ One of these days you're going to fall flat on your face.
 Claire recomposes herself.
 
 [&]
-You'd think that being so excited you would've gotten up earlier?
-Do you wanna be late for your FIRST DAY of school?
+You'd think if you're so excited you would've gotten up earlier?
+Do you wanna be late for your first day of school?
 
 [Claire]
 I'm sleeping as much as I can so I can be well-rested.
@@ -86,7 +87,7 @@ Ahhh I see, and then you're gonna get ready in five minutes?
 [Claire]
 Yeah!
 
-Jim kneels, levelling with his daughter. He holds her bag in his hands for her to get. She takes it from him and puts it on.
+Jim kneels with her packed bag.
 
 [Jim]
 Hey, I know it's... it's difficult being in a new place but...
@@ -99,7 +100,6 @@ Daddy it's okeyyy—
 Yep! I'm gonna make loads of friends and I'll show them all my cards!
 
 [Jim]
-(smirking)
 Oh, yeah?
 
 [Claire]
@@ -115,7 +115,7 @@ No, "riranossaurus" it's what's written in it.
 Also you don't have to make all your friends in one day, eh?
 You can stagger 'em a litt—
 
-Little Claire sillily shoves the card in his face.
+Claire "shoves" the cards in his face. /silly
 
 [Jim]
 Hey— what did we talk about— oh wait that IS what's written there.
@@ -124,35 +124,32 @@ Huh.
 [Claire]
 Eheheheh...
 
-Jim gets a plate from the couch and deploys a single toast in her mouth, bestows a kiss upon her tiny forehead and sends her off.
+Jim hands her now packed bag and deploys a single toast in her mouth, anime-style.
+Then, he sends her off.
 
-Little Claire steps outside, only to barely witness the yellow schoolbus departing without her.
+Little Claire steps outside, only to just witness the bus going off without her.
 
 [Claire]
 Bognaddit. Oh well...
 
-#BGM Summer Skies (R.O.)
+#BGM New Horizon BETA
 
-She skips and hums happily on her way to the school, greeting everyone in the way. The school has people in bikes, older aunties walking their dogs, couples and friends, and adorable retro cars. It's a postcard of 80's small town americana. A place you'd dream to live in.
+She skips and hums happily on her way to the school, greeting everyone in the way.
 
-#TRANS Smash
-#BGM (silence)
+On the way there, while you're walking, there will be a one second cutaway where Claire is walking with Andy, Bruno and Rodrick in a dark hallway in the school, all holding flashlights. Before you can process what happened, the game cuts back to little Claire walking and the music resumes.
 
-A flash. A dark, claustrophic hallway in an unknown building. Older Claire is walking, accompanied of three people, each holds a flashlight, the beams barely bringing any visibility into the eerie halls.
-
-#TRANS Smash
-#BGM Summer Skies (R.O.)
-
-Huh, what just happened? Well, that was odd. Anyways, Claire moves along until she reaches the facade of [[the school]]. She gasps at the imposing building before her in wonder of the place she'll get to visit every day.
+When she arrives at [[the school]], she stops for a moment to observe the building, awestruck.
 
 #CAM Pan upwards showing the imposing building, stopping to frame the waving canadian flag.
-
 #TRANS Dry cut
+
 #BGM Eerie
 
-Claire pops into the school. The atmosphere has shifted. The walls are bathed in a blood red hue. She doesn't seem bothered, and keeps marching down the corridor that seems just a bit too long.
+Claire walks into the school, unbothered by the strangely narrow corridor.
 
-The walls close in more and more, and the light from the outside wans into a sliver. Finally, at the end, two children stand, their faces obscured by a [[glitchy blob]]. Claire seems equally unbothered.
+The corridor doesn't seem to end. As she walks, the walls close in more and more.
+
+At the end of the corridor, two children stand — their faces obscured by some kind of [[scribble]] to which Claire does not react.
 
 [Claire]
 (enthusiastically)
@@ -176,28 +173,28 @@ I heard she eats spiders and bugs
 [Bully 2]
 Ew! That's gross!
 
-The walls and the floor twitch and shake. Her world is falling apart.
+The world begins to "glitch out."
+
+// Claire does not react to the world glitching out. When a character is in The Other Side by dreaming, they won't notice the weirdness of it all until the wake up or go [[lucid dreaming]].
 
 [Claire]
 No. No... I'm not a freak! I'm not a monster!
 I'm not a witch! I'm not.
 
-Claire holds her face with her hands, and pants harder and harder.
+Claire brings her hand to her head and starts breathing harder.
 The lockers' doors in the corridor begin to flutter open and shut.
 
 [&]
 I'm not a freak! I'm not! I'm normal!
 
-Claire yells and the outburst of emotion snaps every locker door open.
+Claire makes a big motion with her hands and snaps every locker door open psychically)
 
 [&]
 I'm NOT—
 
 #TRANS Smash cut
 
-Memories flash on-screen, too quickly to be comprehensible.
-
-// A few images of different events flash on screen. The fight against Valentino, them going into the school, and a giant pillar of blue light.
+A few images of different events flash on screen. The flash against Valentino, them going into the school, and a giant pillar of blue light.
 
 #TRANS Smash to black, then fade in slowly.
 
@@ -205,23 +202,20 @@ Memories flash on-screen, too quickly to be comprehensible.
 Where: New Horizon/School/Classroom C
 Summary: Claire, Andy and Bruno wake up in the aftermath of... something. Their memories are spliced and jumbled, and they're surrounded by bizarre figures. After a few moments in hiding, Andy and Claire decide to step out and try to leave.
 
-#BGM (silence)
-#CAM Fade from blurred black
+Claire slowly opens her eyes, feeling disoriented. An "eee" sound fills her ears. The camera is blurry. There's a lot of dust in the air.
 
-Her ears are ringing. There's dust in the air. Her eyes are tired and as she tries to open them they snap shut.
+You can barely make out the school patio, its torn ceiling and a hole in the ground. The exposed concrete and torn rebar makes it look like an apocalyptic site.
 
-You can barely make out a school's main hallway, its torn ceiling and walls, exposed concrete and torn rebar, and a gaping hole in the ground.
-
-A figure approaches her, of whom she can't quite make out before passing out.
+She sees someone walk toward her, before passing out again.
 
 #TRANS Slow fade out, then smash in.
 
-Claire zones in again, now in a classroom. [[Bruno Brooks|Bruno]] is hectically trying to dial on his phone, but it doesn't seem to be functioning.
+Claire is in a different room. [[Bruno Brooks|Bruno]] is here hectically trying to dial on his phone, but it doesn't seem to be working.
 
-Claire grunts softly; Bruno jumps at the noise.
+He turns around to walk away. Claire grunts softly, Bruno jumps at the noise.
 
 [Bruno]
-You're awake!
+You're awake.
 
 [Claire]
 Ugh... ow... my head...
@@ -229,16 +223,14 @@ Ugh... ow... my head...
 [Bruno]
 It's okay, it's okay, take your time.
 
-Bruno walks to the computer on the teacher's desk and starts pressing buttons anxiously.
+Bruno walks towards the computer on the teacher's desk and starts pressing buttons on it anxiously.
 
 [&]
 (shaking his leg)
-This is weird... I cannot get any signal here.
+This is weird... I'm not getting any signal here...
 I'm trying to contact anyone but it doesn't go through... Dang it!
 
-Claire carefully gets up, still feeling disoriented.
-
-%IF Claire talks to bruno.
+At the player's discretion (APD), Claire gets up and might check out Bruno.
 
 [Bruno]
 Uh... hey there...
@@ -253,52 +245,52 @@ Are YOU okay?
 [Claire]
 I don't know, man...
 
-Bruno walks over to the far side of the classroom and closes the window. The frame itself has bars that prevent prowling through, which usually serves as a mechanism of safety.
+Bruno walks over to the far side of the classroom to close the window.
 
 [&]
 This thing just won't stay shut, will it...?
 
-A slight pause.
+Claire pauses for a moment.
 
 [Claire]
 (double take)
 Wh- Huh???
-Did you hear that?
+
+Claire looks around and calms down.
+
+(APD) she walks toward the door.
+
+[Claire]
+Huh... Did you hear that?
 
 [Bruno]
 Hear what?
-
-%FINALLY
-
-%APD Claire approaches the classroom's door, and opens it a sliver to peek and see what's on the other side.
-
-[Bruno]
 Oh hey— I  wouldn't do that if I were you.
 When I got up I saw a *strange figure* outside so I brought you here into the classroom.
 
 [Claire]
-A figure—?
+A strange figure—?
 
 [Bruno]
 (annoyed)
-Yeah. It was some— I'm as lost as you are, k?
+I don't know! It was some— I'm as lost as you are, k?
 
 [Claire]
-I'll just taking a little peek.
+Just taking a little peek.
 
-Claire creeks the door open slowly.
+Claire starts to open the door very slowly.
 
 [Bruno]
 (whispering but also yelling)
 What? Don't "take a peek"!
 
-Bruno walks to Claire to pull her away from the door.
+Bruno gets off the computer and gets behind Claire.
 
 [Claire]
 (curious)
 Huh.
 
-Claire seems intrigued by what she sees on the far wall. Bruno's demeanor change, becoming equally curious.
+// What Claire is seeing through the door here is one of the glowing cracks of the tear.
 
 [Bruno]
 What? What did you see?
@@ -312,22 +304,27 @@ A WHAT? Let me see.
 [Claire]
 Shh. Quiet.
 
-Bruno inches tries to scoot the door open further, supporting his weight on Claire, that tries to push him away.
+Bruno inches the door very slowly and tries to open the door more to see, while Claire tries to push him away.
 
-CRASH! The room's window shoots open, letting in a burst of wind. Bruno and Claire are mortified.
+SUDDENLY! The room's window shoots open, letting in a burst of rain. Bruno and Claire get startled with exclamation speech bubbles over their heads.
 
 #TRANS Cut.
-#CAM frame classroom door from the outside.
 
-A comedically awkward pause.
+#CAM The camera shows the classroom door from the outside.
+
+A brief pause to let the new environment sink in (and for comedic timing)...
+
+...then the door SHOOTS open! Bruno and Claire come out dashing out of the room.
 
 #BGM Shadows and Horrors
 
-BLAM, the door shoots open! Bruno and Claire come out dashing out of the room. They run at full speed, Claire dashing ahead, until she's frozen by a ghoulish sight—humanoid shaped... things... floating in the air, with faces pointing upward and arms upstretched. Bruno runs into her, startling her into running again.
+Claire stops in shock at the ghoulish sights of people shrouded in darkness, facing upwards, arms stretched out and floating half a meter off the ground.
 
-They run and run, avoiding people and debris. They barge into the computer lab, and force the door shut with their weights.
+Bruno runs into her, startling her into running again.
 
-In the darkness, the two of them catch their breaths.
+They run and run trying to avoid the people, ending up in the computer lab, quickly closing the door behind them.
+
+The two of them catch their breaths.
 
 [Claire]
 *huff puff*
@@ -355,7 +352,7 @@ A slight pause.
 [Claire]
 No...
 
-The light clicks on. [[Andy]] has his feet on a computer table, holding the mouse cursor with his left hand.
+The light is turned on by [[Andy]], who has his feet on a table looking at a computer.
 
 [Andy]
 Let there be light!
@@ -421,36 +418,25 @@ Did you use to do that in high-school???
 No. But now I kinda wish I had the idea...
 I can imagine the posters...
 
-[Bruno]
-What about the destruction?
+Bruno annoyedly mumbles under his breath and frustratedly pulls out a random chair to sit on.
+Claire looks down to the ground, sweat still dripping from her cheek.
 
-[Andy]
-Not the worst thing that's happened to this school.
-That trip to the aquarium in third grade?
-
-[Bruno]
-What? How can you not be wor— oh yeah, the teachers dressed up as fish, right? What the hell was that, haha.
-
-Andy pulls out a chair and Bruno begrudgingly sits down. Claire looks down to the ground, sweat still dripping from her cheek.
-
-[Andy]
+[&]
 Hey, Claire, sit down, too.
 
 The two boys begin messing about in different computers.
 
-%IF Claire checks on Bruno:
+// You can inspect what each of them is doing on the computers. Narration will say:
 
 "Bruno is attempting to troubleshoot the internet connection, to hopefully contact someone."
 
-%IF Claire checks on Andy:
-
 "Andy is playing 'Space Pinball'."
 
-%FINALLY when she talks to Andy:
+// When you talk to Andy:
 
 [Andy]
 You know where they keep those TV-trolley thingies the substitute teachers use?
-We could probably watch a mov— oh, you mean to ask what we're gonna do to get out, eh?
+We could probably watch a mov— oh, you mean to ask what we're gonna do?
 
 [Claire]
 Yeah.
@@ -471,9 +457,10 @@ A man's gotta pee!
 He turns to Claire.
 
 [&]
-Oh, yeah, if any of those weirdos gets too close I can just bonk them with *this*.
+Oh, yeah, if any of those weirdos gets too close I can just bonk them with this:
+(he pulls out an umbrella seemingly out of nowhere)
 
-Andy pulls out an umbrella, seemingly out of knowhere. Bruno stares in disbelief.
+Bruno stares in disbelief.
 
 [&]
 So, what do you think?
@@ -496,18 +483,18 @@ What? Are you serious?
 
 [Claire]
 (scared, shrugging)
-A girl's gotta eat...
+I can't say no to chips...
 
 [Bruno]
 (incredulous)
 You two are idiots.
 
-Andy pops out of the chair, and pulls Claire to the computer lab's door.
+Andy stands up and walks with Claire to the computer lab's door.
 
 [Andy]
 On the count of three. Any movement and we bonk them on the head.
 
-Claire nods emphatically. She's ready.
+Claire nods and readies herself.
 
 [&]
 One... Two...
@@ -517,9 +504,7 @@ One... Two...
 
 Slight pause.
 
-Claire and Andy burst out of the room in formation attack whatever they see.
-
-#SFX The battle music starts and then "derails" like a paused tape cassette.
+Claire and Andy burst out of the room, ready to attack whatever they run into. The battle music starts and then "derails" like a paused tape cassette.
 
 [Andy]
 (doing fighting poses with Claire)
@@ -534,7 +519,7 @@ Maybe they went away to take a nap?
 Claire does not respond.
 
 == The Aftermath ==
-Summary: While walking around, Claire and Andy find a strange, glowing hole in the ground. The main hallway is destroyed. Something happened in this place. Something really wrong. After getting the key, they are ready to leave, but they get cornered by the Twisted and Claire runs away, accidentally falling into the tear.
+Summary: While walking around, Claire and Andy find a strange, glowing hole in the ground. The school patio shows signs of a struggle. Something happened in this place. Something really wrong. After getting the key, they are ready to leave, but they get cornered by the Twisted and Claire runs away, accidentally falling into the tear.
 
 #BGM The Aftermath
 
@@ -564,7 +549,7 @@ Andy pays for whatever you picked and gives it to you.
 [Andy]
 There, m'lady.
 
-(APD) The two of them continue to walk until they run into the main hallway, where all the previously floating entities seem to have gathered on the floor. They are standing still, staring at their feet, unmoving.
+(APD) The two of them continue to walk until they run into a patio, where all the previously floating entities seem to have gathered on the floor. They are standing still, staring at their feet, unmoving.
 
 At the middle of the patio, there's a deep, long hole, like something with a claw tore a wound into the plane of the floor.
 
